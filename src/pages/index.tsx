@@ -10,10 +10,10 @@ import React, {useState, useMemo, useEffect} from 'react';
 import Layout from '@theme/Layout';
 import clsx from 'clsx';
 
-import ShowcaseTagSelect, {
+import {
   readSearchTags,
 } from './_components/ShowcaseTagSelect';
-import ShowcaseFilterToggle, {
+import {
   Operator,
   readOperator,
 } from './_components/ShowcaseFilterToggle';
