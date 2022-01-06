@@ -25,10 +25,9 @@ import {useLocation} from '@docusaurus/router';
 
 import styles from './styles.module.css';
 
-const TITLE = 'ONLEARNING';
-const DESCRIPTION = 'Сайт с конспектами лекций по химии';
-const EDIT_URL =
-  'https://github.com/facebook/docusaurus/edit/main/website/src/data/users.tsx';
+const TITLE = 'ON LEARNING';
+const DESCRIPTION = 'Конспекты лекций по химии.';
+
 
 type UserState = {
   scrollTopPosition: number;
@@ -107,17 +106,18 @@ function useSelectedTags() {
 }
 
 function ShowcaseHeader() {
+  const link_button = <a
+    className="button button--primary"
+    href="https://yandex.ru"
+    target="_blank"
+    rel="noreferrer">
+    🙏 Пожалуйста
+  </a>;
   return (
     <section className="margin-top--lg margin-bottom--lg text--center">
       <h1>{TITLE}</h1>
       <p>{DESCRIPTION}</p>
-      <a
-        className="button button--primary"
-        href={EDIT_URL}
-        target="_blank"
-        rel="noreferrer">
-        🙏 Пожалуйста
-      </a>
+      {/* {link_button} */}
     </section>
   );
 }

@@ -53,9 +53,11 @@ function ShowcaseCardTag({tags}: {tags: TagType[]}) {
 
 const ShowcaseCard = memo(({user}: {user: User}) => (
   <li key={user.title} className="card shadow--md">
-    <div className={clsx('card__image', styles.showcaseCardImage)}>
-      <Image img={user.preview} alt={user.title} />
-    </div>
+    <a href={user.website}>
+      <div className={clsx('card__image', styles.showcaseCardImage)}>
+        <Image img={user.preview} alt={user.title} />
+      </div>
+    </a>
     <div className="card__body">
       <div className={clsx(styles.showcaseCardHeader)}>
         <h4 className={styles.showcaseCardTitle}>

@@ -136,7 +136,7 @@ const config = {
             items: [
               {
                 label: 'Вконтакте',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://vk.com/onlearning',
               },
               {
                 label: 'Телеграм',

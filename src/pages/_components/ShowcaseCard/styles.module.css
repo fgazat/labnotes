@@ -8,6 +8,9 @@
 .showcaseCardImage {
   overflow: hidden;
   height: 150px;
+  display: flex;
+  align-items: center; /*vertical align*/
+  justify-content: center; /*horizontal align*/
   border-bottom: 2px solid var(--ifm-color-emphasis-200);
 }
 

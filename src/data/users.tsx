@@ -85,7 +85,7 @@ const Users: User[] = [
     title: 'Химия ВМС',
     description:
       'О синтезе, свойствах и возможностях применения высокомолекулярных соединений.',
-    preview: require('./showcase/aide_jeune.png'),
+    preview: require('./subjects/vms.png'),
     website: 'vms/',
     tags: ['chemistry'],
   },
@@ -93,7 +93,7 @@ const Users: User[] = [
     title: 'Физическая химия',
     description:
       'О строении, структуре и превращениях химических веществ.',
-    preview: require('./showcase/aide_jeune.png'),
+    preview: require('./subjects/fizicheskaya.png'),
     website: 'fizicheskaya-himiya/',
     tags: ['chemistry'],
   },
@@ -101,7 +101,7 @@ const Users: User[] = [
     title: 'Квантовая химия',
     description:
       'О строении и свойствах химических соединений на основе квантовой механики.',
-    preview: require('./showcase/aide_jeune.png'),
+    preview: require('./subjects/kvantovaya.png'),
     website: 'kvantovaya-himiya/',
     tags: ['chemistry'],
   },
@@ -109,7 +109,7 @@ const Users: User[] = [
     title: 'Коллоидная химия',
     description:
       'О дисперсных состояниях и поверхностных явлениях на границе раздела фаз.',
-    preview: require('./showcase/aide_jeune.png'),
+    preview: require('./subjects/kolloidnaya.png'),
     website: 'kolloidnaya-himiya/',
     tags: ['chemistry'],
   },
