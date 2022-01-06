@@ -10,7 +10,6 @@ import React, {useState, useMemo, useEffect} from 'react';
 import Layout from '@theme/Layout';
 import clsx from 'clsx';
 
-import FavoriteIcon from '@site/src/components/svgIcons/FavoriteIcon';
 import ShowcaseTagSelect, {
   readSearchTags,
 } from './_components/ShowcaseTagSelect';
@@ -19,16 +18,15 @@ import ShowcaseFilterToggle, {
   readOperator,
 } from './_components/ShowcaseFilterToggle';
 import ShowcaseCard from './_components/ShowcaseCard';
-import {sortedUsers, Tags, TagList, User, TagType} from '@site/src/data/users';
-import ShowcaseTooltip from './_components/ShowcaseTooltip';
+import {sortedUsers, User, TagType} from '@site/src/data/users';
 
 import ExecutionEnvironment from '@docusaurus/ExecutionEnvironment';
 import {useLocation} from '@docusaurus/router';
 
 import styles from './styles.module.css';
 
-const TITLE = 'Docusaurus Site Showcase';
-const DESCRIPTION = 'List of websites people are building with Docusaurus';
+const TITLE = 'ONLEARNING';
+const DESCRIPTION = 'Сайт с конспектами лекций по химии';
 const EDIT_URL =
   'https://github.com/facebook/docusaurus/edit/main/website/src/data/users.tsx';
 
@@ -118,67 +116,14 @@ function ShowcaseHeader() {
         href={EDIT_URL}
         target="_blank"
         rel="noreferrer">
-        🙏 Please add your site
+        🙏 Пожалуйста
       </a>
     </section>
   );
 }
 
-function ShowcaseFilters() {
-  const filteredUsers = useFilteredUsers();
-  return (
-    <section className="container margin-top--l margin-bottom--lg">
-      <div className={clsx('margin-bottom--sm', styles.filterCheckbox)}>
-        <div>
-          <h2>Filters</h2>
-          <span>{`(${filteredUsers.length} site${
-            filteredUsers.length > 1 ? 's' : ''
-          })`}</span>
-        </div>
-        <ShowcaseFilterToggle />
-      </div>
-      <ul className={styles.checkboxList}>
-        {TagList.map((tag, i) => {
-          const {label, description, color} = Tags[tag];
-          const id = `showcase_checkbox_id_${tag}`;
-
-          return (
-            <li key={i} className={styles.checkboxListItem}>
-              <ShowcaseTooltip
-                id={id}
-                text={description}
-                anchorEl="#__docusaurus">
-                <ShowcaseTagSelect
-                  tag={tag}
-                  id={id}
-                  label={label}
-                  icon={
-                    tag === 'favorite' ? (
-                      <FavoriteIcon svgClass={styles.svgIconFavoriteXs} />
-                    ) : (
-                      <span
-                        style={{
-                          backgroundColor: color,
-                          width: 10,
-                          height: 10,
-                          borderRadius: '50%',
-                          marginLeft: 8,
-                        }}
-                      />
-                    )
-                  }
-                />
-              </ShowcaseTooltip>
-            </li>
-          );
-        })}
-      </ul>
-    </section>
-  );
-}
-
-const favoriteUsers = sortedUsers.filter((user) =>
-  user.tags.includes('favorite'),
+const chemistyUsers = sortedUsers.filter((user) =>
+  user.tags.includes('chemistry'),
 );
 const otherUsers = sortedUsers.filter(
   (user) => !user.tags.includes('favorite'),
@@ -209,24 +154,23 @@ function ShowcaseCards() {
                   'margin-bottom--md',
                   styles.showcaseFavoriteHeader,
                 )}>
-                <h2>Our favorites</h2>
-                <FavoriteIcon svgClass={styles.svgIconFavorite} />
+                <h2>🧪 Химия</h2>
               </div>
               <ul className={clsx('container', styles.showcaseList)}>
-                {favoriteUsers.map((user) => (
+                {chemistyUsers.map((user) => (
                   <ShowcaseCard key={user.title} user={user} />
                 ))}
               </ul>
             </div>
           </div>
-          <div className="container margin-top--lg">
+          {/* <div className="container margin-top--lg">
             <h2 className={styles.showcaseHeader}>All sites</h2>
             <ul className={styles.showcaseList}>
               {otherUsers.map((user) => (
                 <ShowcaseCard key={user.title} user={user} />
               ))}
             </ul>
-          </div>
+          </div> */}
         </>
       ) : (
         <div className="container">
@@ -246,7 +190,6 @@ function Showcase(): JSX.Element {
     <Layout title={TITLE} description={DESCRIPTION}>
       <main className="margin-vert--lg">
         <ShowcaseHeader />
-        <ShowcaseFilters />
         <ShowcaseCards />
       </main>
     </Layout>

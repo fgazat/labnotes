@@ -9,37 +9,6 @@
 
 import {sortBy} from '@site/src/utils/jsUtils';
 
-/*
- * ADD YOUR SITE TO THE DOCUSAURUS SHOWCASE:
- *
- * Requirements for adding your site to our showcase:
- * - It is a production-ready site with real content and decent customizations (different from the init templates)
- * - It is NOT a work-in-progress with empty pages
- * - It has a stable domain name (a Netlify/Vercel deploy preview is not allowed)
- *
- * Instructions:
- * - Add your site in the json array below
- * - Add a local image preview (decent screenshot of your Docusaurus site)
- * - Use relevant tags to qualify your site (read the tag descriptions below)
- * - The image MUST be added to the GitHub repository, and use `require("image")`
- * - Open a PR and check for reported CI errors
- *
- * Example PR: https://github.com/facebook/docusaurus/pull/3976
- *
- * If you edit this file through the Github interface, you can:
- * - Submit first your users.tsx edit PR
- * - This will create a branch on your Docusaurus fork (usually "patch-1")
- * - Go to https://github.com/<username>/docusaurus/tree/<branch>/website/src/data/showcase
- * - Drag-and-drop an image here to add it to your existing PR
- *
- * Please help us maintain this showcase page data:
- * - Update sites with wrong data
- * - Ensure site tags remains correct over time
- * - Remove sites not using Docusaurus anymore
- * - Add missing Docusaurus sites (if the site owner agreed)
- *
- */
-
 export type Tag = {
   label: string;
   description: string;
@@ -48,15 +17,11 @@ export type Tag = {
 
 export type TagType =
   | 'favorite'
-  | 'opensource'
-  | 'product'
-  | 'design'
-  | 'i18n'
-  | 'versioning'
-  | 'large'
-  | 'meta'
-  | 'personal'
-  | 'rtl';
+  | 'chemistry'
+  | 'physics'
+  | 'biology'
+  | 'programming'
+  | 'economy';
 
 export type User = {
   title: string;
@@ -81,65 +46,37 @@ export const Tags: Record<TagType, Tag> = {
   },
 
   // For open-source sites, a link to the source code is required
-  opensource: {
-    label: 'Open-Source',
-    description: 'Open-Source Docusaurus sites can be useful for inspiration!',
+  chemistry: {
+    label: 'Химия',
+    description: 'Химия — наука о веществах, их свойствах и превращениях.',
     color: '#39ca30',
   },
 
-  product: {
-    label: 'Product',
+  physics: {
+    label: 'Физика',
     description: 'Docusaurus sites associated to a commercial product!',
     color: '#dfd545',
   },
 
-  design: {
-    label: 'Design',
+  biology: {
+    label: 'Биология',
     description:
       'Beautiful Docusaurus sites, polished and standing out from the initial template!',
     color: '#a44fb7',
   },
 
-  i18n: {
-    label: 'I18n',
+  programming: {
+    label: 'Программирование',
     description:
       'Translated Docusaurus sites using the internationalization support with more than 1 locale.',
     color: '#127f82',
   },
 
-  versioning: {
-    label: 'Versioning',
+  economy: {
+    label: 'Экономика',
     description:
       'Docusaurus sites using the versioning feature of the docs plugin to manage multiple versions.',
     color: '#fe6829',
-  },
-
-  // Large Docusaurus sites, with a lot of content (> 200 pages, excluding versions)
-  large: {
-    label: 'Large',
-    description:
-      'Very large Docusaurus sites, including many more pages than the average!',
-    color: '#8c2f00',
-  },
-
-  meta: {
-    label: 'Meta',
-    description: 'Docusaurus sites of Meta (formerly Facebook) projects',
-    color: '#4267b2', // Facebook blue
-  },
-
-  personal: {
-    label: 'Personal',
-    description:
-      'Personal websites, blogs and digital gardens built with Docusaurus',
-    color: '#14cfc3',
-  },
-
-  rtl: {
-    label: 'RTL Direction',
-    description:
-      'Docusaurus sites using the right-to-left reading direction support.',
-    color: '#ffcfc3',
   },
 };
 
@@ -147,13 +84,13 @@ export const Tags: Record<TagType, Tag> = {
 // prettier-ignore
 const Users: User[] = [
   {
-    title: 'Aide Jeune',
+    title: 'Химия ВМС',
     description:
       'French Discord server that helps young people who have been bullied or feel bad about themselves',
     preview: require('./showcase/aide_jeune.png'),
     website: 'https://aidejeune.fr',
     source: 'https://github.com/AideJeune',
-    tags: ['opensource'],
+    tags: ['chemistry'],
   },
   /*
   Pro Tip: add your site in alphabetical order.
