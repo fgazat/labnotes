@@ -28,7 +28,6 @@ export type User = {
   description: string;
   preview: any;
   website: string;
-  source: string | null;
   tags: TagType[];
 };
 
@@ -86,10 +85,9 @@ const Users: User[] = [
   {
     title: 'Химия ВМС',
     description:
-      'French Discord server that helps young people who have been bullied or feel bad about themselves',
+      'О синтезе, свойствах и возможностях применения высокомолекулярных соединений.',
     preview: require('./showcase/aide_jeune.png'),
-    website: 'https://aidejeune.fr',
-    source: 'https://github.com/AideJeune',
+    website: 'vms/',
     tags: ['chemistry'],
   },
   /*
