@@ -139,7 +139,7 @@ const config = {
                 href: 'https://t.me/labnotesru',
               },
               {
-                label: 'Инстаграм автора сайта',
+                label: 'Мой инстаграм',
                 href: 'https://instagram.com/fgazat',
               },
             ],
