@@ -44,6 +44,10 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        googleAnalytics: {
+          trackingID: 'UA-85912797-1',
+          anonymizeIP: true,
+        },
       }),
     ],
   ],
@@ -132,14 +136,14 @@ const config = {
             items: [
               {
                 label: 'Вконтакте',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://vk.com/onlearning',
               },
               {
                 label: 'Телеграм',
                 href: 'https://t.me/labnotesru',
               },
               {
-                label: 'Инстаграм автора сайта',
+                label: 'Мой инстаграм',
                 href: 'https://instagram.com/fgazat',
               },
             ],
@@ -165,12 +169,16 @@ const config = {
         content:
         '🙏 Если вам нравится сайт, подпишитесь на наш <a target="_blank" rel="noopener noreferrer" href="https://t.me/labnotesru">Телеграм-канал</a>.',
       },
+      colorMode: {
+        disableSwitch: true
+      },
       hideableSidebar: true,
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),
+  plugins: ['@docusaurus/plugin-ideal-image'],
 };
 
 module.exports = config;
