@@ -65,7 +65,7 @@ const sidebars = {
       ],
     },
   ],
-  fizicheskayahimiya: [
+  fizicheskaya: [
     'fizicheskaya-himiya/index',
     'fizicheskaya-himiya/opredeleniya',
     {
@@ -113,6 +113,26 @@ const sidebars = {
         'fizicheskaya-himiya/himicheskoe-ravnovesie',
       ],
     },
+  ],
+  kvantovaya: [
+    'kvantovaya-himiya/index',
+    'kvantovaya-himiya/postulaty-kvantovoj-mekhaniki',
+    'kvantovaya-himiya/prostranstvo-volnovykh-funktsij',
+    'kvantovaya-himiya/osnovnye-operatory-kvantovoj-mekhaniki',
+    'kvantovaya-himiya/svojstva-operatorov',
+    'kvantovaya-himiya/operatornye-uravneniya',
+    'kvantovaya-himiya/matrichnoe-predstavlenie-operatorov',
+  ],
+  kolloidnaya: [
+    'kolloidnaya-himiya/index',
+    'kolloidnaya-himiya/opredeleniya',
+    'kolloidnaya-himiya/opticheskie-svojstva',
+    'kolloidnaya-himiya/poverkhnostnye-yavleniya',
+    'kolloidnaya-himiya/metody-opredeleniya-poverkhnostnogo-natyazheniya',
+    'kolloidnaya-himiya/osobye-svojstva-poverhnosti-tverdogo-tela',
+    'kolloidnaya-himiya/adsorbciya',
+    'kolloidnaya-himiya/teorii-adsorbcii',
+    'kolloidnaya-himiya/klassifikatsiya-sorbentov',
   ]
 };
 

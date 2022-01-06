@@ -82,6 +82,16 @@ const config = {
                 docId: 'fizicheskaya-himiya/index',
                 label: 'Физическая химия',
               },
+              {
+                type: 'doc',
+                docId: 'kolloidnaya-himiya/index',
+                label: 'Коллоидная химия',
+              },
+              {
+                type: 'doc',
+                docId: 'kvantovaya-himiya/index',
+                label: 'Квантовая химия',
+              },
             ],
           },
 
