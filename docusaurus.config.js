@@ -6,6 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const math = require('remark-math');
 const katex = require('rehype-katex');
 
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'On Learning',
@@ -67,12 +68,24 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
-            docId: 'vms/index',
+            type: 'dropdown',
+            label: 'Химия',
             position: 'left',
-            label: 'Tutorial',
+            items: [
+              {
+                type: 'doc',
+                docId: 'vms/index',
+                label: 'ВМС',
+              },
+              {
+                type: 'doc',
+                docId: 'fizicheskaya-himiya/index',
+                label: 'Физическая химия',
+              },
+            ],
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+
+          {to: '/blog', label: 'Блог', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -125,6 +138,12 @@ const config = {
         ],
         copyright: `Copyright © ${new Date().getFullYear()} ON LEARNING.`,
       },
+      announcementBar: {
+        id: 'announcementBar-1',
+        content:
+        '🙏 Если вам нравится сайт, подпишитесь на наш <a target="_blank" rel="noopener noreferrer" href="https://t.me/labnotesru">Телеграм-канал</a>.',
+      },
+      hideableSidebar: true,
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,

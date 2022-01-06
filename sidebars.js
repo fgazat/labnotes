@@ -25,6 +25,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Полимеризация',
+      collapsed: false, 
       items: [
         'vms/polimerizaciya',
         'vms/radikalnaya-polimerizaciya',
@@ -40,6 +41,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Реакции звеньев',
+      collapsed: false, 
       items: [
         'vms/polimeranalogichnye-prevrashcheniya',
         'vms/vnutrimolekulyarnye-prevrashcheniya',
@@ -48,6 +50,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Реакции макромолекул',
+      collapsed: false, 
       items: [
         'vms/reakcii-destrukcii',
         'vms/reakcii-sshivaniya',
@@ -56,12 +59,61 @@ const sidebars = {
     {
       type: 'category',
       label: 'Структура полимеров',
+      collapsed: false, 
       items: [
         'vms/gibkost-cepi-polimera',
       ],
     },
   ],
-
+  fizicheskayahimiya: [
+    'fizicheskaya-himiya/index',
+    'fizicheskaya-himiya/opredeleniya',
+    {
+      type: 'category',
+      label: 'Первое начало термодинамики',
+      link: {type: 'doc', id: 'fizicheskaya-himiya/pervoe-nachalo-termodinamiki'},
+      collapsed: false, 
+      items: [
+        'fizicheskaya-himiya/termicheskie-uravneniya-sostoyaniya',
+        'fizicheskaya-himiya/termicheskie-koehfficienty',
+        'fizicheskaya-himiya/primenenie-pervogo-nachala-termodinamiki',
+        'fizicheskaya-himiya/zakon-kirhgofa',
+        'fizicheskaya-himiya/sootnosheniya-teplovyh-ehffektov',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Второе начало термодинамики',
+      link: {type: 'doc', id: 'fizicheskaya-himiya/vtoroe-nachalo-termodinamiki'},
+      collapsed: false, 
+      items: [
+        'fizicheskaya-himiya/kaloricheskie-vyrazheniya-vtorogo-nachala-termodinamiki',
+        'fizicheskaya-himiya/izmenenie-ehntropii',
+        'fizicheskaya-himiya/statisticheskij-smysl-ehntropii',
+        'fizicheskaya-himiya/problema-opredeleniya-absolyutnogo-znacheniya-ehntropii',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Термодинамические потенциалы',
+      collapsed: false, 
+      items: [
+        'fizicheskaya-himiya/kriterii-napravlennosti',
+        'fizicheskaya-himiya/harakteristicheskie-funkcii',
+        'fizicheskaya-himiya/termodinamicheskie-potencialy',
+        'fizicheskaya-himiya/zavisimost-himicheskogo-potenciala',
+        'fizicheskaya-himiya/izmenenie-funkcii-gibbsa',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Химическое равновесие',
+      collapsed: false, 
+      items: [
+        'fizicheskaya-himiya/himicheskoe-ravnovesie',
+      ],
+    },
+  ]
 };
 
 module.exports = sidebars;
