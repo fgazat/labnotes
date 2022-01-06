@@ -97,8 +97,8 @@ const config = {
 
           {to: '/blog', label: 'Блог', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://www.tinkoff.ru/cf/VsoSs5bulN',
+            label: 'Поддержать',
             position: 'right',
           },
         ],
@@ -107,41 +107,53 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Химия',
             items: [
               {
-                label: 'Tutorial',
-                to: 'vms/index',
+                to: 'vms/',
+                label: 'ВМС',
+              },
+              {
+                to: 'fizicheskaya-himiya/',
+                label: 'Физическая химия',
+              },
+              {
+                to: 'kolloidnaya-himiya/',
+                label: 'Коллоидная химия',
+              },
+              {
+                to: 'kvantovaya-himiya/',
+                label: 'Квантовая химия',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Социальные сети',
             items: [
               {
-                label: 'Stack Overflow',
+                label: 'Вконтакте',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Телеграм',
+                href: 'https://t.me/labnotesru',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Инстаграм автора сайта',
+                href: 'https://instagram.com/fgazat',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Еще',
             items: [
               {
                 label: 'Блог',
                 to: '/blog',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Поддержать',
+                href: 'https://www.tinkoff.ru/cf/VsoSs5bulN',
               },
             ],
           },
