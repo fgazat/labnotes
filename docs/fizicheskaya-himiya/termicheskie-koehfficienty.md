@@ -2,7 +2,7 @@
 
 ![](../images/fh/termicheskie-koehfficienty/termicheskie-koehfficienty_clip_image001.png)
 
-Под симбатной связью понимают положительную связь (т.е. производная \> 0), а под антибатной — отрицательную связь.
+Под симбатной связью понимают положительную связь (т.е. производная > 0), а под антибатной — отрицательную связь.
 
 ![](../images/fh/termicheskie-koehfficienty/termicheskie-koehfficienty_clip_image001_0000.png)
 
