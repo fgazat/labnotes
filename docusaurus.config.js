@@ -44,6 +44,10 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        googleAnalytics: {
+          trackingID: 'UA-85912797-1',
+          anonymizeIP: true,
+        },
       }),
     ],
   ],
@@ -164,6 +168,9 @@ const config = {
         id: 'announcementBar-1',
         content:
         '🙏 Если вам нравится сайт, подпишитесь на наш <a target="_blank" rel="noopener noreferrer" href="https://t.me/labnotesru">Телеграм-канал</a>.',
+      },
+      colorMode: {
+        disableSwitch: true
       },
       hideableSidebar: true,
       prism: {

@@ -79,7 +79,6 @@ export const Tags: Record<TagType, Tag> = {
   },
 };
 
-// Add your site to this list
 // prettier-ignore
 const Users: User[] = [
   {
@@ -90,10 +89,30 @@ const Users: User[] = [
     website: 'vms/',
     tags: ['chemistry'],
   },
-  /*
-  Pro Tip: add your site in alphabetical order.
-  Appending your site here (at the end) is more likely to produce Git conflicts.
-   */
+  {
+    title: 'Физическая химия',
+    description:
+      'О строении, структуре и превращениях химических веществ.',
+    preview: require('./showcase/aide_jeune.png'),
+    website: 'fizicheskaya-himiya/',
+    tags: ['chemistry'],
+  },
+  {
+    title: 'Квантовая химия',
+    description:
+      'О строении и свойствах химических соединений на основе квантовой механики.',
+    preview: require('./showcase/aide_jeune.png'),
+    website: 'kvantovaya-himiya/',
+    tags: ['chemistry'],
+  },
+  {
+    title: 'Коллоидная химия',
+    description:
+      'О дисперсных состояниях и поверхностных явлениях на границе раздела фаз.',
+    preview: require('./showcase/aide_jeune.png'),
+    website: 'kolloidnaya-himiya/',
+    tags: ['chemistry'],
+  },
 ];
 
 export const TagList = Object.keys(Tags) as TagType[];
