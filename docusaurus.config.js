@@ -3,10 +3,13 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const math = require('remark-math');
+const katex = require('rehype-katex');
+
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'On Learning',
   tagline: 'Dinosaurs are cool',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
@@ -26,10 +29,17 @@ const config = {
       ({
         docs: {
           routeBasePath: '/',
-          sidebarPath: require.resolve('./sidebars.js')
+          sidebarPath: require.resolve('./sidebars.js'),
+          remarkPlugins: [math],
+          rehypePlugins: [katex],
         },
         blog: {
           showReadingTime: true,
+          // blogTitle: 'Docusaurus blog!',
+          // blogDescription: 'A Docusaurus powered blog!',
+          blogSidebarTitle: 'Все посты',
+          blogSidebarCount: 'ALL',
+          postsPerPage: 'ALL',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -38,26 +48,57 @@ const config = {
     ],
   ],
 
+  stylesheets: [
+    {
+      href: 'https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css',
+      integrity:
+        'sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc',
+      crossorigin: 'anonymous',
+    },
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'ON LEARNING',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'ON LEARNING Logo',
           src: 'img/logo.svg',
         },
         items: [
           {
-            type: 'doc',
-            docId: 'vms/index',
+            type: 'dropdown',
+            label: 'Химия',
             position: 'left',
-            label: 'Tutorial',
+            items: [
+              {
+                type: 'doc',
+                docId: 'vms/index',
+                label: 'ВМС',
+              },
+              {
+                type: 'doc',
+                docId: 'fizicheskaya-himiya/index',
+                label: 'Физическая химия',
+              },
+              {
+                type: 'doc',
+                docId: 'kolloidnaya-himiya/index',
+                label: 'Коллоидная химия',
+              },
+              {
+                type: 'doc',
+                docId: 'kvantovaya-himiya/index',
+                label: 'Квантовая химия',
+              },
+            ],
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+
+          {to: '/blog', label: 'Блог', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://www.tinkoff.ru/cf/VsoSs5bulN',
+            label: 'Поддержать',
             position: 'right',
           },
         ],
@@ -66,47 +107,65 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Химия',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                to: 'vms/',
+                label: 'ВМС',
+              },
+              {
+                to: 'fizicheskaya-himiya/',
+                label: 'Физическая химия',
+              },
+              {
+                to: 'kolloidnaya-himiya/',
+                label: 'Коллоидная химия',
+              },
+              {
+                to: 'kvantovaya-himiya/',
+                label: 'Квантовая химия',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Социальные сети',
             items: [
               {
-                label: 'Stack Overflow',
+                label: 'Вконтакте',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Телеграм',
+                href: 'https://t.me/labnotesru',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Инстаграм автора сайта',
+                href: 'https://instagram.com/fgazat',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Еще',
             items: [
               {
-                label: 'Blog',
+                label: 'Блог',
                 to: '/blog',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Поддержать',
+                href: 'https://www.tinkoff.ru/cf/VsoSs5bulN',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} ON LEARNING.`,
       },
+      announcementBar: {
+        id: 'announcementBar-1',
+        content:
+        '🙏 Если вам нравится сайт, подпишитесь на наш <a target="_blank" rel="noopener noreferrer" href="https://t.me/labnotesru">Телеграм-канал</a>.',
+      },
+      hideableSidebar: true,
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
