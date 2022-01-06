@@ -10,9 +10,9 @@
 
 ![](../images/kvh/matrichnoe-predstavlenie-operatorov/matrica_clip_image001_0000.png)
 
-Подход в том, что операторы могут быть разные, но все они выражаются просто таблицей чисел. При этом все действия унифицируются \(образуют единую систему\).
+Подход в том, что операторы могут быть разные, но все они выражаются просто таблицей чисел. При этом все действия унифицируются (образуют единую систему).
 
-Вспомним основные действия над матрицами \(подробнее можно прочитать в литературе, или на сайтах [mathprofi.ru](http://www.mathprofi.ru/deistviya_s_matricami.html), [simumath.net](http://www.simumath.net/library/book.html?code=Matr_Alg_introduction)\):
+Вспомним основные действия над матрицами (подробнее можно прочитать в литературе, или на сайтах [mathprofi.ru](http://www.mathprofi.ru/deistviya_s_matricami.html), [simumath.net](http://www.simumath.net/library/book.html?code=Matr_Alg_introduction)):
 
 ## Умножение матрицы на число
 
@@ -22,9 +22,9 @@
 
 ![](../images/kvh/matrichnoe-predstavlenie-operatorov/matrica_clip_image001_0002.png)
 
-## Сумма \(разность\) матриц
+## Сумма (разность) матриц
 
-Не все матрицы можно складывать \(вычитать\), а только те, которые одинаковы по размеру.
+Не все матрицы можно складывать (вычитать), а только те, которые одинаковы по размеру.
 
 ![](../images/kvh/matrichnoe-predstavlenie-operatorov/matrica_clip_image001_0003.png)
 

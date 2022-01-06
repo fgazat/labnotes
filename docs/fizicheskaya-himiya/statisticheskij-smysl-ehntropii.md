@@ -6,7 +6,7 @@
 
 **Под макросостоянием системы понимают** данный способ распределения всех молекул по всем имеющимся уровням энергии **без учета** различимости молекул.
 
-Модельная система: 2 уровня энергии \(E1 и E2\), на каждом уровне может находиться только 2 частицы.
+Модельная система: 2 уровня энергии (E1 и E2), на каждом уровне может находиться только 2 частицы.
 
 ![](../images/fh/statisticheskij-smysl-ehntropii/statisticheskij-smysl-ehntropii_clip_image001.png)
 
@@ -38,11 +38,11 @@ S — экстенсивная функция;
 
 ![](../images/fh/statisticheskij-smysl-ehntropii/statisticheskij-smysl-ehntropii_clip_image001_0004.png)
 
-1\) дифференцируем по W1, когда W2 = const
+1) дифференцируем по W1, когда W2 = const
 
 ![](../images/fh/statisticheskij-smysl-ehntropii/statisticheskij-smysl-ehntropii_clip_image001_0005.png)
 
-2\) Дифференцируем по W2, когда W1 = const
+2) Дифференцируем по W2, когда W1 = const
 
 ![](../images/fh/statisticheskij-smysl-ehntropii/statisticheskij-smysl-ehntropii_clip_image001_0006.png)
 

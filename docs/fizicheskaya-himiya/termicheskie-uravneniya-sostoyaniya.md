@@ -48,13 +48,13 @@
 
 ![](../images/fh/termicheskie-uravneniya-sostoyaniya/termicheskie-uravneniya-sostoyaniya_clip_image001_0015.png)
 
-Применение связи между калорическими коэффициентами в термодинамике \(допускаем отсутствие химической реакции для простоты\):
+Применение связи между калорическими коэффициентами в термодинамике (допускаем отсутствие химической реакции для простоты):
 
 ![](../images/fh/termicheskie-uravneniya-sostoyaniya/termicheskie-uravneniya-sostoyaniya_clip_image001_0019.png)
 
 Закон Джоуля
 
-Внутренняя энергия идеального газа зависит только от температуры \(т.е. не зависит от давления и объема\)
+Внутренняя энергия идеального газа зависит только от температуры (т.е. не зависит от давления и объема)
 
 ![](../images/fh/termicheskie-uravneniya-sostoyaniya/termicheskie-uravneniya-sostoyaniya_clip_image001_0020.png)
 
