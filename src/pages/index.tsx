@@ -24,10 +24,8 @@ import ExecutionEnvironment from '@docusaurus/ExecutionEnvironment';
 import {useLocation} from '@docusaurus/router';
 
 import styles from './styles.module.css';
-
 const TITLE = 'ON LEARNING';
-const DESCRIPTION = 'Конспекты лекций по химии.';
-
+const DESCRIPTION = 'Конспекты лекций по химии';
 
 type UserState = {
   scrollTopPosition: number;
@@ -106,13 +104,7 @@ function useSelectedTags() {
 }
 
 function ShowcaseHeader() {
-  const link_button = <a
-    className="button button--primary"
-    href="https://yandex.ru"
-    target="_blank"
-    rel="noreferrer">
-    🙏 Пожалуйста
-  </a>;
+
   return (
     <section className="margin-top--lg margin-bottom--lg text--center">
       <h1>{TITLE}</h1>
@@ -121,6 +113,18 @@ function ShowcaseHeader() {
     </section>
   );
 }
+
+function ShowcaseFooter() {
+  const TEXT = "Если наш сайт помог вам, расскажите о нем одногруппникам, добавьте сайт в закладки и делитесь ссылками через социальные сети."
+  return (
+    <section className={clsx("margin-top--lg", "margin-bottom--lg", "text--center", "container")}>
+      <p>{TEXT}</p>
+      <p>Сайт создан для помощи студентам в учебе.</p>
+      {/* {link_button} */}
+    </section>
+  );
+}
+
 
 const chemistyUsers = sortedUsers.filter((user) =>
   user.tags.includes('chemistry'),
@@ -191,6 +195,7 @@ function Showcase(): JSX.Element {
       <main className="margin-vert--lg">
         <ShowcaseHeader />
         <ShowcaseCards />
+        <ShowcaseFooter />
       </main>
     </Layout>
   );
