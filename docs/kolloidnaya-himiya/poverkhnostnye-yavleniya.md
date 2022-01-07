@@ -66,7 +66,9 @@ $$
 
 Чем выше температура, тем разница между фазами меньше (чем выше кинетическая энергия частиц, тем меньше нужно затратить энергии  дополнительно). С ростом температуры поверхностное натяжение падает (зависимость линейная).
 
-![Зависимость поверхностного натяжения от температуры](../kolloidnaya-himiya/images/poverkhnostnye-yavleniya/surface_clip_image001_0006.png)
+$$
+\sigma_T=\sigma_{T_0}-\beta(T-T_0)
+$$
 
 ![Зависимость поверхностного натяжения от температуры](images/poverkhnostnye-yavleniya/surface_clip_image001_0007.png) ![Плотность газа и жидкости в критической точке](images/poverkhnostnye-yavleniya/surface_clip_image001_0008.png)
 
@@ -78,15 +80,57 @@ $σ = f (r_{кр})$
 
 ![Зависимость поверхностного натяжения от кривизны поверхности](images/poverkhnostnye-yavleniya/surface_clip_image001_0009.png)
 
+Вывод $\Delta P$:
+
+$$
+\left.
+    \begin{array}{ccc}
+        A = \Delta P_i dV\\
+        A = \sigma dS
+    \end{array}
+\right\} \Longrightarrow \Delta P_i dV = \sigma dS
+$$
+
+Получим выражения $dV$ и $dS$
+
+$$
+V=4/3\pi r^3 \qquad dV=4\pi r^2 dr \\
+S=4\pi r^2 \qquad dS=8\pi r dr
+$$
+
+Подставим выражения в уравнение
+
+$$
+\Delta P_i 4\pi r^2 dr = \sigma 8\pi r dr
+$$
+
+Упростим полученное уравнение
+
+$$
+\Delta P_i = \frac{2\sigma}{r}
+$$
+
+$$
+P_{i, вып} = P_i + \frac{2\sigma}{r}
+$$
+
+$$
+P_{i, вог} = P_i - \frac{2\sigma}{r}
+$$
+
 Если поверхность неправильной формы, то вводится средняя кривизна:
 
-### Капиллярные явления
+<!---TODO: подставить уравнение. Найти-->
+## Капиллярные явления
 
-![](images/poverkhnostnye-yavleniya/surface_clip_image001_0016.png) ![](images/poverkhnostnye-yavleniya/surface_clip_image001_0017.png)
+![](images/poverkhnostnye-yavleniya/surface_clip_image001_0016.png) 
+
+![](images/poverkhnostnye-yavleniya/surface_clip_image001_0017.png)
 
 Поднятие/опускание жидкости в тонком капилляре имеет высокое практическое значение (подъем грунтовых вод, пропитка и окраска).
 
-![](images/poverkhnostnye-yavleniya/surface_clip_image001_0018.png)
+$$
+F_{действ}=\frac{2\sigma}{r}\pi R^2,
+$$
 
-где r — радиус кривизны окружности, R — радиус капилляра.
-
+где $r$ — радиус кривизны окружности, $R$ — радиус капилляра.
