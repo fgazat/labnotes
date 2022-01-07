@@ -2,29 +2,29 @@
 
 Критерии направленности и глубины протекания самопроизвольных процессов в неизолированных системах
 
-![](../images/fh/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001.png)
+![](images/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001.png)
 
 **1. Пусть T, V = const**
 
-![](../images/fh/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0000.png)
+![](images/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0000.png)
 
 Функция Гельмгольца (свободная энергия Гельмгольца):
 
-![](../images/fh/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0001.png)
+![](images/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0001.png)
 
-![](../images/fh/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0002.png)
+![](images/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0002.png)
 
 Для обратимого процесса:
 
-![](../images/fh/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0003.png)
+![](images/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0003.png)
 
-![](../images/fh/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0004.png)
+![](images/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0004.png)
 
-![](../images/fh/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0005.png)
+![](images/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0005.png)
 
-![](../images/fh/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0006.png)
+![](images/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0006.png)
 
-![](../images/fh/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0007.png)
+![](images/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0007.png)
 
 Вводится понятие "*условный экстремум*". Различают **условный абсолютный минимум** и **условный относительный минимум**.
 
@@ -36,15 +36,15 @@
 
 **2. Пусть p, T = const**
 
-![](../images/fh/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0008.png)
+![](images/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0008.png)
 
 Функция Гиббса (свободная энтальпия Гиббса):
 
-![](../images/fh/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0009.png)
+![](images/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0009.png)
 
-![](../images/fh/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0010.png)
+![](images/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0010.png)
 
-![](../images/fh/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0011.png)
+![](images/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0011.png)
 
 Также имеются условный абсолютный минимум и условный относительный минимум, но в условиях постоянства давления и температуры.
 

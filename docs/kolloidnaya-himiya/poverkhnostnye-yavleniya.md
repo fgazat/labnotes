@@ -6,7 +6,7 @@
 
 **Внутреннее давление Pi** — равнодействующая сила межмолекулярного притяжения (взаимодействия) поверхностных молекул с молекулами фазы, направленная перпендикулярно к поверхности и отнесенная к единице площади поверхности.
 
-![Внутреннее давление](../images/kolh/poverkhnostnye-yavleniya/surface_clip_image001.png)
+![Внутреннее давление](images/poverkhnostnye-yavleniya/surface_clip_image001.png)
 
 Наличие внутреннего давления приводит к тому, что:
 
@@ -17,21 +17,21 @@
 
 Двусторонняя пленка жидкости нанесена на проволочную рамку шириной l, одна сторона которой может перемещаться (без трения) вверх или вниз. В отсутствие внешней силы поверхность пленки самопроизвольно сокращается под действием поверхностного натяжения.
 
-![Опыт Дюпре](../images/kolh/poverkhnostnye-yavleniya/surface_clip_image001_0000.png)
+![Опыт Дюпре](images/poverkhnostnye-yavleniya/surface_clip_image001_0000.png)
 
 **Поверхностное натяжение жидкости** равно работе по созданию единицы поверхности.
 
-![Поверхностное натяжение](../images/kolh/poverkhnostnye-yavleniya/surface_clip_image001_0001.png)
+![Поверхностное натяжение](images/poverkhnostnye-yavleniya/surface_clip_image001_0001.png)
 
 Также поверхностное натяжение представляет собой силу, стремящуюся сократить поверхность, отнесенную к единице поверхности и направленную по касательной к ней.
 
 ## Взаимосвязь внутреннего давления и поверхностного натяжения
 
-![Взаимосвязь внутреннего давления и поверхностного натяжения](../images/kolh/poverkhnostnye-yavleniya/surface_clip_image001_0002.png)
+![Взаимосвязь внутреннего давления и поверхностного натяжения](images/poverkhnostnye-yavleniya/surface_clip_image001_0002.png)
 
 Работа по разделению равна:
 
-![Вывод уравнения связи](../images/kolh/poverkhnostnye-yavleniya/surface_clip_image001_0003.png) ![Уравнение связи внутреннего давления и поверхностного натяжения](../images/kolh/poverkhnostnye-yavleniya/surface_clip_image001_0005.png)
+![Вывод уравнения связи](images/poverkhnostnye-yavleniya/surface_clip_image001_0003.png) ![Уравнение связи внутреннего давления и поверхностного натяжения](images/poverkhnostnye-yavleniya/surface_clip_image001_0005.png)
 
 ## Влияние различных факторов на Pi и σ
 
@@ -52,23 +52,23 @@
 
 Чем выше температура, тем разница между фазами меньше (чем выше кинетическая энергия частиц, тем меньше нужно затратить энергии  дополнительно). С  ростом температуры поверхностное натяжение падает (зависимость линейная).
 
-![Зависимость поверхностного натяжения от температуры](../images/kolh/poverkhnostnye-yavleniya/surface_clip_image001_0006.png) ![Зависимость поверхностного натяжения от температуры](../images/kolh/poverkhnostnye-yavleniya/surface_clip_image001_0007.png) ![Плотность газа и жидкости в критической точке](../images/kolh/poverkhnostnye-yavleniya/surface_clip_image001_0008.png)
+![Зависимость поверхностного натяжения от температуры](../kolloidnaya-himiya/images/poverkhnostnye-yavleniya/surface_clip_image001_0006.png) ![Зависимость поверхностного натяжения от температуры](images/poverkhnostnye-yavleniya/surface_clip_image001_0007.png) ![Плотность газа и жидкости в критической точке](images/poverkhnostnye-yavleniya/surface_clip_image001_0008.png)
 
 ### 3. σ = f (rкр)
 
 Поверхностное натяжение зависит от кривизны поверхности.
 
-![Зависимость поверхностного натяжения от кривизны поверхности](../images/kolh/poverkhnostnye-yavleniya/surface_clip_image001_0009.png)
+![Зависимость поверхностного натяжения от кривизны поверхности](images/poverkhnostnye-yavleniya/surface_clip_image001_0009.png)
 
 Если поверхность неправильной формы, то вводится средняя кривизна:
 
 ### Капиллярные явления
 
-![](../images/kolh/poverkhnostnye-yavleniya/surface_clip_image001_0016.png) ![](../images/kolh/poverkhnostnye-yavleniya/surface_clip_image001_0017.png)
+![](images/poverkhnostnye-yavleniya/surface_clip_image001_0016.png) ![](images/poverkhnostnye-yavleniya/surface_clip_image001_0017.png)
 
 Поднятие/опускание жидкости в тонком капилляре имеет высокое практическое значение (подъем грунтовых вод, пропитка и окраска).
 
-![](../images/kolh/poverkhnostnye-yavleniya/surface_clip_image001_0018.png)
+![](images/poverkhnostnye-yavleniya/surface_clip_image001_0018.png)
 
 где r — радиус кривизны окружности, R — радиус капилляра.
 

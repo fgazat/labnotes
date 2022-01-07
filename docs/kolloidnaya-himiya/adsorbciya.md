@@ -12,7 +12,7 @@
 
 Для количественной оценки адсорбции используется следующее понятие: адсорбция (а) — это количество вещества адсорбированного на поверхности твердого тела отнесенное к единице массы твердого тела.
 
-![Уравнение рассчета адсорбции: a = nu / m](../images/kolh/adsorbciya/Razdel_clip_image001_0003.png)
+![Уравнение рассчета адсорбции: a = nu / m](images/adsorbciya/Razdel_clip_image001_0003.png)
 
 В знаменателе стоит масса, а не площадь, т. к. для твердого тела трудно определить площадь поверхности.
 
@@ -22,13 +22,13 @@
 
 Энергия взаимодействия твердого тела с газом определяется суммой энергий Ван-дер-Ваальсового взаимодействия и водородных связей.
 
-![](../images/kolh/adsorbciya/Razdel_clip_image001_0004.png)
+![](images/adsorbciya/Razdel_clip_image001_0004.png)
 
 , где Uдисп — энергия дисперсионного взаимодействия, Uор — ориентационного взаимодействия, Uдисп — индукционного взаимодействия, UH+ — энергия водородных связей
 
 Виды взаимодействия зависят от природы поверхности и газа.
 
-![](../images/kolh/adsorbciya/Razdel_clip_image001_0005.png)
+![](images/adsorbciya/Razdel_clip_image001_0005.png)
 
 Адсорбционные силы более дальнодействующие.
 
@@ -38,7 +38,7 @@
 
     Адсорбция — экзотермический процесс (ΔH<0).
 
-    ![](../images/kolh/adsorbciya/Razdel_clip_image001_0006.png)
+    ![](images/adsorbciya/Razdel_clip_image001_0006.png)
 
     Экспериментально определяют величину ΔH используя калориметр.
 
@@ -63,7 +63,7 @@
 
     Метод основан на определении адсорбции по изменению массы сорбента до и после сорбции. Система требует высокого вакуума.
 
-    ![](../images/kolh/adsorbciya/Razdel_clip_image001_0007.png)
+    ![](images/adsorbciya/Razdel_clip_image001_0007.png)
 
     Где m0 — масса до адсорбции; М — молекулярная масса адсорбата; m-m0 — привес.
 
@@ -71,34 +71,34 @@
 
     Метод основан на определении адсорбции по увеличению адсорбата, заключенного в определенный объем.
 
-    Объем известен. Измеряют давление пара до и после процесса адсорбции. Газ считают идеальным. ![](../images/kolh/adsorbciya/Razdel_clip_image001_0008.png)
+    Объем известен. Измеряют давление пара до и после процесса адсорбции. Газ считают идеальным. ![](images/adsorbciya/Razdel_clip_image001_0008.png)
 
     Если T=const, то получают **изотерму адсорбции**
 
-    ![](../images/kolh/adsorbciya/Razdel_clip_image001_0012.png)
+    ![](images/adsorbciya/Razdel_clip_image001_0012.png)
 
     Ps — давление насыщенного пара; P — текущее давление пара над системой адс/пар.
 
     Если P=const, то получают **избару адсорбции**:
 
-    ![](../images/kolh/adsorbciya/Razdel_clip_image001_0014.png)
+    ![](images/adsorbciya/Razdel_clip_image001_0014.png)
 
     Если С=const, то получают **изопикну адсорбции**.
 
     Если a=const, то получают **изостеру**:
 
-    ![](../images/kolh/adsorbciya/Razdel_clip_image001_0015.png)
+    ![](images/adsorbciya/Razdel_clip_image001_0015.png)
 
     Изостера важна для определения теплоты адсорбции.
 
-    ![](../images/kolh/adsorbciya/Razdel_clip_image001_0017.png) ![](../images/kolh/adsorbciya/Razdel_clip_image001_0018.png)
+    ![](images/adsorbciya/Razdel_clip_image001_0017.png) ![](images/adsorbciya/Razdel_clip_image001_0018.png)
 
 
 ## Термодинамика адсорбции
 
-![](../images/kolh/adsorbciya/Razdel_clip_image001_0019.png)
+![](images/adsorbciya/Razdel_clip_image001_0019.png)
 
 Измеряют характеристики газовой фазы (тв. считают неизменным)
 
-![](../images/kolh/adsorbciya/Razdel_clip_image001_0020.png)
+![](images/adsorbciya/Razdel_clip_image001_0020.png)
 

@@ -2,19 +2,19 @@
 
 1. Поверхностные частицы твердого тела обладают иными свойствами, чем частицы в глубине фазы
 
-    ![Поверхность раздела твердое тело - газ](../images/kolh/osobye-svojstva-poverhnosti-tverdogo-tela/Razdel_clip_image001.png)
+    ![Поверхность раздела твердое тело - газ](images/osobye-svojstva-poverhnosti-tverdogo-tela/Razdel_clip_image001.png)
 
 2. У частиц, находящихся на поверхности раздела фаз, есть внутреннее давление.
 
-    ![](../images/kolh/osobye-svojstva-poverhnosti-tverdogo-tela/Razdel_clip_image001_0000.png)
+    ![](images/osobye-svojstva-poverhnosti-tverdogo-tela/Razdel_clip_image001_0000.png)
 
 3. Поверхность твердого тела геометрически неоднородна
 
-    ![](../images/kolh/osobye-svojstva-poverhnosti-tverdogo-tela/Razdel_clip_image001_0001.png)
+    ![](images/osobye-svojstva-poverhnosti-tverdogo-tela/Razdel_clip_image001_0001.png)
 
     Могут существовать различные дефекты
 
-    ![](../images/kolh/osobye-svojstva-poverhnosti-tverdogo-tela/Razdel_clip_image001_0002.png)
+    ![](images/osobye-svojstva-poverhnosti-tverdogo-tela/Razdel_clip_image001_0002.png)
 
     2 центра:
 
