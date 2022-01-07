@@ -24,6 +24,7 @@ import ExecutionEnvironment from '@docusaurus/ExecutionEnvironment';
 import {useLocation} from '@docusaurus/router';
 
 import styles from './styles.module.css';
+
 const TITLE = 'ON LEARNING';
 const DESCRIPTION = 'Конспекты лекций по химии';
 
@@ -103,24 +104,19 @@ function useSelectedTags() {
   return selectedTags;
 }
 
-function ShowcaseHeader() {
-
-  return (
-    <section className="margin-top--lg margin-bottom--lg text--center">
-      <h1>{TITLE}</h1>
-      <p>{DESCRIPTION}</p>
-      {/* {link_button} */}
-    </section>
-  );
-}
-
 function ShowcaseFooter() {
-  const TEXT = "Если наш сайт помог вам, расскажите о нем одногруппникам, добавьте сайт в закладки и делитесь ссылками через социальные сети."
   return (
-    <section className={clsx("margin-top--lg", "margin-bottom--lg", "text--center", "container")}>
-      <p>{TEXT}</p>
-      <p>Сайт создан для помощи студентам в учебе.</p>
-      {/* {link_button} */}
+    <section className={clsx("margin-top--lg", "margin-bottom--lg", "container")}>
+      <div className="row">
+        <div className="col">
+          <h2>О сайте</h2>
+          <p>📚 <b>ON LEARNING</b> — сайт с учебными материалами по химии. Материалы написаны с использованием конспектов лекций и информации из книг.</p>
+          <p>🆘 Сайт создан, чтобы помочь студентам в учебе.</p>
+          <p>🙏 Если наш сайт помог вам, расскажите о нем друзьям и одногруппникам.  И подпишитесь на наш <a target="_blank" rel="noopener noreferrer" href="https://t.me/labnotesru">Телеграм-канал</a>.</p>
+        </div>
+        <div className="col">
+        </div>
+      </div>
     </section>
   );
 }
@@ -139,7 +135,7 @@ function ShowcaseCards() {
 
   if (filteredUsers.length === 0) {
     return (
-      <section className="margin-top--lg margin-bottom--xl">
+      <section className="margin-top--md margin-bottom--xl">
         <div className="container padding-vert--md text--center">
           <h2>No result</h2>
         </div>
@@ -148,7 +144,7 @@ function ShowcaseCards() {
   }
 
   return (
-    <section className="margin-top--lg margin-bottom--xl">
+    <section className="margin-top--xs margin-bottom--md">
       {selectedTags.length === 0 ? (
         <>
           <div className={styles.showcaseFavorite}>
@@ -158,7 +154,7 @@ function ShowcaseCards() {
                   'margin-bottom--md',
                   styles.showcaseFavoriteHeader,
                 )}>
-                <h2>🧪 Химия</h2>
+                <h1 className="margin-top--md margin-bottom--md text--center">🧪 Химия</h1>
               </div>
               <ul className={clsx('container', styles.showcaseList)}>
                 {chemistyUsers.map((user) => (
@@ -191,9 +187,8 @@ function ShowcaseCards() {
 
 function Showcase(): JSX.Element {
   return (
-    <Layout title={TITLE} description={DESCRIPTION}>
-      <main className="margin-vert--lg">
-        <ShowcaseHeader />
+    <Layout title="Конспекты лекций по химии" description={DESCRIPTION}>
+      <main className="margin-vert--md">
         <ShowcaseCards />
         <ShowcaseFooter />
       </main>
