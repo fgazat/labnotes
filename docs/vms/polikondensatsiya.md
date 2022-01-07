@@ -246,6 +246,8 @@ description: "Поликондесация — ступенчатый проце
 
 Пример лабораторного синтеза полиамида-6-10 (нейлон, nylon):
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RRnDGjzCzfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Реакция:
 
 ![Синтез полиамида-6-10.](../images/vms/polikondensaciya/nylon-6-10.png)
@@ -255,6 +257,8 @@ description: "Поликондесация — ступенчатый проце
 Поликонденсация в твердой фазе изучена пока недостаточно, но она представляет большой теоретический и практический интерес. Обычно используются процессы, в которых первая стадия протекает в растворе или расплаве, а последняя стадия — в твердой фазе. Примером такого процесса является трехмерная поликонденсация, широко применяемая в настоящее время в промышленности для получения ряда смол (фенолоальдегидных, эпоксидных и др).
 
 Получение фенолформальдегидных смол:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OkR5clCdK-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Источники
 
