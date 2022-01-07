@@ -46,7 +46,14 @@ const sidebars = {
     {
       type: 'category',
       label: 'Реакции звеньев',
-      collapsed: false, 
+      collapsed: false,
+      link: {
+        type: 'generated-index',
+        title: ' Реакции звеньев',
+        description: 'Реакции звеньев — химические превращения полимеров, в процессе которых не меняется степень полимеризации ВМС.',
+        slug: 'vms/reaktsii-zvenev',
+      },
+      
       items: [
         'vms/polimeranalogichnye-prevrashcheniya',
         'vms/vnutrimolekulyarnye-prevrashcheniya',
@@ -55,7 +62,13 @@ const sidebars = {
     {
       type: 'category',
       label: 'Реакции макромолекул',
-      collapsed: false, 
+      collapsed: false,
+      link: {
+        type: 'generated-index',
+        title: ' Реакции макромолекул',
+        description: 'Реакции макромолекул — химические превращения полимеров, которые приводят к изменению степени полимеризации ВМС.',
+        slug: 'vms/reaktsii-makromolekul',
+      },
       items: [
         'vms/reakcii-destrukcii',
         'vms/reakcii-sshivaniya',
