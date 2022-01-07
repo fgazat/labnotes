@@ -1,10 +1,10 @@
 # Зависимость химического потенциала
 
-1\) *μ = f\(p\)* при *T*=const
+1) *μ = f(p)* при *T*=const
 
 ![](../images/fh/zavisimost-himicheskogo-potenciala/1_clip_image001.png)
 
-В случае рассмотрения: 1\) идеальной газовой смеси; 2\) индивидуального чистого вещества \(однокомпонентной системы\):
+В случае рассмотрения: 1) идеальной газовой смеси; 2) индивидуального чистого вещества (однокомпонентной системы):
 
 ![](../images/fh/zavisimost-himicheskogo-potenciala/1_clip_image001_0000.png)
 
@@ -30,7 +30,7 @@
 
 ![](../images/fh/zavisimost-himicheskogo-potenciala/1_clip_image001_0008.png)
 
-2\) *μ = f\(T\)* при *p=const*
+2) *μ = f(T)* при *p=const*
 
 ![](../images/fh/zavisimost-himicheskogo-potenciala/1_clip_image001_0009.png)
 

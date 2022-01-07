@@ -25,11 +25,16 @@ const sidebars = {
     {
       type: 'category',
       label: 'Полимеризация',
-      collapsed: false, 
+      collapsed: false,
+      link: {
+        type: 'generated-index',
+        title: ' Полимеризация',
+        description: 'Полимеризация — процесс получения ВМС из низкомолекулярных соединений без выделения побочных продуктов. Данный процесс осуществляется за счет кратных связей ( С=С, С=О и др.) или раскрытия циклов, содержащих гетероатомы (N, S, O). Продукты полимеризации имеют тот же элементный состав, что и исходные мономеры.',
+        slug: 'vms/polimerizaciya',
+      },
       items: [
-        'vms/polimerizaciya',
         'vms/radikalnaya-polimerizaciya',
-        'vms/radikalnaya-sopolimerizatsiya',
+        'vms/sopolimerizatsiya',
         'vms/kationnaya-polimerizatsiya',
         'vms/anionnaya-polimerizatsiya',
         'vms/anionno-koordinatsionnaya-polimerizatsiya',
@@ -41,7 +46,14 @@ const sidebars = {
     {
       type: 'category',
       label: 'Реакции звеньев',
-      collapsed: false, 
+      collapsed: false,
+      link: {
+        type: 'generated-index',
+        title: ' Реакции звеньев',
+        description: 'Реакции звеньев — химические превращения полимеров, в процессе которых не меняется степень полимеризации ВМС.',
+        slug: 'vms/reaktsii-zvenev',
+      },
+      
       items: [
         'vms/polimeranalogichnye-prevrashcheniya',
         'vms/vnutrimolekulyarnye-prevrashcheniya',
@@ -50,7 +62,13 @@ const sidebars = {
     {
       type: 'category',
       label: 'Реакции макромолекул',
-      collapsed: false, 
+      collapsed: false,
+      link: {
+        type: 'generated-index',
+        title: ' Реакции макромолекул',
+        description: 'Реакции макромолекул — химические превращения полимеров, которые приводят к изменению степени полимеризации ВМС.',
+        slug: 'vms/reaktsii-makromolekul',
+      },
       items: [
         'vms/reakcii-destrukcii',
         'vms/reakcii-sshivaniya',

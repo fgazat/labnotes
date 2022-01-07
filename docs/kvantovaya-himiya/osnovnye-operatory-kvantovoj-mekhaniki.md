@@ -1,10 +1,10 @@
 # Основные операторы квантовой механики
 
-1.  [Оператор координаты](#operator-koordinaty)
-2.  [Оператор импульса](#operator-impulsa)
-3.  [Оператор кинетической энергии](#operator-kin-energii)
-4.  [Оператор потенциальной энергии](#operator-pot-energii)
-5.  [Оператор полной энергии системы](#operator-full-energii)
+1. [Оператор координаты](#operator-koordinaty)
+2. [Оператор импульса](#operator-impulsa)
+3. [Оператор кинетической энергии](#operator-kin-energii)
+4. [Оператор потенциальной энергии](#operator-pot-energii)
+5. [Оператор полной энергии системы](#operator-full-energii)
 
 ## Оператор координаты
 
@@ -14,11 +14,11 @@
 
 Свойства:
 
--   линейность оператора:
+* линейность оператора:
 
     ![](../images/kvh/osnovnye-operatory/operatori_clip_image001_0002.png)
 
--   самосопряженность:
+* самосопряженность:
 
     ![](../images/kvh/osnovnye-operatory/operatori_clip_image001_0003.png)
 
@@ -31,11 +31,11 @@
 
 Свойства:
 
--   линейность оператора:
+* линейность оператора:
 
     ![](../images/kvh/osnovnye-operatory/operatori_clip_image001_0009.png)
 
--   самосопряженность оператора: ![](../images/kvh/osnovnye-operatory/operatori_clip_image001_0011.png)
+* самосопряженность оператора: ![](../images/kvh/osnovnye-operatory/operatori_clip_image001_0011.png)
 
 Проверим, коммутируют ли операторы координаты и импульса:
 
@@ -57,8 +57,8 @@
 
 Свойства:
 
--   Линейность: +
--   Самосопряженность:
+* Линейность: +
+* Самосопряженность:
 
     ![](../images/kvh/osnovnye-operatory/operatori_clip_image001_0029.png)
 

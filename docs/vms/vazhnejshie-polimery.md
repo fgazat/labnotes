@@ -1,129 +1,108 @@
+---
+description: Список важнейших полимеров и их сокращений.
+--- 
+
 # Важнейшие полимеры
 
-|**Тип**|**Название**|**Сокращение**|
-|Пластмассы|[Полиэтилен](#pe)|[ПЭ](#pe)|
-|[Полипропилен](#pp)|[ПП](#pp)|
-|[Полистирол](#ps)|[ПС](#ps)|
-|[Поливинилхлорид](#pvh)|[ПВХ](#pvh)|
-|[Полиметилметакрилат](#pmma)|[ПММА](#pmma)|
-|[Полиакрилонитрил](#pan)|[ПАН](#pan)|
-|[Поликарбонат](#pk)|[ПК](#pk)|
-|[Полиамид-6](#pa-6)|[ПА 6](#pa-6)|
-|[Полиамид-6,6](#pa-6-6)|[ПА 6,6](#pa-6-6)|
-|[Полиамид-6,10](#pa-6-10)|[ПА 6,10](#pa-6-10)|
-|[Полиэтилентерефталат](#petf)|[ПЭТФ](#petf)|
-|[Политетрафторэтилен](#ptfe)|[ПТФЭ](#ptfe)|
-|Каучуки|[Натуральный каучук](#nk)|[НК](#nk)|
-|[Полибутадиен](#pb)|[ПБ](#pb)|
-|[Полиизабутилен](#pib)|[ПИБ](#pib)|
-|[Полидиметилсилоксан](#pdms)|[ПДМС](#pdms)|
-|[Полихлоропрен](#php)|[ПХП](#php)|
-|[Синтетический каучук](#sk)|[СК](#sk)|
-|[Синтетический каучук изопреновый ](#ski)|[СКИ](#ski)|
-|[Синтетический каучук стирольный](#sks)|[СКС](#sks)|
-|[Синтетический каучук метилстирольный](#skms)|[СКМС](#skms)|
-|[Синтетический каучук нитрильный](#skn)|[СКН](#skn)|
-|[Синтетический каучук этиленпропиленовый](#skep)|[СКЭП](#skep)|
+## Полиэтилен (ПЭ)
 
-## Полиэтилен \(ПЭ\)
+![CH_2=CH_2 \rightarrow polyetilen](../images/vms/vazhnejshie-polimery/polietilen.png)
 
-![](../images/vms/vazhnejshie-polimery/2_clip_image001.png)
+## Полипропилен (ПП)
 
-## Полипропилен \(ПП\)
+![Реакция получения полипропилена](../images/vms/vazhnejshie-polimery/polipropilen.png)
 
-![](../images/vms/vazhnejshie-polimery/2_clip_image001_0000.png)
+## Полистирол (ПС)
 
-## Полистирол \(ПС\)
+![Реакция получения полистирола](../images/vms/vazhnejshie-polimery/2_clip_image001_0001.png)
 
-![](../images/vms/vazhnejshie-polimery/2_clip_image001_0001.png)
+## Поливинилхлорид (ПВХ)
 
-## Поливинилхлорид \(ПВХ\)
+![Реакция получения поливинилхлорида](../images/vms/vazhnejshie-polimery/2_clip_image001_0002.png)
 
-![](../images/vms/vazhnejshie-polimery/2_clip_image001_0002.png)
+## Полиметилметакрилат (ПММА)
 
-## Полиметилметакрилат \(ПММА\)
+![Реакция получения ](../images/vms/vazhnejshie-polimery/2_clip_image001_0003.png)
 
-![](../images/vms/vazhnejshie-polimery/2_clip_image001_0003.png)
+## Полиакрилонитрил (ПАН)
 
-## Полиакрилонитрил \(ПАН\)
+![Реакция получения ](../images/vms/vazhnejshie-polimery/2_clip_image001_0004.png)
 
-![](../images/vms/vazhnejshie-polimery/2_clip_image001_0004.png)
+## Поликарбонат (ПК)
 
-## Поликарбонат \(ПК\)
+![Реакция получения ](../images/vms/vazhnejshie-polimery/1st_clip_image001_0006.png)
 
-![](../images/vms/vazhnejshie-polimery/1st_clip_image001_0006.png)
+## Полиамид-6 (ПА-6, капрон, найлон-6)
 
-## Полиамид-6 \(ПА-6, капрон, найлон-6\)
+![Реакция получения ](../images/vms/vazhnejshie-polimery/2_clip_image001_0005.png)
 
-![](../images/vms/vazhnejshie-polimery/2_clip_image001_0005.png)
+## Полиамид-6,6 (ПА-6,6, нейлон)
 
-## Полиамид-6,6 \(ПА-6,6, нейлон\)
+![Реакция получения ](../images/vms/vazhnejshie-polimery/2_clip_image001_0006.png)
 
-![](../images/vms/vazhnejshie-polimery/2_clip_image001_0006.png)
+## Полиамид-6,10 (ПА-6,10)
 
-## Полиамид-6,10 \(ПА-6,10\)
+![Реакция получения ](../images/vms/vazhnejshie-polimery/2_clip_image001_0007.png)
 
-![](../images/vms/vazhnejshie-polimery/2_clip_image001_0007.png)
+## Полиэтилентерефталат (ПЭТФ, ПЭТ, лавсан, майлар)
 
-## Полиэтилентерефталат \(ПЭТФ, ПЭТ, лавсан, майлар\)
+![Реакция получения ](../images/vms/vazhnejshie-polimery/1st_clip_image001_0004.png)
 
-![](../images/vms/vazhnejshie-polimery/1st_clip_image001_0004.png)
+## Политетрафторэтилен (ПТФЭ, тефлон, фторопласт-4)
 
-## Политетрафторэтилен \(ПТФЭ, тефлон, фторопласт-4\)
+![Реакция получения ](../images/vms/vazhnejshie-polimery/2_clip_image001_0008.png)
 
-![](../images/vms/vazhnejshie-polimery/2_clip_image001_0008.png)
+## Натуральный каучук (НК)
 
-## Натуральный каучук \(НК\)
+![Реакция получения ](../images/vms/vazhnejshie-polimery/2_clip_image001_0009.png)Всего существует 12 изомеров полиизопрена и только один из них натуральный. Сложно синтезировать, в природе содержится в млечном соке гевеи, кок-сагыза и других каучуконосных растений.
 
-![](../images/vms/vazhnejshie-polimery/2_clip_image001_0009.png)Всего существует 12 изомеров полиизопрена и только один из них натуральный. Сложно синтезировать, в природе содержится в млечном соке гевеи, кок-сагыза и других каучуконосных растений.
+## Полибутадиен (ПБ)
 
-## Полибутадиен \(ПБ\)
+![Реакция получения ](../images/vms/vazhnejshie-polimery/2_clip_image001_0010.png)
 
-![](../images/vms/vazhnejshie-polimery/2_clip_image001_0010.png)
+## Полиизабутилен (ПИБ)
 
-## Полиизабутилен \(ПИБ\)
+![Реакция получения ](../images/vms/vazhnejshie-polimery/2_clip_image001_0011.png)
 
-![](../images/vms/vazhnejshie-polimery/2_clip_image001_0011.png)
+## Полидиметилсилоксан (ПДМС)
 
-## Полидиметилсилоксан \(ПДМС\)
+![Реакция получения ](../images/vms/vazhnejshie-polimery/1st_clip_image001_0008.png)
 
-![](../images/vms/vazhnejshie-polimery/1st_clip_image001_0008.png)
+## Полихлоропрен (ПХП)
 
-## Полихлоропрен \(ПХП\)
+![Реакция получения ](../images/vms/vazhnejshie-polimery/1st_clip_image001_0002.png)
 
-![](../images/vms/vazhnejshie-polimery/1st_clip_image001_0002.png)
+## Синтетический каучук (СК)
 
-## Синтетический каучук \(СК\)
+Самый первый синтезеированный каучук - дивиниловый ![Реакция получения ](../images/vms/vazhnejshie-polimery/2_clip_image001_0012.png)
 
-Самый первый синтезеированный каучук - дивиниловый ![](../images/vms/vazhnejshie-polimery/2_clip_image001_0012.png)
+## Синтетический каучук изопреновый (СКИ)
 
-## Синтетический каучук изопреновый \(СКИ\)
+![Реакция получения ](../images/vms/vazhnejshie-polimery/2_clip_image001_0013.png)
 
-![](../images/vms/vazhnejshie-polimery/2_clip_image001_0013.png)
-
-## Синтетический каучук стирольный \(СКC\)
+## Синтетический каучук стирольный (СКC)
 
 СКC - сополимер бутадиена и стирола.
 
-![](../images/vms/vazhnejshie-polimery/2_clip_image001_0014.png)
+![Реакция получения ](../images/vms/vazhnejshie-polimery/2_clip_image001_0014.png)
 
-## Синтетический каучук метилстирольный \(СКМС\)
+## Синтетический каучук метилстирольный (СКМС)
 
 СКМС - сополимер бутадиена и метилстирола.
 
-![](../images/vms/vazhnejshie-polimery/2_clip_image001_0015.png)
+![Реакция получения ](../images/vms/vazhnejshie-polimery/2_clip_image001_0015.png)
 
-## Синтетический каучук нитрильный \(СКН\)
+## Синтетический каучук нитрильный (СКН)
 
 СКН - сополимер бутадиена и акрилонитрила.
 
-![](../images/vms/vazhnejshie-polimery/2_clip_image001_0016.png)
+![Реакция получения ](../images/vms/vazhnejshie-polimery/2_clip_image001_0016.png)
 
-## Синтетический каучук этиленпропиленовый \(СКЭП\)
+## Синтетический каучук этиленпропиленовый (СКЭП)
 
 СКЭП - сополимер этилена и пропилена.
 
-![](../images/vms/vazhnejshie-polimery/2_clip_image001_0017.png)
+![Реакция получения ](../images/vms/vazhnejshie-polimery/2_clip_image001_0017.png)
 
  
 

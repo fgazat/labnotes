@@ -4,11 +4,11 @@
 
 Внутримолекулярные превращения разделяют на две группы:
 
--   Реакции отщепления
+* Реакции отщепления
 
     ![Внутримолекулярные превращения. Реакция отщепления](../images/vms/vnutrimolekulyarnye-prevrashcheniya/vnytr_clip_image001.png) ![](../images/vms/vnutrimolekulyarnye-prevrashcheniya/vnytr_clip_image001_0001.png)
 
--   Реакции циклизации:
+* Реакции циклизации:
 
     ![Внутримолекулярные превращения. Реакция циклизации](../images/vms/vnutrimolekulyarnye-prevrashcheniya/vnytr_clip_image001_0000.png)
 
