@@ -10,7 +10,7 @@
 
 Функция Гельмгольца (свободная энергия Гельмгольца):
 
-<!-- ![]() -->
+![](../images/fh/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0001.png)
 
 ![](../images/fh/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0002.png)
 
