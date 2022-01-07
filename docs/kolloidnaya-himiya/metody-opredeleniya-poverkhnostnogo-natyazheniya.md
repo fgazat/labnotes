@@ -1,10 +1,5 @@
 # Методы определения поверхностного натяжения
 
-1. [Метод капиллярного поднятия](#kapilarnoe-podniatie)
-2. [Метод максимального давления пузырька (метод Ребиндера)](#maximalnoe-davlene-puzirka)
-3. [Сталагмометрический метод (метод счета капель)](#stalagmometricheskiy-metod)
-4. [Метод отрыва кольца (лаба по физике на первом курсе)](#metod-otryva-kolca)
-
 ## Метод капиллярного поднятия
 
 ![](images/metody-opredeleniya-poverkhnostnogo-natyazheniya/surface_clip_image001_0019.png)
