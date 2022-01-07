@@ -79,7 +79,7 @@ description: Основные определения химии ВМС.
 
 Число мономерных звеньев в макромолекуле:
 
-![Степень полимеризации](../images/vms/osnovnye-opredeleniya/stepen-polimerizacii.png)
+![Степень полимеризации](images/osnovnye-opredeleniya/stepen-polimerizacii.png)
 
 ## Струкутура
 
@@ -97,10 +97,10 @@ description: Основные определения химии ВМС.
 
 Повторяющаяся группа звеньев:
 
-![Цепь полимера](../images/vms/osnovnye-opredeleniya/polimerizaciya.png)
+![Цепь полимера](images/osnovnye-opredeleniya/polimerizaciya.png)
 
 Цепь полимера в нормальных условиях находится в свернутом состоянии. Так, что длина цепи всегда больше кратчайшего растояния между началом $А$ и концом $B$ цепи:
 
-![](../images/vms/osnovnye-opredeleniya/dlina-cepochki.png)
+![](images/osnovnye-opredeleniya/dlina-cepochki.png)
 
 где $Z$ — длина цепи, $n$ — число веньев, $l$ — длина звена, $h$ — кратчайшее растояние между началом и концом цепи.

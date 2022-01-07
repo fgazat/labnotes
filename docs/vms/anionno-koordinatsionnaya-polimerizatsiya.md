@@ -10,7 +10,7 @@ description: Механизм и катализаторы анионно-коо�
 
 1. Li- и K-органические соединения, например: бутиллитий (Bu-Li)
 
-    ![Бутиллитий](../images/vms/anionno-koordinacionnaya-polimerizaciya/anionkoord_clip_image001_0000.png)
+    ![Бутиллитий](images/anionno-koordinacionnaya-polimerizaciya/anionkoord_clip_image001_0000.png)
 
 2. Катализаторы Циглера-Натта
 
@@ -18,7 +18,7 @@ description: Механизм и катализаторы анионно-коо�
 
     Способ получения катализатора:
 
-    ![Способ получения катализатора Циглера-Натта](../images/vms/anionno-koordinacionnaya-polimerizaciya/anionkoord_clip_image001_0001.png)
+    ![Способ получения катализатора Циглера-Натта](images/anionno-koordinacionnaya-polimerizaciya/anionkoord_clip_image001_0001.png)
 
 ## Механизм анионно-координационной полимеризации
 
@@ -26,7 +26,7 @@ description: Механизм и катализаторы анионно-коо�
 
 Механизм анионно-координационной полимеризации с использованием бутиллития в качестве катализатора выглядит следующим образом:
 
-![Механизм Анионно-координационной полимеризации с бутиллитием.](../images/vms/anionno-koordinacionnaya-polimerizaciya/anionkoord_clip_image001.png)
+![Механизм Анионно-координационной полимеризации с бутиллитием.](images/anionno-koordinacionnaya-polimerizaciya/anionkoord_clip_image001.png)
 
 1. Происходит ориентация молекулы мономера относительно поляризованной связи.
 
@@ -42,17 +42,17 @@ description: Механизм и катализаторы анионно-коо�
 
 Стадия 1. Алкилирование переходного металла:
 
-![](../images/vms/anionno-koordinacionnaya-polimerizaciya/anionkoord_clip_image001_0004.png)
+![](images/anionno-koordinacionnaya-polimerizaciya/anionkoord_clip_image001_0004.png)
 
 Стадия 2. Инициирование и рост цепи:
 
-![](../images/vms/anionno-koordinacionnaya-polimerizaciya/anionkoord_clip_image001_0005.png)
+![](images/anionno-koordinacionnaya-polimerizaciya/anionkoord_clip_image001_0005.png)
 
-![](../images/vms/anionno-koordinacionnaya-polimerizaciya/anionkoord_clip_image001_0006.png)
+![](images/anionno-koordinacionnaya-polimerizaciya/anionkoord_clip_image001_0006.png)
 
 #### Биметаллический механизм (активный центр - комплекс)
 
-![](../images/vms/anionno-koordinacionnaya-polimerizaciya/anionkoord_clip_image001_0002.png)
+![](images/anionno-koordinacionnaya-polimerizaciya/anionkoord_clip_image001_0002.png)
 
-![](../images/vms/anionno-koordinacionnaya-polimerizaciya/anionkoord_clip_image001_0003.png)
+![](images/anionno-koordinacionnaya-polimerizaciya/anionkoord_clip_image001_0003.png)
 

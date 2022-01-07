@@ -4,25 +4,25 @@ description: "Полимераналогичные превращения — э
 
 # Полимераналогичные превращения
 
-![](../images/vms/polimeranalogichnye-prevrashcheniya/analog_clip_image001.png)
+![](images/polimeranalogichnye-prevrashcheniya/analog_clip_image001.png)
 
 **Полимераналогичные превращения** — это химические реакции макромолекул с низкомолекулярными соединениями, в процессе которых изменяется природа функциональных групп полимера, но сохраняется длина и строение скелета основной цепи.
 
 В реакции полимераналогичных превращений могут вступать макромолекулы с самыми разнообразными функциональными группами, например:
 
-![](../images/vms/polimeranalogichnye-prevrashcheniya/analog_clip_image001_0000.png)
+![](images/polimeranalogichnye-prevrashcheniya/analog_clip_image001_0000.png)
 
 Использование полимераналогичных превращений открывает широкие возможности химической модификации полимеров и получения новых полимерных материалов, в частности таких, которые трудно или невозможно синтезировать другим путем. Так, поливиниловый спирт получают с помощью полимераналогичных превращений: алкоголизом поливинилацетата:
 
-![](../images/vms/polimeranalogichnye-prevrashcheniya/analog_clip_image001_0001.png)
+![](images/polimeranalogichnye-prevrashcheniya/analog_clip_image001_0001.png)
 
 Так же проводят дальнейшую обработку поливинилового спирта: при взаимодействии с уксусным альдегидом и кетонами образуются полуацетали и полукетали, являющиеся хорошими пленкообразующими материалами. Например, реакция получения поливинилбутираля, широко применяемого в многослойных стеклах типа "триплекс":
 
-![](../images/vms/polimeranalogichnye-prevrashcheniya/analog_clip_image001_0002.png)
+![](images/polimeranalogichnye-prevrashcheniya/analog_clip_image001_0002.png)
 
 Различные эфиры целлюлозы получают в промышленности путем ее этерификаци:
 
-![](../images/vms/polimeranalogichnye-prevrashcheniya/analog_clip_image001_0003.png) ![](../images/vms/polimeranalogichnye-prevrashcheniya/analog_clip_image001_0007.png)
+![](images/polimeranalogichnye-prevrashcheniya/analog_clip_image001_0003.png) ![](images/polimeranalogichnye-prevrashcheniya/analog_clip_image001_0007.png)
 
 Целлюлозу крайне сложно растворить и подвергнуть дальнейшим химическим превращениям, однако в среде подходящего растворителя, например, в ионной жидкости, такой процесс можно осуществить эффективно.
 

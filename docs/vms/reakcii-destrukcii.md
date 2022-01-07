@@ -14,25 +14,25 @@ description: Реакции деструкции — реакции, котор�
 
 ### 1. Окислительная деструкция
 
-![](../images/vms/reakcii-destrukcii/destr_clip_image001.png)
+![](images/reakcii-destrukcii/destr_clip_image001.png)
 
-![](../images/vms/reakcii-destrukcii/destr_clip_image001_0001.png)
+![](images/reakcii-destrukcii/destr_clip_image001_0001.png)
 
 ### 2. Гидролиз
 
-![](../images/vms/reakcii-destrukcii/destr_clip_image001_0002.png)
+![](images/reakcii-destrukcii/destr_clip_image001_0002.png)
 
 ### 3. Алкоголиз (под действием спиртов)
 
-![](../images/vms/reakcii-destrukcii/destr_clip_image001_0003.png)
+![](images/reakcii-destrukcii/destr_clip_image001_0003.png)
 
 ### 4. Ацетолиз (под действием кислоты)
 
-![](../images/vms/reakcii-destrukcii/destr_clip_image001_0004.png)
+![](images/reakcii-destrukcii/destr_clip_image001_0004.png)
 
 ### 5. Аминолиз (под действием аминов)
 
-![](../images/vms/reakcii-destrukcii/destr_clip_image001_0005.png)
+![](images/reakcii-destrukcii/destr_clip_image001_0005.png)
 
 ## Физическая деструкция
 
@@ -44,17 +44,17 @@ description: Реакции деструкции — реакции, котор�
 
 Прочность связи по отношению к термодеструкции:
 
-![](../images/vms/reakcii-destrukcii/destr_clip_image001_0006.png)
+![](images/reakcii-destrukcii/destr_clip_image001_0006.png)
 
 ### 2. Механодеструкция (под действием механического напряжения)
 
-![](../images/vms/reakcii-destrukcii/destr_clip_image001_0007.png)
+![](images/reakcii-destrukcii/destr_clip_image001_0007.png)
 
 Возникают радикалы разного сорта — получают блок-сополимеры.
 
 ### 3. Фотодеструкция (под действием света)
 
-![](../images/vms/reakcii-destrukcii/destr_clip_image001_0008.png)
+![](images/reakcii-destrukcii/destr_clip_image001_0008.png)
 
 Некоторые полимеры разрушаются, другие — сшиваются.
 
