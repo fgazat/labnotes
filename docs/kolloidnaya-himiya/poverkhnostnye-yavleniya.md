@@ -80,7 +80,12 @@ $σ = f (r_{кр})$
 
 ![Зависимость поверхностного натяжения от кривизны поверхности](images/poverkhnostnye-yavleniya/surface_clip_image001_0009.png)
 
-Вывод $\Delta P$:
+$$
+P_{i, вып} = P_i + \Delta P \\
+P_{i, вог} = P_i - \Delta P
+$$
+
+$\Delta P$ определяется радиусом кривизны поверхности. Выведем $\Delta P$:
 
 $$
 \left.
@@ -94,7 +99,7 @@ $$
 Получим выражения $dV$ и $dS$
 
 $$
-V=4/3\pi r^3 \qquad dV=4\pi r^2 dr \\
+V=\frac{4}{3}\pi r^3 \qquad dV=4\pi r^2 dr \\
 S=4\pi r^2 \qquad dS=8\pi r dr
 $$
 
@@ -123,7 +128,13 @@ $$
 <!---TODO: подставить уравнение. Найти-->
 ## Капиллярные явления
 
-![](images/poverkhnostnye-yavleniya/surface_clip_image001_0016.png) 
+$$
+H = \frac{1}{2}\left(\frac{1}{r_1}+\frac{1}{r_2}\right)
+$$
+
+$$
+\Delta P = \sigma \left(\frac{1}{r_1}+\frac{1}{r_2}\right)
+$$
 
 ![](images/poverkhnostnye-yavleniya/surface_clip_image001_0017.png)
 
