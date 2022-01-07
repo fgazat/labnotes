@@ -13,29 +13,29 @@ description: "Реакции сшивания — реакции, которые
 
 ### Вулканизация ПХП (полихлоропреновый какучук)
 
-![](../images/vms/reakcii-sshivaniya/reakcii-sshivaniya_clip_image001_0000.png)
+![](images/reakcii-sshivaniya/reakcii-sshivaniya_clip_image001_0000.png)
 
 ### Вулканизация изопренового каучука (НК)
 
-![](../images/vms/reakcii-sshivaniya/reakcii-sshivaniya_clip_image001_0001.png)
+![](images/reakcii-sshivaniya/reakcii-sshivaniya_clip_image001_0001.png)
 
 ### Вулканизация СКЭП (синтетический каучук этиленпроипленовый)
 
-![](../images/vms/reakcii-sshivaniya/reakcii-sshivaniya_clip_image001_0002.png)
+![](images/reakcii-sshivaniya/reakcii-sshivaniya_clip_image001_0002.png)
 
 ### Вулканизация СКЭПТ (синтетический каучук этиленпропиленовый тройной)
 
-![](../images/vms/reakcii-sshivaniya/reakcii-sshivaniya_clip_image001_0003.png)
+![](images/reakcii-sshivaniya/reakcii-sshivaniya_clip_image001_0003.png)
 
 ### Вулканизация ПДМС (полидиметилсилоксан)
 
 ПДМС устойчив при низкой температуре, совместим с биологическими тканями, прочный.
 
-![](../images/vms/reakcii-sshivaniya/reakcii-sshivaniya_clip_image001_0004.png)
+![](images/reakcii-sshivaniya/reakcii-sshivaniya_clip_image001_0004.png)
 
 ### Вулканизация кислот
 
-![](../images/vms/reakcii-sshivaniya/reakcii-sshivaniya_clip_image001_0005.png)
+![](images/reakcii-sshivaniya/reakcii-sshivaniya_clip_image001_0005.png)
 
 ## Отверждение
 
@@ -47,19 +47,19 @@ description: "Реакции сшивания — реакции, которые
 
 ### Получение фенолформальдегидных смол (отвердитель — уротропин)
 
-![](../images/vms/reakcii-sshivaniya/reakcii-sshivaniya_clip_image001_0006.png)
+![](images/reakcii-sshivaniya/reakcii-sshivaniya_clip_image001_0006.png)
 
-![](../images/vms/reakcii-sshivaniya/reakcii-sshivaniya_clip_image001_0007.png)
+![](images/reakcii-sshivaniya/reakcii-sshivaniya_clip_image001_0007.png)
 
-![](../images/vms/reakcii-sshivaniya/reakcii-sshivaniya_clip_image001_0008.png)
+![](images/reakcii-sshivaniya/reakcii-sshivaniya_clip_image001_0008.png)
 
 ### Сшивание эпоксидных смол
 
 В качестве отвердителей для эпоксидных смол используют вещества, содежащие 2 и более функциональных групп, способных к присоединению к эпоксидной группе (многоосновные кислоты, их ангидриды и амины).
 
-![](../images/vms/reakcii-sshivaniya/reakcii-sshivaniya_clip_image001_0009.png)
+![](images/reakcii-sshivaniya/reakcii-sshivaniya_clip_image001_0009.png)
 
-![](../images/vms/reakcii-sshivaniya/reakcii-sshivaniya_clip_image001_0010.png)
+![](images/reakcii-sshivaniya/reakcii-sshivaniya_clip_image001_0010.png)
 
 Наличие OH-групп в отвержденной смоле способствует хорошей адгезии к другим материалам. Поэтому их используют в качестве клея.
 

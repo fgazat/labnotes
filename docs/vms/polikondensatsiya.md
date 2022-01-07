@@ -13,7 +13,7 @@ description: "Поликондесация — ступенчатый проце
 
 Для наглядности рассмотрим механизм образования связи и самого полимера на примере реакции полиэтерификации:
 
-![Реакция поликонденсации многоатомного спирта и многоосновной кислоты с образованием полиэфира](../images/vms/polikondensaciya/poliehterifikaciya-2.png)
+![Реакция поликонденсации многоатомного спирта и многоосновной кислоты с образованием полиэфира](images/polikondensaciya/poliehterifikaciya-2.png)
 
 Полиэтерификация — реакция получения полиэфира, которая заключается в поликонденсации многоатомного спирта и многоосновной кислоты.
 
@@ -23,29 +23,29 @@ description: "Поликондесация — ступенчатый проце
 
 Реакция этерификации (реакция Фишера-Шпайера, 1895 г.) — реакция спирта с карбоновой кислотой, которая приводит к образованию сложного эфира. В качестве катализаторов реакции используют сильные кислоты.
 
-![Общая реакция этерификации — взаимодействие карбоновой кислоты со спиртом с образованием сложного эфира.](../images/vms/polikondensaciya/eterifikaciya.png)
+![Общая реакция этерификации — взаимодействие карбоновой кислоты со спиртом с образованием сложного эфира.](images/polikondensaciya/eterifikaciya.png)
 
 Механизм реакции этерификации:
 
 1. Образование гидроксониевого иона:
 
-    ![Первая стадия этерификации: протонирование кислоты-реагента катализатором.](../images/vms/polikondensaciya/1-stupen-eterifikatciya.png)
+    ![Первая стадия этерификации: протонирование кислоты-реагента катализатором.](images/polikondensaciya/1-stupen-eterifikatciya.png)
 
 2. Нуклеофильное присоединение молекулы спирта к карбонильному атому углерода:
 
-    ![Вторая стадия этерификации: присоединений гидроксильной группы спирта к карбонильному атому углерода.](../images/vms/polikondensaciya/2-stupen-eterifikatciya.png)
+    ![Вторая стадия этерификации: присоединений гидроксильной группы спирта к карбонильному атому углерода.](images/polikondensaciya/2-stupen-eterifikatciya.png)
 
 3. Изомеризация (депротонирование-протонирование) образовавшегося аддукта:
 
-    ![Изомеризация промежуточного соединения.](../images/vms/polikondensaciya/3-stupen-eterifikatciya.png)
+    ![Изомеризация промежуточного соединения.](images/polikondensaciya/3-stupen-eterifikatciya.png)
 
 4. Элиминирование молекулы воды:
 
-    ![Отщепление молекулы воды.](../images/vms/polikondensaciya/4-stupen-eterifikatciya.png)
+    ![Отщепление молекулы воды.](images/polikondensaciya/4-stupen-eterifikatciya.png)
 
 5. Депротонирование продукта реакции:
 
-    ![Отщепление протона.](../images/vms/polikondensaciya/5-stupen-eterifikatciya.png)
+    ![Отщепление протона.](images/polikondensaciya/5-stupen-eterifikatciya.png)
 
 
 Нуклеофильное присоединение молекулы спирта было доказано с помощью изотопа О18.
@@ -54,21 +54,21 @@ description: "Поликондесация — ступенчатый проце
 
 На первом этапе происходит образование димера в результате последовательных реакций этерификаций . Сначала образуется сложный эфир:
 
-![Первая реакция этерификации приводит к образованию сложного эфира.](../images/vms/polikondensaciya/polikondensaciya-1.png)
+![Первая реакция этерификации приводит к образованию сложного эфира.](images/polikondensaciya/polikondensaciya-1.png)
 
 Затем этот эфир может взаимодействовать с таким же сложным эфиром или с исходными мономерами:
 
-![Реакция сложного эфира с дикарбоновой кислотой.](../images/vms/polikondensaciya/polikondensaciya-2.png)
+![Реакция сложного эфира с дикарбоновой кислотой.](images/polikondensaciya/polikondensaciya-2.png)
 
 В результате происходит образование димера:
 
-![Образование димера.](../images/vms/polikondensaciya/polikondensaciya-3.png)
+![Образование димера.](images/polikondensaciya/polikondensaciya-3.png)
 
-![Димер сложного эфира.](../images/vms/polikondensaciya/dimer.png)
+![Димер сложного эфира.](images/polikondensaciya/dimer.png)
 
 Полученный димер может дальше взаимодействовать с исходными мономерами, димерами или n-мерами. Например, реакция димера с димером приводит к образованию тетрамера:
 
-![Реакция димера с димером и образование тетрамера.](../images/vms/polikondensaciya/tetramer.png)
+![Реакция димера с димером и образование тетрамера.](images/polikondensaciya/tetramer.png)
 
 Таким образом, в процессе поликонденсации возможно взаимодействие мономеров друг с другом, мономеров с n-мерами и n-меров с n-мерами. Процесс образования полимера протекает ступенями, растущая цепь после каждой ступени остается устойчивым соединением, молекулярная масса нарастает постепенно.
 
@@ -78,7 +78,7 @@ description: "Поликондесация — ступенчатый проце
 
 Полиэфиры (или полиэстры) — полимеры, получаемые реакцией поликонденсации многоосновных кислот и многооатомных спиртов. Пример реакции получения полиэтилентерефталата (ПЭТФ):
 
-![Поликонденсация терефталевой кислоты с этиленгликолем с образованием полиэтилентерефталата](../images/vms/polikondensaciya/polikondensaciya-spirta-i-tereftalevoi-kisloty-2.png)
+![Поликонденсация терефталевой кислоты с этиленгликолем с образованием полиэтилентерефталата](images/polikondensaciya/polikondensaciya-spirta-i-tereftalevoi-kisloty-2.png)
 
 **Примечание.** Полиэфиры также называют полиэстрами (от англ. ester — "эфир").
 
@@ -86,85 +86,85 @@ description: "Поликондесация — ступенчатый проце
 
 Реакция поликонденсации фенола с формальдегидом происходит с образованием фенолформальдегидных смол:
 
-![](../images/vms/polikondensaciya/polikondensaciya-fenola.png)
+![](images/polikondensaciya/polikondensaciya-fenola.png)
 
-![](../images/vms/polikondensaciya/polikondensaciya-fenola-rezol.png)
+![](images/polikondensaciya/polikondensaciya-fenola-rezol.png)
 
 ### Получение поликарбоната
 
 Общая формула поликарбонатов:
 
-![](../images/vms/polikondensaciya/obschaya-formula-polikarbonatov.png)
+![](images/polikondensaciya/obschaya-formula-polikarbonatov.png)
 
 Реакция получения поликарбонатов
 
-![Поликонденсация бисфенол-А с фосгеном с образованием поликарбоната](../images/vms/polikondensaciya/polikarbonat.png)
+![Поликонденсация бисфенол-А с фосгеном с образованием поликарбоната](images/polikondensaciya/polikarbonat.png)
 
 ### Получение полиамидов
 
-![](../images/vms/polikondensaciya/poliamid-6-6.png)
+![](images/polikondensaciya/poliamid-6-6.png)
 
-![Получение полиамида-6,10.](../images/vms/polikondensaciya/poliamid-6-10.png)
+![Получение полиамида-6,10.](images/polikondensaciya/poliamid-6-10.png)
 
 Также к реакциям поликонденсации относят реакцию получения полиамида-6 (капрон, найлон-6):
 
-![Получение полиамида-6.](../images/vms/polikondensaciya/poliamid-6.png)
+![Получение полиамида-6.](images/polikondensaciya/poliamid-6.png)
 
 ### Получение диметилсилоксана (силиконы)
 
 Общая формула полисилоксана:
 
-![](../images/vms/polikondensaciya/obschaya-formula-polisiloksanov.png)
+![](images/polikondensaciya/obschaya-formula-polisiloksanov.png)
 
 Дихлорметилсилан. Первая ступень протекает с образованием диметилсилоксана. Затем
 
-![](../images/vms/polikondensaciya/1st-step-polisiloksan.png)
+![](images/polikondensaciya/1st-step-polisiloksan.png)
 
 Образование полидиметилсилоксана:
 
-![](../images/vms/polikondensaciya/2nd-step-polisiloksan.png)
+![](images/polikondensaciya/2nd-step-polisiloksan.png)
 
 ## Поликонденсационные равновесия
 
 Рассмотрим влияние константы равновесия на предельно достижимый выход и молекулярную массу полимера на примере реакции полиэтерификации:
 
-![Поликонденсация терефталевой кислоты с этиленгликолем с образованием полиэтилентерефталата](../images/vms/polikondensaciya/polikondensaciya-spirta-i-tereftalevoi-kisloty-2.png)
+![Поликонденсация терефталевой кислоты с этиленгликолем с образованием полиэтилентерефталата](images/polikondensaciya/polikondensaciya-spirta-i-tereftalevoi-kisloty-2.png)
 
 Запишем ее в упрощенном виде:
 
-![Упрощенный вид реакции этерификации](../images/vms/polikondensaciya/uproshchennaya-reakciya-ehterrifikacii.png)
+![Упрощенный вид реакции этерификации](images/polikondensaciya/uproshchennaya-reakciya-ehterrifikacii.png)
 
 Рассмотрим влияние константы равновесия на глубину протекания реакции:
 
-![K=[−COO−][H2O]/[−COOH][−OH]](../images/vms/polikondensaciya/konstanta-ravnovesiya-reakcii-ehterrifikacii.png)
+![K=[−COO−][H2O]/[−COOH][−OH]](images/polikondensaciya/konstanta-ravnovesiya-reakcii-ehterrifikacii.png)
 
 Глубина протекания реакции характеризуется степенью завершенности реакции Х:
 
-![X=([M_0 ]−[M])/[M_0 ] =1−[M]/[M_0 ]](../images/vms/polikondensaciya/stepen-zavershennosti-reakcii-vtoroe.png)
+![X=([M_0 ]−[M])/[M_0 ] =1−[M]/[M_0 ]](images/polikondensaciya/stepen-zavershennosti-reakcii-vtoroe.png)
 
 , где \[M0\], \[M\] — исходная и текущая концентрации мономеров соответственно.
 
-![K=[−COO−]["H" _2 "O" ]/[−COOH][−OH] =(X[M_0 ])^2/([M_0 ]−X[M_0 ])^2 =X^2/(1−X)^2](../images/vms/polikondensaciya/konstanta-ravnovesiya-reakcii-ehterrifikacii-vtoroe.png)
+![K=[−COO−]["H" _2 "O" ]/[−COOH][−OH] =(X[M_0 ])^2/([M_0 ]−X[M_0 ])^2 =X^2/(1−X)^2](images/polikondensaciya/konstanta-ravnovesiya-reakcii-ehterrifikacii-vtoroe.png)
 
 Выразим Х:
 
-![X=K^(1∕2)/(1+K^(1∕2) )](../images/vms/polikondensaciya/x-vyrazhennyj-cherez-k.png)
+![X=K^(1∕2)/(1+K^(1∕2) )](images/polikondensaciya/x-vyrazhennyj-cherez-k.png)
 
 В отсутствие реакции ограничения роста цепи:
 
-![p ̅=[M_0 ]/[M] =1/(1−x)](../images/vms/polikondensaciya/stepen-zavershennosti-reakcii-pervoe.png)
+![p ̅=[M_0 ]/[M] =1/(1−x)](images/polikondensaciya/stepen-zavershennosti-reakcii-pervoe.png)
 
 Полученное уравнение называется уравнением Карозерса:
 
-![p ̅=1/(1−X)](../images/vms/polikondensaciya/uravnenie-karozersa.png)
+![p ̅=1/(1−X)](images/polikondensaciya/uravnenie-karozersa.png)
 
 Оно иллюстрирует зависимость средней степени полимеризации от степени завершенности реакции (*X*).
 
 Подставим в уравнение Карозерса выведенное уравнение X:
 
-![p ̅=1/(1−K^(1∕2)/(1+K^(1∕2) ))=1:(〖1+K〗^(1∕2) 〖−K〗^(1∕2))/(1+K^(1∕2) )=1+K^(1∕2)](../images/vms/polikondensaciya/podstanovka-x-v-uravnenie-karozersa.png)
+![p ̅=1/(1−K^(1∕2)/(1+K^(1∕2) ))=1:(〖1+K〗^(1∕2) 〖−K〗^(1∕2))/(1+K^(1∕2) )=1+K^(1∕2)](images/polikondensaciya/podstanovka-x-v-uravnenie-karozersa.png)
 
-![p ̅=1+K^(1∕2)](../images/vms/polikondensaciya/poluchennye-uravneniya.png)
+![p ̅=1+K^(1∕2)](images/polikondensaciya/poluchennye-uravneniya.png)
 
 Полученные уравнения позволяют оценить предельно достижимый выход и молекулярную массу при поликонденсации исходя из константы равновесия реакции. Из расчетов установлено, что равновесная поликонденсация может считаться необратимой и использоваться для синтеза полимеров при К > 103–104.
 
@@ -172,15 +172,15 @@ description: "Поликондесация — ступенчатый проце
 
 ### Влияние избытка одного из мономеров
 
-![](../images/vms/polikondensaciya/vliyanie-izbytka.png)
+![](images/polikondensaciya/vliyanie-izbytka.png)
 
 При избытке одного из исходных мономеров на концах макромолекулы образуются одинаковые функциональные группы и рост цепи прекращается. Поэтому соотношение исходных компонентов должно быть 1:1.
 
-![](../images/vms/polikondensaciya/ravn_clip_image001_0012.png)
+![](images/polikondensaciya/ravn_clip_image001_0012.png)
 
 Поликонденсация в большинстве случаев состоит во взаимодействии двух различных функциональных групп. Если в систему внести монофункциональное соединение, способное вступать во взаимодействие с одной из функциональных групп, участвующих в поликонденсации, то оно блокирует эти группы и прекращает процесс поликонденсации. Величина степени поликонденсации определяется молекулярным соотношением бифункционального и монофункционального соединения (это правило называют правилом Коршака):
 
-![p ̅=n/m](../images/vms/polikondensaciya/pravilo-korshaka.png)
+![p ̅=n/m](images/polikondensaciya/pravilo-korshaka.png)
 
 где *n* — число молей бифункционального соединения, *m* — монофункционального.
 
@@ -192,23 +192,23 @@ description: "Поликондесация — ступенчатый проце
 
 Степень завершенности реакции, при которой происходит образование нетекучего геля вследствие образования трехмерной сетки называется **точкой гелеобразования Хг.**  Из изложенного выше ясно, как важно знать **Хг** конкретной системы. Метод расчета точки гелеобразования впервые разработал Карозерс. Этот метод сводится к нахождению степени завершенности реакции, при которой степень полимеризации стремится к бесконечности. Карозерс ввел понятие средней функциональности мономеров:
 
-![f ̅=(∑〖N_i f_i 〗)/(∑N_i )](../images/vms/polikondensaciya/srednyaya-funkcionalnost-monomerov.png)
+![f ̅=(∑〖N_i f_i 〗)/(∑N_i )](images/polikondensaciya/srednyaya-funkcionalnost-monomerov.png)
 
 где *Ni*– число молекул мономера с функциональность *fi*, ∑*Ni* – общее число молекул мономеров, ∑*Nifi* – общее число функциональных групп, участвующих в поликонденсации. Оказалось, что Хг связана с *fср* простой зависимостью:
 
-![X_Γ=2∕f ̅](../images/vms/polikondensaciya/tochka-geleobrazovaniya.png)
+![X_Γ=2∕f ̅](images/polikondensaciya/tochka-geleobrazovaniya.png)
 
 Рассмотрим пример поликонденсации глицерина и терефталевой кислоты.
 
-![Формул глицерина и терефталевой кислоты](../images/vms/polikondensaciya/glicerin-i-tereftalevaya-kislota.png)
+![Формул глицерина и терефталевой кислоты](images/polikondensaciya/glicerin-i-tereftalevaya-kislota.png)
 
 В глицерине 3 гидроксильных групп (*f1*=3), в терефталевой кислоте — 2 (*f2*=2). Следовательно, чтобы отношение функциональных групп было 1:1 необходимо взять 2 моль глицерина и 3 моль терефталевой кислоты. Тогда на 5 молекул реагентов приходится 12 функциональных групп. Средняя функциональность мономеров будет равна:
 
-![f ̅=12/5=2,4](../images/vms/polikondensaciya/srednyaya-funkcionalnost-primer.png)
+![f ̅=12/5=2,4](images/polikondensaciya/srednyaya-funkcionalnost-primer.png)
 
 Тогда точка гелеобразования будет равна:
 
-![X_Γ=2/f ̅ =0,883](../images/vms/polikondensaciya/tochka-geleobrazovaniya-primer.png)
+![X_Γ=2/f ̅ =0,883](images/polikondensaciya/tochka-geleobrazovaniya-primer.png)
 
 ## Способы проведения поликонденсации
 
@@ -250,7 +250,7 @@ description: "Поликондесация — ступенчатый проце
 
 Реакция:
 
-![Синтез полиамида-6-10.](../images/vms/polikondensaciya/nylon-6-10.png)
+![Синтез полиамида-6-10.](images/polikondensaciya/nylon-6-10.png)
 
 ### В твердой фазе
 

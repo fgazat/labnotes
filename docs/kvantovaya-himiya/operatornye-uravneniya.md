@@ -1,16 +1,16 @@
 # Операторные уравнения
 
-![](../images/kvh/operatornye-uravneniya/operatornie_clip_image001.png)
+![](images/operatornye-uravneniya/operatornie_clip_image001.png)
 
 Функция *f* удовлетворяющая операторному уравнению *Lf = lf* называется **собственной функцией оператора**. Число (не переменная) *l* называется **собственным значением оператора**.
 
-![](../images/kvh/operatornye-uravneniya/operatornie_clip_image001_0000.png)
+![](images/operatornye-uravneniya/operatornie_clip_image001_0000.png)
 
 Пример:
 
 Рассмотрим оператор дифференцирования
 
-![](../images/kvh/operatornye-uravneniya/operatornie_clip_image001_0001.png)
+![](images/operatornye-uravneniya/operatornie_clip_image001_0001.png)
 
 В первом случае функция f является собственной функцией оператора, собственное значение k. Во втором случае функция f не является собственной, т.к. не соответствует операторному уравнению (l содержит в себе переменную).
 
@@ -20,7 +20,7 @@
 
 Рассмотрим оператор дифференцирования:
 
-![](../images/kvh/operatornye-uravneniya/operatornie_clip_image001_0003.png)
+![](images/operatornye-uravneniya/operatornie_clip_image001_0003.png)
 
 Для оператора может существовать различное множество собственных функций. Причем собственные функции самосопряженного оператора ортогональны друг другу и образуют базис пространства функций.
 
@@ -32,7 +32,7 @@
 
 Рассмотрим оператор дифференцирования:
 
-![](../images/kvh/operatornye-uravneniya/operatornie_clip_image001_0009.png)
+![](images/operatornye-uravneniya/operatornie_clip_image001_0009.png)
 
 Собственные волновые функции для которых собственное значения одинаковые называются **вырожденными**.
 
@@ -40,21 +40,21 @@
 
 Запишем операторное уравнение:
 
-![](../images/kvh/operatornye-uravneniya/operatornie_clip_image001_0005.png)
+![](images/operatornye-uravneniya/operatornie_clip_image001_0005.png)
 
 Умножим левую и правую часть равнения на комплексно-сопряженную функцию *f\**:
 
-![](../images/kvh/operatornye-uravneniya/operatornie_clip_image001_0006.png)
+![](images/operatornye-uravneniya/operatornie_clip_image001_0006.png)
 
 Проинтегрируем:
 
-![](../images/kvh/operatornye-uravneniya/operatornie_clip_image001_0007.png)
+![](images/operatornye-uravneniya/operatornie_clip_image001_0007.png)
 
 Собственное значение есть значение физической величины (из 5 постулата). Т.е. для оператора полной энергии системы (гамильтониана *H*) — собственное значение *Е* есть значение физической величины полной энергии системы.
 
 1 следствие: константа Е в уравнении Шредингера является полной энергией системы.
 
-![](../images/kvh/operatornye-uravneniya/operatornie_clip_image001_0013.png)
+![](images/operatornye-uravneniya/operatornie_clip_image001_0013.png)
 
 2 следствие: Для любого состояния системы можно найти его энергию.
 
@@ -62,17 +62,17 @@
 
 Физическая величина определяется интегралом:
 
-![](../images/kvh/operatornye-uravneniya/operatornie_clip_image001_0014.png)
+![](images/operatornye-uravneniya/operatornie_clip_image001_0014.png)
 
 1) *Ψ* — собственная, тогда *физическая величина l* — точное значение;
 
 2) *Ψ* — не собственная:
 
-![](../images/kvh/operatornye-uravneniya/operatornie_clip_image001_0015.png)
+![](images/operatornye-uravneniya/operatornie_clip_image001_0015.png)
 
 *Ψ* — не собственная:
 
-![](../images/kvh/operatornye-uravneniya/operatornie_clip_image001_0018.png)
+![](images/operatornye-uravneniya/operatornie_clip_image001_0018.png)
 
 Физическая величина вычисляемая по 5 постулату является точной, если волновая функция является собственной функцией оператора.
 
@@ -82,7 +82,7 @@
 
 * энергия любой системы может быть определена точно (это не средняя величина)
 
-    ![](../images/kvh/operatornye-uravneniya/operatornie_clip_image001_0019.png)
+    ![](images/operatornye-uravneniya/operatornie_clip_image001_0019.png)
 
 * физические величины, соответствующие коммутирующим операторам могут быть одновременно определены с любой степенью точности. И обратное: если операторы не коммутируют, то их физические величины не могут быть одновременно точно определены.
 

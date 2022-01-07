@@ -3,108 +3,108 @@ sidebar_label: Анионная полимеризация
 description: Анионная полимеризация — это процесс образования макромолекул, в котором активные центры несут отрицательный заряд, а инициатор — источник отрицательного заряда. Катализаторы, механизм и кинетика анионной полимеризации.
 ---
 
+
 # Анионная полимеризация: основные катализаторы, механизм и кинетика
 
 **Анионная полимеризация** — это процесс образования макромолекул, в котором активные центры несут отрицательный заряд.
 
-![Активный центр анионной полимеризации](../images/vms/anionnaya-polimerizaciya/Anion_clip_image001.png)
-
+![Активный центр анионной полимеризации](images/anionnaya-polimerizaciya/Anion_clip_image001.png)
 
 ## Катализаторы анионной полимеризации
 
 1. Щелочные металлы.
 2. Амиды щелочных металлов
 
-    ![Реакция образования катализатора из амидов щелочных металлов](../images/vms/anionnaya-polimerizaciya/Anion_clip_image001_0000.png)
+    ![Реакция образования катализатора из амидов щелочных металлов](images/anionnaya-polimerizaciya/Anion_clip_image001_0000.png)
 
 3. Na- и Li-органические соединения, н-р: Na-нафталиновый комплекс.
 
-    ![Реакция образования катализатора из Na- и Li-органических соединений](../images/vms/anionnaya-polimerizaciya/Anion_clip_image001_0001.png)
+    ![Реакция образования катализатора из Na- и Li-органических соединений](images/anionnaya-polimerizaciya/Anion_clip_image001_0001.png)
 
 4. Алкоголяты
 
-    ![Реакция образования катализатора из алкоголятов](../images/vms/anionnaya-polimerizaciya/Anion_clip_image001_0002.png)
+    ![Реакция образования катализатора из алкоголятов](images/anionnaya-polimerizaciya/Anion_clip_image001_0002.png)
 
 
 ## Механизм анионной полимеризации
 
 Анионная полимеризация характерна для винильных соединений с электроноакцепторными заместителями: акрилонитрила, алкилакрилатов, стирола и др.
 
-![Смещение электронной плотности](../images/vms/anionnaya-polimerizaciya/Anion_clip_image001_0003.png)
+![Смещение электронной плотности](images/anionnaya-polimerizaciya/Anion_clip_image001_0003.png)
 
 ### Основные стадии:
 
 1. Инициирование
 
-    ![Инициирование анионной полимеризации](../images/vms/anionnaya-polimerizaciya/Anion_clip_image001_0004.png)
+    ![Инициирование анионной полимеризации](images/anionnaya-polimerizaciya/Anion_clip_image001_0004.png)
 
     Причем "Х" — не галоген. Галогензамещенные винилы не вступают в такую реакцию, они малоактивны (ПВХ получают по радикальному механизму).
 
 2. Рост цепи
 
-    ![рост цепи](../images/vms/anionnaya-polimerizaciya/Anion_clip_image001_0005.png)
+    ![рост цепи](images/anionnaya-polimerizaciya/Anion_clip_image001_0005.png)
 
 3. Реакция обрыва цепи (протекает с участием растворителя, например аммиаком)
 
-    ![Обрыв цепи](../images/vms/anionnaya-polimerizaciya/Anion_clip_image001_0006.png)
+    ![Обрыв цепи](images/anionnaya-polimerizaciya/Anion_clip_image001_0006.png)
 
 
 По анионному механизму полимеризуются также циклические мономеры, н-р получение этиленоксида:
 
 1. Инициирование
 
-    ![Инициирование полимеризации циклических мономеров](../images/vms/anionnaya-polimerizaciya/Anion_clip_image001_0007.png)
+    ![Инициирование полимеризации циклических мономеров](images/anionnaya-polimerizaciya/Anion_clip_image001_0007.png)
 
 2. Рост цепи
 
-    ![Рост цепи циклических мономеров](../images/vms/anionnaya-polimerizaciya/Anion_clip_image001_0008.png)
+    ![Рост цепи циклических мономеров](images/anionnaya-polimerizaciya/Anion_clip_image001_0008.png)
 
 3. Обрыв цепи
 
-    ![Обрыв цепи при полимеризации циклов](../images/vms/anionnaya-polimerizaciya/Anion_clip_image001_0009.png)
+    ![Обрыв цепи при полимеризации циклов](images/anionnaya-polimerizaciya/Anion_clip_image001_0009.png)
 
 
 ## Кинетика анионной полимеризации
 
 ### I. Влияние концентрации исходных веществ на скорость реакции роста цепи
 
-![Скорости стадий роста, инициирования и обрыва цепи](../images/vms/anionnaya-polimerizaciya/Anion_clip_image001_0010.png)
+![Скорости стадий роста, инициирования и обрыва цепи](images/anionnaya-polimerizaciya/Anion_clip_image001_0010.png)
 
 По принципу стационарности:
 
-![Принцип стационарности](../images/vms/anionnaya-polimerizaciya/Anion_clip_image001_0011.png)
+![Принцип стационарности](images/anionnaya-polimerizaciya/Anion_clip_image001_0011.png)
 
 Тогда:
 
-![Вывод уравнения](../images/vms/anionnaya-polimerizaciya/Anion_clip_image001_0012.png)
+![Вывод уравнения](images/anionnaya-polimerizaciya/Anion_clip_image001_0012.png)
 
 Выразим отсюда концентрацию макроиона:
 
-![Уравнение для концентрация макроиона](../images/vms/anionnaya-polimerizaciya/Anion_clip_image001_0013.png)
+![Уравнение для концентрация макроиона](images/anionnaya-polimerizaciya/Anion_clip_image001_0013.png)
 
 Подставим уравнение концентрации макроиона в уравнение скорости реакции роста цепи:
 
-![Конечное уравнение скорости роста цепи](../images/vms/anionnaya-polimerizaciya/Anion_clip_image001_0014.png)
+![Конечное уравнение скорости роста цепи](images/anionnaya-polimerizaciya/Anion_clip_image001_0014.png)
 
 ### II. Влияние концентрации исходных веществ на степень полимеризации.
 
  Степень полимеризации равна отношению скоростей роста и обрыва цепи:
 
-![Степень полимеризации](../images/vms/anionnaya-polimerizaciya/Anion_clip_image001_0015.png)
+![Степень полимеризации](images/anionnaya-polimerizaciya/Anion_clip_image001_0015.png)
 
 Подставим уравнения скоростей:
 
-![](../images/vms/anionnaya-polimerizaciya/Anion_clip_image001_0016.png)
+![](images/anionnaya-polimerizaciya/Anion_clip_image001_0016.png)
 
 Следует заметить, что степень полимеризации не зависит от концентрации катализатора.
 
-![](../images/vms/anionnaya-polimerizaciya/Anion_clip_image001_0017.png)
+![](images/anionnaya-polimerizaciya/Anion_clip_image001_0017.png)
 
 ### Особенности анионной полимеризации:
 
 Уравнение Аррениуса:
 
-![Уравнение Аррениуса](../images/vms/anionnaya-polimerizaciya/Anion_clip_image001_0018.png)
+![Уравнение Аррениуса](images/anionnaya-polimerizaciya/Anion_clip_image001_0018.png)
 
 Наибольшую энергию активации имеет реакция обрыва, значит при низких температурах обрыва не будет
 

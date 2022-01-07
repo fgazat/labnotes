@@ -6,10 +6,10 @@
 
 * Реакции отщепления
 
-    ![Внутримолекулярные превращения. Реакция отщепления](../images/vms/vnutrimolekulyarnye-prevrashcheniya/vnytr_clip_image001.png) ![](../images/vms/vnutrimolekulyarnye-prevrashcheniya/vnytr_clip_image001_0001.png)
+    ![Внутримолекулярные превращения. Реакция отщепления](images/vnutrimolekulyarnye-prevrashcheniya/vnytr_clip_image001.png) ![](images/vnutrimolekulyarnye-prevrashcheniya/vnytr_clip_image001_0001.png)
 
 * Реакции циклизации:
 
-    ![Внутримолекулярные превращения. Реакция циклизации](../images/vms/vnutrimolekulyarnye-prevrashcheniya/vnytr_clip_image001_0000.png)
+    ![Внутримолекулярные превращения. Реакция циклизации](images/vnutrimolekulyarnye-prevrashcheniya/vnytr_clip_image001_0000.png)
 
 

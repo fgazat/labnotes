@@ -4,11 +4,11 @@
 
 Условия: 1) далее снимается ограничение на простую систему, значит могут совершаться полезные виды работ; 2) обратимый процесс.
 
-![](../images/fh/termodinamicheskie-potencialy/termodinamicheskie-potencialy_clip_image001.png)
+![](images/termodinamicheskie-potencialy/termodinamicheskie-potencialy_clip_image001.png)
 
 Убыль функции Гельмгольца в обратимом изохорно-изотермическом процессе равна максимальной полезной работе, следовательно, функция Гельмгольца является изохорно-изотермическим термодинамическим потенциалом.
 
-![](../images/fh/termodinamicheskie-potencialy/termodinamicheskie-potencialy_clip_image001_0000.png)
+![](images/termodinamicheskie-potencialy/termodinamicheskie-potencialy_clip_image001_0000.png)
 
 Убыль функции Гиббса в обратимом изобарно-изотермическом процессе равна максимальной полезной работе, следовательно, функция Гиббса является изобарно-изотермическим потенциалом.
 

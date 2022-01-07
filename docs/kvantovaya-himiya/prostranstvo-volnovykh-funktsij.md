@@ -11,7 +11,7 @@
 
 Множество всех функций, удовлетворяющих требованиям первого постулата называется **пространством волновых функций**, т.е. **пространство функций** – это конкретное множество функций. Понятие пространство несет смысл — в нем мы можем задать координаты функции (пространство структурирует объем - x,y,z).
 
-![](../images/kvh/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001.png)
+![](images/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001.png)
 
 \{ϕi\} — базис функции; Сi — коэффициенты разложения.
 
@@ -19,32 +19,32 @@
 
 * Ряд Тейлора
 
-    ![](../images/kvh/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0000.png)
+    ![](images/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0000.png)
 
     где x, x2, x3… — базис функции; a0, a1, a2, a3… — координаты функции.
 
 * Ряд Фурье
 
-    ![](../images/kvh/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0001.png)
+    ![](images/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0001.png)
 
     где sin(kx) — базис функции; b0, b1, b2, b3… — координаты функции.
 
     Базис нужен, чтобы унифицировать действия функций. Координаты — чтобы мы рассматривали положения с одинаковой точки зрения.
 
-    ![](../images/kvh/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0002.png)
+    ![](images/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0002.png)
 
     В пространстве может быть разное множество базисов, соответственно для другого базиса все координаты будут уже другие. Базис задает координаты точек и это может быть любая тройка векторов, даже если между ними не 90°.
 
 
 Волновые функции называются **ортогональными**, если выполняется следующее равенство:
 
-![](../images/kvh/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0003.png)
+![](images/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0003.png)
 
 Физический смысл: этот интеграл — есть вероятность перехода системы из функции φ1 в φ2. Эта вероятность равна нулю.
 
 Волновые функции называются **нормированными**, если выполняется следующее равенство:
 
-![](../images/kvh/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0004.png)
+![](images/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0004.png)
 
 Физический смысл: этот интеграл — есть вероятность нахождения системы во всем пространстве. Эта вероятность равна единице.
 
@@ -52,23 +52,23 @@
 
 Выведем условие **ортонормированности**:
 
-![](../images/kvh/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0006.png)
+![](images/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0006.png)
 
 Допустим, есть функция:
 
-![](../images/kvh/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0005.png)
+![](images/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0005.png)
 
 Функция подчиняется условию нормировки:
 
-![](../images/kvh/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0007.png) ![](../images/kvh/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0008.png)
+![](images/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0007.png) ![](images/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0008.png)
 
 При умножении вводится новый индекс j.
 
-![](../images/kvh/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0009.png)
+![](images/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0009.png)
 
 Результат нормировки функции пси по базису:
 
-![](../images/kvh/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0010.png)
+![](images/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0010.png)
 
 **Физический смысл**: этот интеграл — вероятность нахождения системы около базисной функции.
 

@@ -14,23 +14,23 @@
 * 1 активный центр может адсорбировать только одну молекулу адсорбата (монослой);
 * Нет взаимодействия между молекулами адсорбата на поверхности.
 
-![](../images/kolh/teorii-adsorbcii/theory_clip_image001.png)
+![](images/teorii-adsorbcii/theory_clip_image001.png)
 
 Уравнение адсорбции Лэнгмюра:
 
-![Уравнение адсорбции Лэнгмюра](../images/kolh/teorii-adsorbcii/theory_clip_image001_0006.png)
+![Уравнение адсорбции Лэнгмюра](images/teorii-adsorbcii/theory_clip_image001_0006.png)
 
 Где а — адсорбция при давлении p; а∞ — предельная адсорбция (мономолекулярный слой заполнен); А — величина адсорбционной активности.
 
-![](../images/kolh/teorii-adsorbcii/theory_clip_image001_0007.png)
+![](images/teorii-adsorbcii/theory_clip_image001_0007.png)
 
 **Изотерма адсорбции Ленгмюра:**
 
-![Теория адсорбции](../images/kolh/teorii-adsorbcii/theory_clip_image001_0008.png)
+![Теория адсорбции](images/teorii-adsorbcii/theory_clip_image001_0008.png)
 
 Часто бывает (особенно при адсорбции пара), что образуется полимолекулярный слой. Тогда теория Лэнгмюра не работает.
 
-![](../images/kolh/teorii-adsorbcii/theory_clip_image001_0009.png)
+![](images/teorii-adsorbcii/theory_clip_image001_0009.png)
 
 ## Теория полимолекулярной адсорбции Поляни
 
@@ -46,23 +46,23 @@
 * Адсорбционные силы не зависят от температуры;
 * Адсорбционный объем не зависит от температуры;
 
-![](../images/kolh/teorii-adsorbcii/theory_clip_image001_0010.png)
+![](images/teorii-adsorbcii/theory_clip_image001_0010.png)
 
 Возникают эквипотенциальные поверхности, которые повторяют рельеф. Силы убывают по мере удаления от поверхности. На некотором расстоянии заканчивается адсорбционный объем и начинается газовая фаза. За счет адсорбционных сил молекулы адсорбата попадают на поверхность твердого тела и конденсируются — описывается поведение пара.
 
 Работа перехода вещества из газовой фазы в поверхность:
 
-![](../images/kolh/teorii-adsorbcii/theory_clip_image001_0011.png)
+![](images/teorii-adsorbcii/theory_clip_image001_0011.png)
 
 Потенциал меняется в зависимости от расстояния:
 
-![](../images/kolh/teorii-adsorbcii/theory_clip_image001_0013.png) ![](../images/kolh/teorii-adsorbcii/theory_clip_image001_0015.png)
+![](images/teorii-adsorbcii/theory_clip_image001_0013.png) ![](images/teorii-adsorbcii/theory_clip_image001_0015.png)
 
 Т.е. можем рассчитать величину потенциала от величины Vадс.
 
 **Характеристическая кривая Поляни**
 
-![](../images/kolh/teorii-adsorbcii/theory_clip_image001_0018.png)
+![](images/teorii-adsorbcii/theory_clip_image001_0018.png)
 
 Характеризует данную систему адсорбент-адсорбат при всех Т. По ней можно рассчитать изотермы для других температур (подставляем в формулы Т, находим P/Ps и получаем набор значений а и P/Ps).
 
@@ -76,21 +76,21 @@
 * Горизонтальное взаимодействие отсутствует (адсорбированные молекулы не взаимодействуют друг с другом);
 * Адсорбированные молекулы первого слоя являются центрами адсорбции для второго слоя, второй слой — для третьего и т.д., т.е. образуется полимолекулярный слой.
 
-![](../images/kolh/teorii-adsorbcii/theory_clip_image001_0016.png)
+![](images/teorii-adsorbcii/theory_clip_image001_0016.png)
 
 где а — текущая адсорбция при относительном давлении P/Ps; аm — количество адсорбированного вещества на 1 слое; C — постоянная, связанная с теплотой адсорбции.
 
 Линейный вид:
 
-![](../images/kolh/teorii-adsorbcii/theory_clip_image001_0017.png)
+![](images/teorii-adsorbcii/theory_clip_image001_0017.png)
 
-![](../images/kolh/teorii-adsorbcii/theory_clip_image001_0020.png)
+![](images/teorii-adsorbcii/theory_clip_image001_0020.png)
 
-![](../images/kolh/teorii-adsorbcii/theory_clip_image001_0021.png)
+![](images/teorii-adsorbcii/theory_clip_image001_0021.png)
 
 Изотерма полимолекулярной адсорбции:
 
-![](../images/kolh/teorii-adsorbcii/theory_clip_image001_0019.png)
+![](images/teorii-adsorbcii/theory_clip_image001_0019.png)
 
 Недостатки:
 

@@ -9,13 +9,13 @@
 
 Уравнение, описывающее закон:
 
-![deltaQ = dU + pdV + сумма всех видов работы, кроме работы расширения](../images/fh/pervyj-zakon-termodinamiki/pervyj-zakon-termodinamiki.png)
+![deltaQ = dU + pdV + сумма всех видов работы, кроме работы расширения](images/pervyj-zakon-termodinamiki/pervyj-zakon-termodinamiki.png)
 
 где $Q$ — количество теплоты, $U$ — внутренняя энергия, $p$ — давление, $V$ — объем, ${W_i}'$ — любая работа, кроме работы расширения.
 
 В дальнейшем мы будем учитывать только работу расширения и не будем учитывать другие виды работы.
 
-![deltaQ = dU + pdV](../images/fh/pervyj-zakon-termodinamiki/pervyj-zakon-termodinamiki-dlya-prostoi-sistemy.png)
+![deltaQ = dU + pdV](images/pervyj-zakon-termodinamiki/pervyj-zakon-termodinamiki-dlya-prostoi-sistemy.png)
 
 ## История открытия первого начала термодинамики
 
@@ -24,7 +24,7 @@
 3. 1763 г. Джеймс Ватт — тепловая машина (КПД был мал).
 4. 1843 г. Опыт Джеймса П. Джоуля в возрасте 25 лет. Установил единицу измерения количества теплоты — калория. 1 калория — такое количество теплоты, которое тратится для нагрева 1 грамм воды с 14,5°С до 15.5°С.
 
-    ![](../images/fh/pervyj-zakon-termodinamiki/pervyj-zakon-termodinamiki_clip_image001.png)
+    ![](images/pervyj-zakon-termodinamiki/pervyj-zakon-termodinamiki_clip_image001.png)
 
 5. 1847 г. Майер. Публикация
 
@@ -34,11 +34,11 @@
 
 Для остальных видов работ действует "эгоистический принцип": взаимодействие считается положительным, если его результатом является увеличение внутренней энергии.
 
-![](../images/fh/pervyj-zakon-termodinamiki/pervyj-zakon-termodinamiki_clip_image001_0007.png)
+![](images/pervyj-zakon-termodinamiki/pervyj-zakon-termodinamiki_clip_image001_0007.png)
 
 Для остальных видов работ действует "эгоистический принцип": взаимодействие считается положительным, если его результатом является увеличение внутренней энергии.
 
-![](../images/fh/pervyj-zakon-termodinamiki/pervyj-zakon-termodinamiki_clip_image001_0008.png)
+![](images/pervyj-zakon-termodinamiki/pervyj-zakon-termodinamiki_clip_image001_0008.png)
 
 Два уравнения первого начала термодинамики являются зависимыми друг от друга.
 

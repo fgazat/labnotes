@@ -60,9 +60,9 @@ sidebar_label: Основные определения
 
 В учебниках работа обозначается по-разному: А (немец. arbeit), W (англ. work). **Мы будем обозначать работу буквой W**.
 
-![Работа против внешнего давления](../images/fh/osnovnye-ponyatiya/osnovnye-ponyatiya-i-opredeleniya_clip_image001.png)
+![Работа против внешнего давления](images/osnovnye-ponyatiya/osnovnye-ponyatiya-i-opredeleniya_clip_image001.png)
 
-![Полезные виды работ](../images/fh/osnovnye-ponyatiya/osnovnye-ponyatiya-i-opredeleniya_clip_image001_0000.png)
+![Полезные виды работ](images/osnovnye-ponyatiya/osnovnye-ponyatiya-i-opredeleniya_clip_image001_0000.png)
 
 **Температура** — количественная мера степени нагретости вещества.
 

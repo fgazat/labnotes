@@ -18,17 +18,17 @@ description: "Ступенчатая полимеризация — полиме
 
 Полимеризация стирола:
 
-![](../images/vms/stupenchataya-polimerizaciya/step_clip_image001.png)
+![](images/stupenchataya-polimerizaciya/step_clip_image001.png)
 
 Синтез полиуретана:
 
-![](../images/vms/stupenchataya-polimerizaciya/step_clip_image001_0000.png)
+![](images/stupenchataya-polimerizaciya/step_clip_image001_0000.png)
 
 Полимеризация этиленоксида в присутствии оснований:
 
-![](../images/vms/stupenchataya-polimerizaciya/step_clip_image001_0001.png)
+![](images/stupenchataya-polimerizaciya/step_clip_image001_0001.png)
 
 Полимеризации формальдегида в пристутствии следов воды:
 
-![](../images/vms/stupenchataya-polimerizaciya/step_clip_image001_0002.png)
+![](images/stupenchataya-polimerizaciya/step_clip_image001_0002.png)
 
