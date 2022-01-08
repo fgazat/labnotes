@@ -11,7 +11,7 @@ const katex = require('rehype-katex');
 const config = {
   title: 'On Learning',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://onlearning.ru',
   baseUrl: '/',
   trailingSlash: true,
   onBrokenLinks: 'throw',
