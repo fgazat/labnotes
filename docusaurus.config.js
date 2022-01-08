@@ -9,8 +9,8 @@ const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'On Learning',
-  tagline: 'Dinosaurs are cool',
+  title: 'ON LEARNING',
+  tagline: 'Сайт с конспектами лекций',
   url: 'https://onlearning.ru',
   baseUrl: '/',
   trailingSlash: true,
