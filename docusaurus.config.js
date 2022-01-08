@@ -141,7 +141,7 @@ const config = {
               },
               {
                 label: 'Телеграм',
-                href: 'https://t.me/labnotesru',
+                href: 'https://t.me/+YTBy1RcJfKxiN2U6',
               },
               {
                 label: 'Мой инстаграм',
@@ -166,9 +166,9 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} ON LEARNING.`,
       },
       announcementBar: {
-        id: 'announcementBar-1',
+        id: 'announcementBar-2',
         content:
-        '🙏 Если вам нравится сайт, подпишитесь на наш <a target="_blank" rel="noopener noreferrer" href="https://t.me/labnotesru">Телеграм-канал</a>.',
+        '🙏 Если вам нравится сайт, подпишитесь на наш <a target="_blank" rel="noopener noreferrer" href="https://t.me/+EdUnDQcUWrI2MGJi">Телеграм-канал</a>.',
       },
       colorMode: {
         disableSwitch: true
