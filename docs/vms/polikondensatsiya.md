@@ -136,31 +136,43 @@ description: "Поликондесация — ступенчатый проце
 
 Рассмотрим влияние константы равновесия на глубину протекания реакции:
 
-![K=[−COO−][H2O]/[−COOH][−OH]](images/polikondensaciya/konstanta-ravnovesiya-reakcii-ehterrifikacii.png)
+$$
+K=\frac{[−COO−][H_2O]}{[−COOH][−OH]}
+$$
 
-Глубина протекания реакции характеризуется степенью завершенности реакции Х:
+Глубина протекания реакции характеризуется степенью завершенности реакции $Х$:
 
-![X=([M_0 ]−[M])/[M_0 ] =1−[M]/[M_0 ]](images/polikondensaciya/stepen-zavershennosti-reakcii-vtoroe.png)
+$$
+X=\frac{[M_0 ]−[M]}{[M_0 ]}=1−\frac{[M]}{[M_0 ]},
+$$
 
-, где \[M0\], \[M\] — исходная и текущая концентрации мономеров соответственно.
+где $[M_0]$, $[M]$ — исходная и текущая концентрации мономеров соответственно.
 
-![K=[−COO−]["H" _2 "O" ]/[−COOH][−OH] =(X[M_0 ])^2/([M_0 ]−X[M_0 ])^2 =X^2/(1−X)^2](images/polikondensaciya/konstanta-ravnovesiya-reakcii-ehterrifikacii-vtoroe.png)
+$$
+K=\frac{[−COO−][H_2O]}{[−COOH][−OH]}=\frac{(X[M_0 ])^2}{([M_0 ]−X[M_0 ])^2}=\frac{X^2}{(1−X)^2}
+$$
 
 Выразим Х:
 
-![X=K^(1∕2)/(1+K^(1∕2) )](images/polikondensaciya/x-vyrazhennyj-cherez-k.png)
+$$
+X=\frac{K^{1∕2} }{1+K^{1∕2}}
+$$
 
 В отсутствие реакции ограничения роста цепи:
 
-![p ̅=[M_0 ]/[M] =1/(1−x)](images/polikondensaciya/stepen-zavershennosti-reakcii-pervoe.png)
+$$
+\bar p= \frac{[M_0 ]}{[M]} = \frac{1}{1−X}
+$$
 
 Полученное уравнение называется уравнением Карозерса:
 
-![p ̅=1/(1−X)](images/polikondensaciya/uravnenie-karozersa.png)
+$$
+\bar p= \frac{1}{1−X}
+$$
 
-Оно иллюстрирует зависимость средней степени полимеризации от степени завершенности реакции (*X*).
+Оно иллюстрирует зависимость средней степени полимеризации от степени завершенности реакции $X$.
 
-Подставим в уравнение Карозерса выведенное уравнение X:
+Подставим в уравнение Карозерса выведенное уравнение $X$:
 
 ![p ̅=1/(1−K^(1∕2)/(1+K^(1∕2) ))=1:(〖1+K〗^(1∕2) 〖−K〗^(1∕2))/(1+K^(1∕2) )=1+K^(1∕2)](images/polikondensaciya/podstanovka-x-v-uravnenie-karozersa.png)
 
