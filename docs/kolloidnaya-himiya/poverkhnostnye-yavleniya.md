@@ -44,7 +44,16 @@ $$
 
 Работа по разделению равна:
 
-![Вывод уравнения связи](images/poverkhnostnye-yavleniya/surface_clip_image001_0003.png) ![Уравнение связи внутреннего давления и поверхностного натяжения](images/poverkhnostnye-yavleniya/surface_clip_image001_0005.png)
+$$
+\left.
+    \begin{array}{ccc}
+        A_1 = P_i\Delta V = P_iSd\\
+        A_2 = 2\sigma S
+    \end{array}
+\right\} \Longrightarrow P_i\cancel Sd = 2\sigma \cancel S \Longrightarrow 	
+\fbox{$P_i=\frac{2\sigma}{d}$}
+$$
+
 
 ## Влияние различных факторов на $P_i$ и $σ$
 
@@ -103,10 +112,10 @@ V=\frac{4}{3}\pi r^3 \qquad dV=4\pi r^2 dr \\
 S=4\pi r^2 \qquad dS=8\pi r dr
 $$
 
-Подставим выражения в уравнение
+Подставим выражения $dV$ и $dS$ в уравнение
 
 $$
-\Delta P_i 4\pi r^2 dr = \sigma 8\pi r dr
+\Delta P_i 4\cancel{\pi} r^{\cancel 2} \cancel{dr} = \sigma 8\cancel{\pi r dr}
 $$
 
 Упростим полученное уравнение
