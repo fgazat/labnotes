@@ -26,3 +26,8 @@
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+iframe, object, embed {
+  max-width: 100%;
+  max-height: 100%;
+}
