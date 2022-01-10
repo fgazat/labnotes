@@ -32,8 +32,7 @@ iframe, object, embed {
   max-height: 100%;
 }
 
-
-
+/* https://katex.org/docs/issues.html#css-customization */
 .katex-display > .katex { white-space: normal }
 /* Add space between broken lines: */
 .katex-display > .base { margin: 0.25em 0 }
