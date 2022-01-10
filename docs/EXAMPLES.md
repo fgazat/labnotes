@@ -15,3 +15,7 @@ $$
     \end{array}
 \right\} \Longrightarrow \Delta P_i dV = \sigma dS
 $$
+
+$$
+\fbox{$P_i=\frac{2\sigma}{d}$}
+$$
