@@ -6,65 +6,93 @@ $$
 g = \widehat{L}f
 $$
 
-**Свойства операторов**:
+## Свойства
 
-1. **Линейность.** Оператор называется линейным, если выполняется следующее равенство:
+### Линейность
 
-    $$
-    \widehat{L}(\alpha_1f_1 + \alpha_2f_2) = \alpha_1\widehat{L}f_1 + \alpha_2\widehat{L}f_2
-    $$
+Оператор называется линейным, если выполняется следующее равенство:
 
-    $$
-    \widehat{L}(f_1 + f_2) = \widehat{L}f_1 + \widehat{L}f_2
-    $$
+$$
+\widehat{L}(\alpha_1f_1 + \alpha_2f_2) = \alpha_1\widehat{L}f_1 + \alpha_2\widehat{L}f_2
+$$
 
-    $$
-    \widehat{L}(f_1 + f_1) = \widehat{L}f_1 + \widehat{L}f_1 = 2 \widehat{L}f_1
-    $$
+$$
+\widehat{L}(f_1 + f_2) = \widehat{L}f_1 + \widehat{L}f_2
+$$
 
-2. **Самосопряженность.** Оператор называется самосопряженным (эрмитовым), если выполняется следующее равенство:
+$$
+\widehat{L}(f_1 + f_1) = \widehat{L}f_1 + \widehat{L}f_1 = 2 \widehat{L}f_1
+$$
 
-    ![Свойства операторов: самосопряженность](images/svojstva-operatorov/svoistva_clip_image001_0003.png)
+### Самосопряженность
+
+Оператор называется самосопряженным (эрмитовым), если выполняется следующее равенство:
+
+![Свойства операторов: самосопряженность](images/svojstva-operatorov/svoistva_clip_image001_0003.png)
 
 
-Над операторами можно производить действия:
+## Действия над операторами
 
-* сложение:
+### Сложение
 
-    $$
-    \widehat{L} = \widehat{L}_1 + \widehat{L}_2
-    $$
+$$
+\widehat{L} = \widehat{L}_1 + \widehat{L}_2
+$$
 
-    $$
-    \widehat{L}f = (\widehat{L}_1 + \widehat{L}_2)f = \widehat{L}_1f + \widehat{L}_2f
-    $$
+$$
+\widehat{L}f = (\widehat{L}_1 + \widehat{L}_2)f = \widehat{L}_1f + \widehat{L}_2f
+$$
 
-    При сложении порядок действия операторов **не имеет значения**:
+При сложении порядок действия операторов **не имеет значения**:
 
-    $$
-    \widehat{L}_1f + \widehat{L}_2f = \widehat{L}_2f + \widehat{L}_1f
-    $$
+$$
+\widehat{L}_1f + \widehat{L}_2f = \widehat{L}_2f + \widehat{L}_1f
+$$
 
-* умножение:
+### Умножение
 
-    ![](images/svojstva-operatorov/svoistva_clip_image001_0007.png)
+$$
+\widehat{L}f = \widehat{L}_1\cdot\widehat{L}_2
+$$
 
-    При умножении порядок действия операторов **имеет значение**:
+$$
+\widehat{L}f = \widehat{L}_1({\widehat{L}_2f}) = \widehat{L}_1g
+$$
 
-    ![](images/svojstva-operatorov/svoistva_clip_image001_0009.png)
+При умножении порядок действия операторов **имеет значение**:
 
-    Однако, существуют такие пары операторов, для которых перестановочный закон умножения выполняется. Такие пары операторов называются **коммутирующими** (операторы коммутируют друг с другом).
+$$
 
-    **Условие коммутации:**
+$$
 
-    ![](images/svojstva-operatorov/svoistva_clip_image001_0010.png)
+$$
+\left.
+    \begin{array}{ccc}
+        \widehat{L}_1({\widehat{L}_2f}) = \widehat{L}_1g \\
+\widehat{L}_2({\widehat{L}_1f}) = \widehat{L}_2h
+    \end{array}
+\right\} \longrightarrow \widehat{L}_1g \neq \widehat{L}_2h \Longrightarrow \widehat{L}_1\cdot\widehat{L}_2 \neq \widehat{L}_2\cdot\widehat{L}_1
+$$
 
-    В случае, если операторы не коммутируют друг с другом, то для таких функций существует коммутатор.
 
-    **Коммутатором** называется оператор, построенный следующим образом:
+Существуют такие пары операторов, для которых перестановочный закон умножения выполняется. Такие пары операторов называются **коммутирующими** — операторы коммутируют друг с другом.
 
-    ![](images/svojstva-operatorov/svoistva_clip_image001_0011.png)
+#### Коммутатор и условие коммутации
 
-    Для коммутирующих операторов коммутатор равен нулю.
+Условие коммутации:
+
+$$
+\widehat{L}_1\cdot\widehat{L}_2 = \widehat{L}_2\cdot\widehat{L}_1
+$$
+
+В случае, если операторы не коммутируют друг с другом, то для таких функций существует коммутатор.
+
+**Коммутатором** называется оператор, который построен следующим образом:
+
+$$
+\underbrace{[\widehat{L}_1,\widehat{L}_2]}_{Коммутатор} = \widehat{L}_1\cdot\widehat{L}_2 - \widehat{L}_2\cdot\widehat{L}_1
+$$
+
+Для коммутирующих операторов коммутатор равен нулю.
 
 
