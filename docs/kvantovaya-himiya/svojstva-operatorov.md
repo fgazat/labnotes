@@ -1,18 +1,26 @@
 # Свойства операторов
 
-**Оператор** — это закон, по которому одной функции f ставится в соответствие другая функция g. Оператор определяет, какое действие должно быть произведено над функцией f, чтобы перевести ее в функцию g:
+**Оператор** — это закон, по которому одной функции $f$ ставится в соответствие другая функция $g$. Оператор определяет, какое действие должно быть произведено над функцией $f$, чтобы перевести ее в функцию $g$:
 
-![](images/svojstva-operatorov/svoistva_clip_image001.png)
+$$
+g = \widehat{L}f
+$$
 
 **Свойства операторов**:
 
 1. **Линейность.** Оператор называется линейным, если выполняется следующее равенство:
 
-    ![](images/svojstva-operatorov/svoistva_clip_image001_0000.png)
+    $$
+    \widehat{L}(\alpha_1f_1 + \alpha_2f_2) = \alpha_1\widehat{L}f_1 + \alpha_2\widehat{L}f_2
+    $$
 
-    ![](images/svojstva-operatorov/svoistva_clip_image001_0001.png)
+    $$
+    \widehat{L}(f_1 + f_2) = \widehat{L}f_1 + \widehat{L}f_2
+    $$
 
-    ![](images/svojstva-operatorov/svoistva_clip_image001_0002.png)
+    $$
+    \widehat{L}(f_1 + f_1) = \widehat{L}f_1 + \widehat{L}f_1 = 2 \widehat{L}f_1
+    $$
 
 2. **Самосопряженность.** Оператор называется самосопряженным (эрмитовым), если выполняется следующее равенство:
 
@@ -23,11 +31,19 @@
 
 * сложение:
 
-    ![](images/svojstva-operatorov/svoistva_clip_image001_0004.png)
+    $$
+    \widehat{L} = \widehat{L}_1 + \widehat{L}_2
+    $$
+
+    $$
+    \widehat{L}f = (\widehat{L}_1 + \widehat{L}_2)f = \widehat{L}_1f + \widehat{L}_2f
+    $$
 
     При сложении порядок действия операторов **не имеет значения**:
 
-    ![](images/svojstva-operatorov/svoistva_clip_image001_0006.png)
+    $$
+    \widehat{L}_1f + \widehat{L}_2f = \widehat{L}_2f + \widehat{L}_1f
+    $$
 
 * умножение:
 
