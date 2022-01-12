@@ -27,9 +27,9 @@ $$
 1. $f=e^{kx}$
 
     $$
-    \widehat{L}f = \frac{d}{dx}e^{kx} = \overset{\substack{
-    l\\\\
-    \uparrow \\\\}}
+    \widehat{L}f = \frac{d}{dx}e^{kx} = \underset{\substack{\\
+    \downarrow \\\\ 
+    l}}
     {k}e^{kx}=lf
     $$
 
@@ -74,8 +74,14 @@ $$
 $$
 
 $$
-f = e^{kx} \qquad \widehat{L}f = ke^{kx} = kf, \quad l_1 =k \\
-g = ye^{kx} \qquad \widehat{L}g = kye^{kx} = kg, \quad l_2 =k \\
+f = e^{kx} \qquad \widehat{L}f = ke^{kx} = kf, \quad l_1 =k
+$$
+
+$$
+g = ye^{kx} \qquad \widehat{L}g = kye^{kx} = kg, \quad l_2 =k
+$$
+
+$$
 g\neq f\qquad l_1=l_2
 $$
 
@@ -97,11 +103,17 @@ $$
 
 Проинтегрируем:
 
-![](images/operatornye-uravneniya/operatornie_clip_image001_0007.png)
+$$
+\int\limits_{-\infin}^{+\infin}f^*\widehat{L}f d\tau = \int\limits_{-\infin}^{+\infin}f^*lf d\tau \Longrightarrow l\int\limits_{-\infin}^{+\infin}f^*f d\tau = 1
+$$
 
-Собственное значение есть значение физической величины (из 5 постулата). Т.е. для оператора полной энергии системы (гамильтониана *H*) — собственное значение *Е* есть значение физической величины полной энергии системы.
+$$
+l = \int\limits_{-\infin}^{+\infin}f^*\widehat{L}f d\tau \text{ — 5 постулат}
+$$
 
-1 следствие: константа Е в уравнении Шредингера является полной энергией системы.
+Собственное значение есть значение физической величины (из 5 постулата). Т.е. для оператора полной энергии системы (гамильтониана $H$) — собственное значение $E$ есть значение физической величины полной энергии системы.
+
+1 следствие: константа $E$ в уравнении Шредингера является полной энергией системы.
 
 $$
 \widehat{H}\Psi = E\Psi
@@ -113,15 +125,19 @@ $$
 
 Физическая величина определяется интегралом:
 
-![](images/operatornye-uravneniya/operatornie_clip_image001_0014.png)
+$$
 
-1) *Ψ* — собственная, тогда *физическая величина l* — точное значение;
+l=\int\limits_{-\infin}^{+\infin} f^*\widehat{L}fd\tau
+$$
 
-2) *Ψ* — не собственная:
+
+1) $\Psi$ — собственная, тогда физическая величина $l$ — точное значение;
+
+2) $\Psi$ — не собственная:
 
 ![](images/operatornye-uravneniya/operatornie_clip_image001_0015.png)
 
-*Ψ* — не собственная:
+$\Psi$ — не собственная:
 
 ![](images/operatornye-uravneniya/operatornie_clip_image001_0018.png)
 
