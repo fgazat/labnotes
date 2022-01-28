@@ -18,7 +18,13 @@ const sidebars = {
 
 
   vms: [
-    'vms/index',
+    {
+      type: 'category',
+      collapsible: false,
+      label: 'Химия ВМС',
+      link: {type: 'doc', id: 'vms/index'},
+      items: [
+    // 'vms/index',
     'vms/opredeleniya',
     'vms/klassifikatsiya-polimerov',
     'vms/vazhnejshie-polimery',
@@ -82,9 +88,15 @@ const sidebars = {
         'vms/gibkost-cepi-polimera',
       ],
     },
+  ]}
   ],
-  fizicheskaya: [
-    'fizicheskaya-himiya/index',
+  fizicheskaya: [{
+    type: 'category',
+    collapsible: false,
+    label: 'Физическая химия',
+    link: {type: 'doc', id: 'fizicheskaya-himiya/index'},
+    items: [
+    // 'fizicheskaya-himiya/index',
     'fizicheskaya-himiya/opredeleniya',
     {
       type: 'category',
@@ -131,18 +143,29 @@ const sidebars = {
         'fizicheskaya-himiya/himicheskoe-ravnovesie',
       ],
     },
-  ],
-  kvantovaya: [
-    'kvantovaya-himiya/index',
-    'kvantovaya-himiya/postulaty-kvantovoj-mekhaniki',
-    'kvantovaya-himiya/prostranstvo-volnovykh-funktsij',
-    'kvantovaya-himiya/osnovnye-operatory-kvantovoj-mekhaniki',
-    'kvantovaya-himiya/svojstva-operatorov',
-    'kvantovaya-himiya/operatornye-uravneniya',
-    'kvantovaya-himiya/matrichnoe-predstavlenie-operatorov',
-  ],
-  kolloidnaya: [
-    'kolloidnaya-himiya/index',
+  ]}],
+  kvantovaya: [{
+    type: 'category',
+    collapsible: false,
+    label: 'Квантовая химия',
+    link: {type: 'doc', id: 'kvantovaya-himiya/index'},
+    items: [
+      // 'kvantovaya-himiya/index',
+      'kvantovaya-himiya/postulaty-kvantovoj-mekhaniki',
+      'kvantovaya-himiya/prostranstvo-volnovykh-funktsij',
+      'kvantovaya-himiya/osnovnye-operatory-kvantovoj-mekhaniki',
+      'kvantovaya-himiya/svojstva-operatorov',
+      'kvantovaya-himiya/operatornye-uravneniya',
+      'kvantovaya-himiya/matrichnoe-predstavlenie-operatorov',
+    ]
+  }],
+  kolloidnaya: [{
+    type: 'category',
+    collapsible: false,
+    label: 'Коллоидная химия',
+    link: {type: 'doc', id: 'kolloidnaya-himiya/index'},
+    items: [
+    // 'kolloidnaya-himiya/index',
     'kolloidnaya-himiya/opredeleniya',
     'kolloidnaya-himiya/opticheskie-svojstva',
     'kolloidnaya-himiya/poverkhnostnye-yavleniya',
@@ -152,6 +175,7 @@ const sidebars = {
     'kolloidnaya-himiya/teorii-adsorbcii',
     'kolloidnaya-himiya/klassifikatsiya-sorbentov',
   ]
+}]
 };
 
 module.exports = sidebars;

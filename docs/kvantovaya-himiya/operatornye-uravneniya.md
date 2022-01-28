@@ -137,6 +137,21 @@ $$
 
 2) $\Psi$ — не собственная:
 
+$$
+\int\limits_{-\infin}^{+\infin} \Psi^*\widehat{L}\Psi d\tau = 
+\int\limits_{-\infin}^{+\infin} \sum\limits_ic_i\varphi_i^*\left(\widehat{L}\sum\limits_ic_i\varphi_i\right) d\tau =
+\color{green} \left[\widehat{L}\left(\alpha f + \beta g\right) = \alpha \widehat{L}f + \beta\widehat{L}g\right] \color{g} = \\
+\int\limits_{-\infin}^{+\infin} \sum\limits_ic_i\varphi_i^*\left(\sum\limits_ic_i\widehat{L}\varphi_i\right) d\tau =
+\color{green} \left[\widehat{L}\varphi_i = l_i\varphi_i \right] \color{g} = 
+\int\limits_{-\infin}^{+\infin} \sum\limits_ic_i\varphi_i^*\left(\sum\limits_ic_il_i \varphi_i\right) d\tau = \\
+\int\limits_{-\infin}^{+\infin} \sum\limits_i\sum\limits_j c_i\varphi_i^*c_jl_j \varphi_j d\tau =
+\sum\limits_i\sum\limits_j c_ic_jl_j \underset{\substack{|| \\\\
+    \delta
+}} 
+{\int\limits_{-\infin}^{+\infin} \varphi_i^* \varphi_j d\tau}  = \sum\limits_i c_i^2l_i
+
+$$
+
 ![](images/operatornye-uravneniya/operatornie_clip_image001_0015.png)
 
 $\Psi$ — не собственная:
