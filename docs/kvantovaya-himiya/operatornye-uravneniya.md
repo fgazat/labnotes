@@ -152,8 +152,6 @@ $$
 
 $$
 
-![](images/operatornye-uravneniya/operatornie_clip_image001_0015.png)
-
 $\Psi$ — не собственная:
 
 $$
