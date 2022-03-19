@@ -38,8 +38,9 @@ const config = {
           showReadingTime: true,
           // blogTitle: 'Docusaurus blog!',
           // blogDescription: 'A Docusaurus powered blog!',
-          blogSidebarTitle: 'Все посты',
+          blogSidebarTitle: 'Все новости',
           blogSidebarCount: 'ALL',
+          routeBasePath: 'news',
           postsPerPage: 'ALL',
         },
         theme: {
@@ -100,12 +101,12 @@ const config = {
             ],
           },
 
-          {to: '/blog', label: 'Блог', position: 'left'},
-          {
-            href: 'https://www.tinkoff.ru/cf/VsoSs5bulN',
-            label: 'Поддержать',
-            position: 'right',
-          },
+          {to: '/news', label: 'Новости', position: 'left'},
+          // {
+          //   href: 'https://www.tinkoff.ru/cf/VsoSs5bulN',
+          //   label: 'Поддержать',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
@@ -153,13 +154,13 @@ const config = {
             title: 'Еще',
             items: [
               {
-                label: 'Блог',
-                to: '/blog',
+                label: 'Новости',
+                to: '/news',
               },
-              {
-                label: 'Поддержать',
-                href: 'https://www.tinkoff.ru/cf/VsoSs5bulN',
-              },
+              // {
+              //   label: 'Поддержать',
+              //   href: 'https://www.tinkoff.ru/cf/VsoSs5bulN',
+              // },
             ],
           },
         ],

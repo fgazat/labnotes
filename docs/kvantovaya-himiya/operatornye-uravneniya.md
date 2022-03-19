@@ -1,18 +1,47 @@
 # Операторные уравнения
 
-![](images/operatornye-uravneniya/operatornie_clip_image001.png)
+Пример опреаторного уравнения:
 
-Функция *f* удовлетворяющая операторному уравнению *Lf = lf* называется **собственной функцией оператора**. Число (не переменная) *l* называется **собственным значением оператора**.
+$$
+\widehat H\Psi=E\Psi,
+$$
 
-![](images/operatornye-uravneniya/operatornie_clip_image001_0000.png)
+где $\widehat H$ — оператор, $\Psi$ — функция.
 
-Пример:
 
-Рассмотрим оператор дифференцирования
+Функция $f$, которая удовлетворяет операторному уравнению $\widehat Lf = lf$, называется **собственной функцией оператора**. Число (не переменная) $l$ называется **собственным значением оператора**.
 
-![](images/operatornye-uravneniya/operatornie_clip_image001_0001.png)
+$$
+\widehat Lf = lf,
+$$
 
-В первом случае функция f является собственной функцией оператора, собственное значение k. Во втором случае функция f не является собственной, т.к. не соответствует операторному уравнению (l содержит в себе переменную).
+где $l$ — собственное значение, $f$ — собственная функция оператора.
+
+Например, рассмотрим оператор дифференцирования:
+
+$$
+\widehat{L} = \frac{d}{dx}
+$$
+
+
+1. $f=e^{kx}$
+
+    $$
+    \widehat{L}f = \frac{d}{dx}e^{kx} = \underset{\substack{\\
+    \downarrow \\\\ 
+    l}}
+    {k}e^{kx}=lf
+    $$
+
+    Вывод: функция $f$ является собственной функцией оператора, собственное значение  $k$.
+
+2. $f = x^2$
+
+    $$
+    \widehat{L}f = \frac{d}{dx}x^2 = 2x = \frac{2}{x}f\neq lf
+    $$
+
+    Вывод: функция $f$ не является собственной, так как не соответствует операторному уравнению ($l$ содержит в себе переменную).
 
 Основная задача квантовой химии сводится к нахождению собственных функций и собственных значений оператора полной энергии для молекул.
 
@@ -20,7 +49,15 @@
 
 Рассмотрим оператор дифференцирования:
 
-![](images/operatornye-uravneniya/operatornie_clip_image001_0003.png)
+$$
+\widehat{L}=\frac{d}{dx}
+$$
+
+$$
+e^{kx} \longrightarrow e^x,e^{2x},...,e^{kx}
+$$
+Собственное значение — $k$.
+
 
 Для оператора может существовать различное множество собственных функций. Причем собственные функции самосопряженного оператора ортогональны друг другу и образуют базис пространства функций.
 
@@ -32,7 +69,21 @@
 
 Рассмотрим оператор дифференцирования:
 
-![](images/operatornye-uravneniya/operatornie_clip_image001_0009.png)
+$$
+\widehat{L} = \frac{\partial}{\partial{x}}
+$$
+
+$$
+f = e^{kx} \qquad \widehat{L}f = ke^{kx} = kf, \quad l_1 =k
+$$
+
+$$
+g = ye^{kx} \qquad \widehat{L}g = kye^{kx} = kg, \quad l_2 =k
+$$
+
+$$
+g\neq f\qquad l_1=l_2
+$$
 
 Собственные волновые функции для которых собственное значения одинаковые называются **вырожденными**.
 
@@ -40,49 +91,85 @@
 
 Запишем операторное уравнение:
 
-![](images/operatornye-uravneniya/operatornie_clip_image001_0005.png)
+$$
+\widehat{L}f=lf
+$$
 
-Умножим левую и правую часть равнения на комплексно-сопряженную функцию *f\**:
+Умножим левую и правую часть равнения на комплексно-сопряженную функцию $f^*$:
 
-![](images/operatornye-uravneniya/operatornie_clip_image001_0006.png)
+$$
+f^*\widehat{L}f=f^*lf
+$$
 
 Проинтегрируем:
 
-![](images/operatornye-uravneniya/operatornie_clip_image001_0007.png)
+$$
+\int\limits_{-\infin}^{+\infin}f^*\widehat{L}f d\tau = \int\limits_{-\infin}^{+\infin}f^*lf d\tau \Longrightarrow l\int\limits_{-\infin}^{+\infin}f^*f d\tau = 1
+$$
 
-Собственное значение есть значение физической величины (из 5 постулата). Т.е. для оператора полной энергии системы (гамильтониана *H*) — собственное значение *Е* есть значение физической величины полной энергии системы.
+$$
+l = \int\limits_{-\infin}^{+\infin}f^*\widehat{L}f d\tau \text{ — 5 постулат}
+$$
 
-1 следствие: константа Е в уравнении Шредингера является полной энергией системы.
+Собственное значение есть значение физической величины (из 5 постулата). Т.е. для оператора полной энергии системы (гамильтониана $H$) — собственное значение $E$ есть значение физической величины полной энергии системы.
 
-![](images/operatornye-uravneniya/operatornie_clip_image001_0013.png)
+Следствия:
 
-2 следствие: Для любого состояния системы можно найти его энергию.
+* константа $E$ в уравнении Шредингера является полной энергией системы.
+
+    $$
+    \widehat{H}\Psi = E\Psi
+    $$
+
+* для любого состояния системы можно найти его энергию.
 
 ## Проблема точных и средних значений физических величин. Энергия известна точно или это вероятностная величина?
 
 Физическая величина определяется интегралом:
 
-![](images/operatornye-uravneniya/operatornie_clip_image001_0014.png)
+$$
 
-1) *Ψ* — собственная, тогда *физическая величина l* — точное значение;
+l=\int\limits_{-\infin}^{+\infin} f^*\widehat{L}fd\tau
+$$
 
-2) *Ψ* — не собственная:
 
-![](images/operatornye-uravneniya/operatornie_clip_image001_0015.png)
+1) $\Psi$ — собственная, тогда физическая величина $l$ — точное значение;
 
-*Ψ* — не собственная:
+2) $\Psi$ — не собственная:
 
-![](images/operatornye-uravneniya/operatornie_clip_image001_0018.png)
+$$
+\int\limits_{-\infin}^{+\infin} \Psi^*\widehat{L}\Psi d\tau = 
+\int\limits_{-\infin}^{+\infin} \sum\limits_ic_i\varphi_i^*\left(\widehat{L}\sum\limits_ic_i\varphi_i\right) d\tau =
+\color{green} \left[\widehat{L}\left(\alpha f + \beta g\right) = \alpha \widehat{L}f + \beta\widehat{L}g\right] \color{g} = \\
+\int\limits_{-\infin}^{+\infin} \sum\limits_ic_i\varphi_i^*\left(\sum\limits_ic_i\widehat{L}\varphi_i\right) d\tau =
+\color{green} \left[\widehat{L}\varphi_i = l_i\varphi_i \right] \color{g} = 
+\int\limits_{-\infin}^{+\infin} \sum\limits_ic_i\varphi_i^*\left(\sum\limits_ic_il_i \varphi_i\right) d\tau = \\
+\int\limits_{-\infin}^{+\infin} \sum\limits_i\sum\limits_j c_i\varphi_i^*c_jl_j \varphi_j d\tau =
+\sum\limits_i\sum\limits_j c_ic_jl_j \underset{\substack{|| \\\\
+    \delta
+}} 
+{\int\limits_{-\infin}^{+\infin} \varphi_i^* \varphi_j d\tau}  = \sum\limits_i c_i^2l_i
+
+$$
+
+$\Psi$ — не собственная:
+
+$$
+\left\langle l \right\rangle = C_1^2\varphi_1 + C_2^2\varphi_2 + ... + C_i^2\varphi_i \text{ — усреднение по состояниям}
+$$
+
+$C_i^2$ — вероятность нахождения системы в разных состояниях.
 
 Физическая величина вычисляемая по 5 постулату является точной, если волновая функция является собственной функцией оператора.
 
 Если волновая функция не является собственной функцией оператора, то физическая является средней.
 
-2 следствия:
+Следствия:
 
 * энергия любой системы может быть определена точно (это не средняя величина)
 
-    ![](images/operatornye-uravneniya/operatornie_clip_image001_0019.png)
+    $$
+    \widehat{H}\Psi=E\Psi
+    $$
 
 * физические величины, соответствующие коммутирующим операторам могут быть одновременно определены с любой степенью точности. И обратное: если операторы не коммутируют, то их физические величины не могут быть одновременно точно определены.
-

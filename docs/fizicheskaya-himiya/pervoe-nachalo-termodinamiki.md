@@ -41,4 +41,3 @@
 ![](images/pervyj-zakon-termodinamiki/pervyj-zakon-termodinamiki_clip_image001_0008.png)
 
 Два уравнения первого начала термодинамики являются зависимыми друг от друга.
-

@@ -16,6 +16,31 @@ $$
 \right\} \Longrightarrow \Delta P_i dV = \sigma dS
 $$
 
+Подпись
+
 $$
 \fbox{$P_i=\frac{2\sigma}{d}$}
+$$
+
+$$
+\underbrace{ФОРМУЛА}_{подпись}
+$$
+
+НАДПИСЬ сверху
+$$
+\overset{\substack{
+    \text{UP} \\
+    \text{DOWN} \\\\
+\uparrow \\\\}}
+{SUBJ} = gh \\
+
+$$
+
+НАДПИСЬ снизу
+$$
+\underset{\substack{\\\downarrow \\\\
+    \text{UP} \\
+    \text{DOWN}
+}}
+{SUBJ} = gh
 $$
