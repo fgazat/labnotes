@@ -50,6 +50,10 @@ const config = {
           trackingID: 'UA-85912797-1',
           anonymizeIP: true,
         },
+        gtag: {
+          trackingID: 'G-CXYZWL70YN',
+          anonymizeIP: true,
+        },
       }),
     ],
   ],
