@@ -56,7 +56,6 @@
 
     ![](images/osnovnye-operatory/operatori_clip_image001_0029.png)
 
-
 Можем предположить, что операторы импульса и кинетической энергии коммутируют, т.к. порядок дифференцирования не имеет значения.
 
 ![](images/osnovnye-operatory/operatori_clip_image001_0035.png)

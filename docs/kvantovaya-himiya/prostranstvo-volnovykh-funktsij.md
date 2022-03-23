@@ -67,9 +67,26 @@ $$
 
 Если волновые функции являются *нормированными* и *ортогональными*, то они называются **ортонормированным** базисом функции. Такие базисы являются наиболее удобными.
 
-Выведем условие **ортонормированности**:
+Выведем условие ортонормированности:
 
-![](images/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0006.png)
+$$
+\left.
+    \begin{array}{ccc}
+        \int\limits_{\infin} \Psi_i^*\Psi_id\tau = 1 \\
+        \int\limits_{\infin} \Psi_i^*\Psi_jd\tau = 0 
+    \end{array}
+\right\} \Longrightarrow \int\limits_{-\infin}^{+\infin} \Psi^*\Psi d\tau = \delta_{ij}, \text{где }\delta_{ij} = \begin{cases}
+    0, i\neq j \\
+    1, i = j \\
+  \end{cases}
+$$
+
+Условие ортонормированности: 
+
+$$
+\int\limits_{-\infin}^{+\infin} \Psi^*\Psi d\tau = \delta_{ij}
+$$
+
 
 Допустим, есть функция:
 
@@ -81,7 +98,12 @@ $$
 
 Функция подчиняется условию нормировки:
 
-![](images/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0007.png) ![](images/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0008.png)
+$$
+\int\limits_{-\infin}^{+\infin} \Psi^*\Psi d\tau = \int\limits_{-\infin}^{+\infin}\sum\limits_iC_i\varphi_i^* \cdot\sum\limits_iC_i\varphi_id\tau = \int\limits_{-\infin}^{+\infin} \left(C_1\varphi_1^*+C_2\varphi_2^*+...\right)\left(C_1\varphi_1+C_2\varphi_2+...\right) = \int\limits_{-\infin}^{+\infin} 
+$$
+
+
+ ![](images/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0008.png)
 
 При умножении вводится новый индекс j.
 
