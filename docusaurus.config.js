@@ -147,11 +147,7 @@ const config = {
               {
                 label: 'Телеграм',
                 href: 'https://t.me/+YTBy1RcJfKxiN2U6',
-              },
-              {
-                label: 'Мой инстаграм',
-                href: 'https://instagram.com/fgazat',
-              },
+              }
             ],
           },
           {
