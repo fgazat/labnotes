@@ -50,6 +50,10 @@ const config = {
           trackingID: 'UA-85912797-1',
           anonymizeIP: true,
         },
+        gtag: {
+          trackingID: 'G-CXYZWL70YN',
+          anonymizeIP: true,
+        },
       }),
     ],
   ],
@@ -143,11 +147,7 @@ const config = {
               {
                 label: 'Телеграм',
                 href: 'https://t.me/+YTBy1RcJfKxiN2U6',
-              },
-              {
-                label: 'Мой инстаграм',
-                href: 'https://instagram.com/fgazat',
-              },
+              }
             ],
           },
           {

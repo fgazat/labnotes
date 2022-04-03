@@ -67,9 +67,26 @@ $$
 
 Если волновые функции являются *нормированными* и *ортогональными*, то они называются **ортонормированным** базисом функции. Такие базисы являются наиболее удобными.
 
-Выведем условие **ортонормированности**:
+Выведем условие ортонормированности:
 
-![](images/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0006.png)
+$$
+\left.
+    \begin{array}{ccc}
+        \int\limits_{\infin} \Psi_i^*\Psi_id\tau = 1 \\
+        \int\limits_{\infin} \Psi_i^*\Psi_jd\tau = 0 
+    \end{array}
+\right\} \Longrightarrow \int\limits_{-\infin}^{+\infin} \Psi^*\Psi d\tau = \delta_{ij}, \text{где }\delta_{ij} = \begin{cases}
+    0, i\neq j \\
+    1, i = j \\
+  \end{cases}
+$$
+
+Условие ортонормированности: 
+
+$$
+\int\limits_{-\infin}^{+\infin} \Psi^*\Psi d\tau = \delta_{ij}
+$$
+
 
 Допустим, есть функция:
 
@@ -81,15 +98,47 @@ $$
 
 Функция подчиняется условию нормировки:
 
-![](images/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0007.png) ![](images/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0008.png)
+$$
+\int\limits_{-\infin}^{+\infin} \Psi^*\Psi d\tau =
+\int\limits_{-\infin}^{+\infin}\sum\limits_iC_i\varphi_i^* \cdot\sum\limits_iC_i\varphi_id\tau = 
+\int\limits_{-\infin}^{+\infin} \left(C_1\varphi_1^*+C_2\varphi_2^*+...\right)\left(C_1\varphi_1+C_2\varphi_2+...\right) = \\
+\int\limits_{-\infin}^{+\infin} \left(C_1^2\varphi_1^*\varphi_1 + C_1C_2\varphi_1^*\varphi_2 + C_2\varphi_2^*C_1\varphi_1 + C_2^2\varphi_2^*\varphi_2 + ...\right) = 
+\int\limits_{-\infin}^{+\infin} \sum\limits_i\sum\limits_j C_iC_j\varphi_i^*\varphi_j d\tau
+$$
 
-При умножении вводится новый индекс j.
+При умножении вводится новый индекс $j$.
 
-![](images/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0009.png)
+$$
+\int\limits_{-\infin}^{+\infin} \sum\limits_i\sum\limits_j C_iC_j\varphi_i^*\varphi_j d\tau = 
+\underset{\substack{\\\downarrow \\\\
+    \text{интеграл суммы} \\\\
+    \text{равен сумме интегралов}
+}}
+{\sum\limits_i\sum\limits_j \int\limits_{-\infin}^{+\infin} C_iC_j\varphi_i^*\varphi_j d\tau } =
+\underset{\substack{\\\downarrow \\\\
+    \text{выносим постоянные} \\\\
+    \text{за знак интегрирования}
+}}
+{{\sum\limits_i\sum\limits_j C_iC_j \int\limits_{-\infin}^{+\infin} \varphi_i^*\varphi_j d\tau }}
+$$
+
+При этом из условия ортонормированности 
+
+$$
+\int\limits_{-\infin}^{+\infin} \Psi^*\Psi d\tau = \delta_{ij}
+$$
+
+и условии $i=j$, получим:
+
+$$
+{\sum\limits_i\sum\limits_j C_iC_j \int\limits_{-\infin}^{+\infin} \varphi_i^*\varphi_j d\tau } =\sum С_i^2 
+$$
 
 Результат нормировки функции пси по базису:
 
-![](images/prostranstvo-volnovyh-funkcij/prostranstvo_clip_image001_0010.png)
+$$
+\int\limits_{-\infin}^{+\infin} \Psi^*\Psi d\tau = 1 \qquad\Longrightarrow \sum С_i^2 = 1 \qquad C_1^2 + C_2^2 + ... = 1, \quad|C_i|<1
+$$
 
 **Физический смысл**: этот интеграл — вероятность нахождения системы около базисной функции.
 
