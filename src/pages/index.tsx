@@ -125,6 +125,9 @@ function ShowcaseFooter() {
 const chemistyUsers = sortedUsers.filter((user) =>
   user.tags.includes('chemistry'),
 );
+const physicsUsers = sortedUsers.filter((user) =>
+  user.tags.includes('physics'),
+);
 const otherUsers = sortedUsers.filter(
   (user) => !user.tags.includes('favorite'),
 );
@@ -158,6 +161,20 @@ function ShowcaseCards() {
               </div>
               <ul className={clsx('container', styles.showcaseList)}>
                 {chemistyUsers.map((user) => (
+                  <ShowcaseCard key={user.title} user={user} />
+                ))}
+              </ul>
+            </div>
+            <div className="container">
+              <div
+                className={clsx(
+                  'margin-bottom--md',
+                  styles.showcaseFavoriteHeader,
+                )}>
+                <h1 className="margin-top--md margin-bottom--md text--center">💡 Физика</h1>
+              </div>
+              <ul className={clsx('container', styles.showcaseList)}>
+                {physicsUsers.map((user) => (
                   <ShowcaseCard key={user.title} user={user} />
                 ))}
               </ul>

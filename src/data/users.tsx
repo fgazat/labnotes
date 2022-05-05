@@ -53,7 +53,7 @@ export const Tags: Record<TagType, Tag> = {
 
   physics: {
     label: 'Физика',
-    description: 'Docusaurus sites associated to a commercial product!',
+    description: 'Физика — наука о...',
     color: '#dfd545',
   },
 
@@ -112,6 +112,14 @@ const Users: User[] = [
     preview: require('./subjects/kolloidnaya.png'),
     website: 'kolloidnaya-himiya/',
     tags: ['chemistry'],
+  },
+  {
+    title: 'Основы механики',
+    description:
+      'Часть физики, которая изучает закономерности механического движения.',
+    preview: require('./subjects/mekhanika.png'),
+    website: 'fizicheskie-osnovy-mekhaniki/',
+    tags: ['physics'],
   },
 ];
 

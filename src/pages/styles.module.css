@@ -67,6 +67,7 @@
 .showcaseFavoriteHeader {
   display: flex;
   align-items: center;
+  margin-top: 25px;
 }
 
 .showcaseFavoriteHeader > h2 {
