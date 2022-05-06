@@ -14,6 +14,9 @@
 
 Вспомним основные действия над матрицами (подробнее можно прочитать в литературе, или на сайтах [mathprofi.ru](http://www.mathprofi.ru/deistviya_s_matricami.html), [simumath.net](http://www.simumath.net/library/book.html?code=Matr_Alg_introduction)):
 
+
+<div class="pagination-nav__link">🙏 Если наш сайт помог вам, расскажите о нем друзьям и одногруппникам. И подпишитесь на наш <a href="https://t.me/+JfpTv9CJlwQ0MThi">🔗 Телеграм-канал</a>.</div>
+
 ## Умножение матрицы на число
 
 ![](images/matrichnoe-predstavlenie-operatorov/matrica_clip_image001_0001.png)
