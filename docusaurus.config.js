@@ -104,6 +104,18 @@ const config = {
               },
             ],
           },
+          // {
+          //   type: 'dropdown',
+          //   label: 'Физика',
+          //   position: 'left',
+          //   items: [
+          //     {
+          //       type: 'doc',
+          //       docId: 'fizicheskie-osnovy-mekhaniki/index',
+          //       label: 'Основы механики',
+          //     }
+          //   ],
+          // },
 
           {to: '/news', label: 'Новости', position: 'left'},
           // {
@@ -112,6 +124,11 @@ const config = {
           //   position: 'right',
           // },
         ],
+      },
+      docs: {
+        sidebar: {
+          hideable: true,
+        },
       },
       footer: {
         style: 'dark',
@@ -174,7 +191,6 @@ const config = {
       colorMode: {
         disableSwitch: true
       },
-      hideableSidebar: true,
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
