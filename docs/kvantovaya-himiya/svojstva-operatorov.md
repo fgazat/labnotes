@@ -30,7 +30,7 @@ $$
 
 
 
-<div class="pagination-nav__link">🙏 Если наш сайт помог вам, расскажите о нем друзьям и одногруппникам. И подпишитесь на наш <a href="https://t.me/+JfpTv9CJlwQ0MThi">🔗 Телеграм-канал</a>.</div>
+<div class="pagination-nav__link">🙏 Если вам нравится сайт, подпишитесь на наш <a href="https://t.me/+JfpTv9CJlwQ0MThi">🔗 Телеграм-канал</a>.</div>
 
 ## Действия над операторами
 
