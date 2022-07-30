@@ -104,25 +104,13 @@ const config = {
               },
             ],
           },
-          // {
-          //   type: 'dropdown',
-          //   label: 'Физика',
-          //   position: 'left',
-          //   items: [
-          //     {
-          //       type: 'doc',
-          //       docId: 'fizicheskie-osnovy-mekhaniki/index',
-          //       label: 'Основы механики',
-          //     }
-          //   ],
-          // },
-
           {to: '/news', label: 'Новости', position: 'left'},
-          // {
-          //   href: 'https://www.tinkoff.ru/cf/VsoSs5bulN',
-          //   label: 'Поддержать',
-          //   position: 'right',
-          // },
+          {
+            href: 'https://github.com/fgazat/labnotes',
+            position: 'right',
+            className: 'header-github-link',
+            'aria-label': 'GitHub repository',
+          },
         ],
       },
       docs: {
@@ -174,10 +162,10 @@ const config = {
                 label: 'Новости',
                 to: '/news',
               },
-              // {
-              //   label: 'Поддержать',
-              //   href: 'https://www.tinkoff.ru/cf/VsoSs5bulN',
-              // },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/fgazat/labnotes',
+              }
             ],
           },
         ],
@@ -187,9 +175,6 @@ const config = {
         id: 'announcementBar-2',
         content:
         '🙏 Если вам нравится сайт, подпишитесь на наш <a target="_blank" rel="noopener noreferrer" href="https://t.me/+EdUnDQcUWrI2MGJi">Телеграм-канал</a>.',
-      },
-      colorMode: {
-        disableSwitch: true
       },
       prism: {
         theme: lightCodeTheme,
