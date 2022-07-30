@@ -71,9 +71,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'ON LEARNING',
+        title: 'Lab Notes',
         logo: {
-          alt: 'ON LEARNING Logo',
+          alt: 'Lab Notes Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -181,7 +181,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} ON LEARNING.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Lab Notes.`,
       },
       announcementBar: {
         id: 'announcementBar-2',
