@@ -1,0 +1,3 @@
+User-agent: *
+Host: https://labnotes.ru
+Sitemap: https://labnotes.ru/sitemap.xml 
