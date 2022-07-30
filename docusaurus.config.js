@@ -9,16 +9,16 @@ const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ON LEARNING',
+  title: 'Lab Notes',
   tagline: 'Сайт с конспектами лекций',
-  url: 'https://onlearning.ru',
+  url: 'https://labnotes.ru',
   baseUrl: '/',
   trailingSlash: true,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'fgazat', // Usually your GitHub org/user name.
+  projectName: 'labnotes', // Usually your repo name.
   i18n: {
     defaultLocale: 'ru',
     locales: ['ru']
