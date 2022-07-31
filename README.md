@@ -10,4 +10,4 @@ yarn build
 yarn deploy
 ```
 
-The website: [Onlearning.ru](https://onlearning.ru)
+The website: [labnotes.ru](https://labnotes.ru)
