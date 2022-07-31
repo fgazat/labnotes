@@ -20,7 +20,7 @@ export type TagType =
   | 'chemistry'
   | 'physics'
   | 'biology'
-  | 'programming'
+  | 'it'
   | 'economy';
 
 export type User = {
@@ -64,8 +64,8 @@ export const Tags: Record<TagType, Tag> = {
     color: '#a44fb7',
   },
 
-  programming: {
-    label: 'Программирование',
+  it: {
+    label: 'IT',
     description:
       'Translated Docusaurus sites using the internationalization support with more than 1 locale.',
     color: '#127f82',
