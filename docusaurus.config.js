@@ -10,7 +10,7 @@ const katex = require('rehype-katex');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Lab Notes',
-  tagline: 'Сайт с конспектами лекций',
+  tagline: 'Сайт с лабораторными заметками Азата',
   url: 'https://labnotes.ru',
   baseUrl: '/',
   trailingSlash: true,
@@ -36,11 +36,9 @@ const config = {
         },
         blog: {
           showReadingTime: true,
-          // blogTitle: 'Docusaurus blog!',
-          // blogDescription: 'A Docusaurus powered blog!',
-          blogSidebarTitle: 'Все новости',
+          blogSidebarTitle: 'Все заметки',
           blogSidebarCount: 'ALL',
-          routeBasePath: 'news',
+          routeBasePath: 'notes',
           postsPerPage: 'ALL',
         },
         theme: {
@@ -57,7 +55,6 @@ const config = {
       }),
     ],
   ],
-
   stylesheets: [
     {
       href: 'https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css',
@@ -104,7 +101,7 @@ const config = {
               },
             ],
           },
-          {to: '/news', label: 'Новости', position: 'left'},
+          {to: '/notes', label: 'Заметки', position: 'left'},
           {
             href: 'https://github.com/fgazat/labnotes',
             position: 'right',
@@ -146,7 +143,7 @@ const config = {
             title: 'Социальные сети',
             items: [
               {
-                label: 'Вконтакте',
+                label: 'Twitter',
                 href: 'https://vk.com/onlearning',
               },
               {
@@ -159,8 +156,8 @@ const config = {
             title: 'Еще',
             items: [
               {
-                label: 'Новости',
-                to: '/news',
+                label: 'Заметки',
+                to: '/notes',
               },
               {
                 label: 'GitHub',
