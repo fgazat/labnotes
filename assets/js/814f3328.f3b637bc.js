@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkonlearning=self.webpackChunkonlearning||[]).push([[2535],{45641:function(e){e.exports=JSON.parse('{"title":"\u0412\u0441\u0435 \u043d\u043e\u0432\u043e\u0441\u0442\u0438","items":[{"title":"\u0420\u0430\u0431\u043e\u0442\u0430 \u0432 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u0435","permalink":"/news/wip"}]}')}}]);

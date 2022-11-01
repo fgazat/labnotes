@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkonlearning=self.webpackChunkonlearning||[]).push([[6187],{53186:function(e){e.exports=JSON.parse('{"permalink":"/news/tags/\u0441\u0430\u0439\u0442","page":1,"postsPerPage":1,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
