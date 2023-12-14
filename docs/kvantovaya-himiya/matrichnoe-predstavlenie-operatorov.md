@@ -6,9 +6,19 @@
 
 Элементы матричного представления рассчитываются по следующим формулам:
 
-![](images/matrichnoe-predstavlenie-operatorov/matrica_clip_image001.png)
+$$ 
+\widehat{A} = \begin{vmatrix}
+a_{11} & a_{12} & ... &a_{1j}\\
+a_{21} & a_{22} & ... & a_{2j}\\
+.. & ... & ... & ...\\
+a_{j1} & a_{j2} & ... & a_{ij}\\
+\end{vmatrix},
+$$
 
-![](images/matrichnoe-predstavlenie-operatorov/matrica_clip_image001_0000.png)
+$$
+
+a_{ij}=\int\limits_{\infin} \varphi_i^*\widehat{A} \varphi_j d\tau, \text{где } \varphi_i \text{ — базис фунцкии}
+$$
 
 Подход в том, что операторы могут быть разные, но все они выражаются просто таблицей чисел. При этом все действия унифицируются (образуют единую систему).
 
@@ -19,25 +29,68 @@
 
 ## Умножение матрицы на число
 
-![](images/matrichnoe-predstavlenie-operatorov/matrica_clip_image001_0001.png)
+$$ 
+k\times\widehat{A} = k\times\begin{pmatrix}
+a_{11} & a_{12} & ... &a_{1j}\\
+a_{21} & a_{22} & ... & a_{2j}\\
+.. & ... & ... & ...\\
+a_{j1} & a_{j2} & ... & a_{ij}\\
+\end{pmatrix} = \\
+=\begin{pmatrix}
+k\cdot a_{11} & k\cdot a_{12} & ... & k\cdot a_{1j}\\
+k\cdot a_{21} & k\cdot  a_{22} & ... & k\cdot a_{2j}\\
+.. & ... & ... & ...\\
+k\cdot a_{j1} & k\cdot a_{j2} & ... & k\cdot a_{ij}\\
+\end{pmatrix} 
+$$
 
-Пример:
+### Пример
 
-![](images/matrichnoe-predstavlenie-operatorov/matrica_clip_image001_0002.png)
+$$ 
+4\times\begin{pmatrix}
+5 & -11\\
+-1 & 2 \\
+\end{pmatrix} = \begin{pmatrix}
+4\cdot5 & 4\cdot-11\\
+4\cdot-1 & 4\cdot2 \\
+\end{pmatrix} = \begin{pmatrix}
+20 & -44 \\
+-4 & 8 \\
+\end{pmatrix} 
+$$
 
-## Сумма (разность) матриц
 
-Не все матрицы можно складывать (вычитать), а только те, которые одинаковы по размеру.
 
-![](images/matrichnoe-predstavlenie-operatorov/matrica_clip_image001_0003.png)
+## Сумма и разность матриц
 
-## Пример 1. Сложение двух матриц разных размеров:
+Матрицы можно складывать и вычитать, если они одинаковы по размеру.
+$$
+\widehat{A} + \widehat{B} = \begin{pmatrix}
+a_{11} & a_{12} & ... &a_{1j}\\
+a_{21} & a_{22} & ... & a_{2j}\\
+.. & ... & ... & ...\\
+a_{j1} & a_{j2} & ... & a_{ij}\\
+\end{pmatrix} + \begin{pmatrix}
+b_{11} & b_{12} & ... & b_{1j}\\
+b_{21} & b_{22} & ... & b_{2j}\\
+.. & ... & ... & ...\\
+b_{j1} & b_{j2} & ... & b_{ij}\\
+\end{pmatrix} = \\
+= \begin{pmatrix}
+a_{11} + b_{11} & a_{11} + b_{12} & ... & a_{1j} + b_{1j}\\
+a_{21} + b_{21} & a_{22} + b_{22} & ... & a_{2j} + b_{2j}\\
+.. & ... & ... & ...\\
+a_{j1} + b_{j1} & a_{j2} + b_{j2} & ... & a_{ij} + b_{ij}\\
+\end{pmatrix}
+$$
+
+### Пример 1: сложение двух матриц разных размеров
 
 ![](images/matrichnoe-predstavlenie-operatorov/matrica_clip_image001_0005.png)
 
 Такие матрицы нельзя складывать. Матрицу "два на два" можно складывать только с матрицей "два на два".
 
-## Пример 2. Сложение двух матриц одинаковых размеров:
+### Пример 2: cложение двух матриц одинаковых размеров:
 
 ![](images/matrichnoe-predstavlenie-operatorov/matrica_clip_image001_0006.png)
 
