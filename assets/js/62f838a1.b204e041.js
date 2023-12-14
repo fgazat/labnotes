@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkonlearning=self.webpackChunkonlearning||[]).push([[2627],{34178:function(n){n.exports=JSON.parse('{"label":"\u0441\u0430\u0439\u0442","permalink":"/notes/tags/\u0441\u0430\u0439\u0442","allTagsPath":"/notes/tags","count":1}')}}]);

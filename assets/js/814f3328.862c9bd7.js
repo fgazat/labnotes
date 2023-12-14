@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkonlearning=self.webpackChunkonlearning||[]).push([[2535],{45641:e=>{e.exports=JSON.parse('{"title":"\u0412\u0441\u0435 \u0437\u0430\u043c\u0435\u0442\u043a\u0438","items":[{"title":"\u0420\u0430\u0431\u043e\u0442\u0430 \u0432 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u0435","permalink":"/notes/wip","unlisted":false}]}')}}]);
