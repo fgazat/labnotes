@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkonlearning=self.webpackChunkonlearning||[]).push([[9390],{61769:e=>{e.exports=JSON.parse('{"permalink":"/notes/tags/leetcode","page":1,"postsPerPage":1,"totalPages":1,"totalCount":1,"blogDescription":"\u0417\u0430\u043c\u0435\u0442\u043a\u0438","blogTitle":"\u0417\u0430\u043c\u0435\u0442\u043a\u0438"}')}}]);
