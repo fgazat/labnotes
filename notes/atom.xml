@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://labnotes.ru/notes</id>
+    <id>https://labnotes.ru/notes/</id>
     <title>Lab Notes Blog</title>
     <updated>2023-12-17T19:15:04.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://labnotes.ru/notes"/>
+    <link rel="alternate" href="https://labnotes.ru/notes/"/>
     <subtitle>Lab Notes Blog</subtitle>
     <icon>https://labnotes.ru/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[LeetCode — 28. Найти индекс первого вхождения в строку]]></title>
-        <id>https://labnotes.ru/notes/find-the-index-of-the-first-occurrence-in-a-string</id>
-        <link href="https://labnotes.ru/notes/find-the-index-of-the-first-occurrence-in-a-string"/>
+        <id>https://labnotes.ru/notes/find-the-index-of-the-first-occurrence-in-a-string/</id>
+        <link href="https://labnotes.ru/notes/find-the-index-of-the-first-occurrence-in-a-string/"/>
         <updated>2023-12-17T19:15:04.000Z</updated>
         <summary type="html"><![CDATA[Ссылка на проблему:]]></summary>
         <content type="html"><![CDATA[<p>Ссылка на проблему:
@@ -18,12 +18,12 @@
 <p>Даны две строки <code>needle</code> и <code>haystack</code>, верните индекс первого вхождения <code>needle</code> в <code>haystack</code> или -1, если <code>haystack</code> не
 содержит <code>needle</code>.</p>
 <p>Кстати, needle — иголка, haystack — стог сена.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="примеры">Примеры<a href="https://labnotes.ru/notes/find-the-index-of-the-first-occurrence-in-a-string#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B" class="hash-link" aria-label="Прямая ссылка на Примеры" title="Прямая ссылка на Примеры">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="примеры">Примеры<a href="https://labnotes.ru/notes/find-the-index-of-the-first-occurrence-in-a-string/#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B" class="hash-link" aria-label="Прямая ссылка на Примеры" title="Прямая ссылка на Примеры">​</a></h2>
 <p><strong>Пример 1:</strong></p>
 <div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#bfc7d5;--prism-background-color:#292d3e"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#bfc7d5;background-color:#292d3e"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#bfc7d5"><span class="token plain">Вход: haystack = "sadbutsad", needle = "sad"</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Выход: 0</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Объяснение: вхождение "sad" есть с индесом 0 и 6. Первое вхожение с нулевым индесом, поэтому возвращаем 0.</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Скопировать в буфер обмена" title="Скопировать" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 <p><strong>Пример 2:</strong></p>
 <div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#bfc7d5;--prism-background-color:#292d3e"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#bfc7d5;background-color:#292d3e"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#bfc7d5"><span class="token plain">Вход: haystack = "leetcode", needle = "leeto"</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Выход: -1</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Объяснение: строка "leetcode" не содержит "leeto", поэтому возвращаем -1.</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Скопировать в буфер обмена" title="Скопировать" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="решение">Решение<a href="https://labnotes.ru/notes/find-the-index-of-the-first-occurrence-in-a-string#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5" class="hash-link" aria-label="Прямая ссылка на Решение" title="Прямая ссылка на Решение">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="решение">Решение<a href="https://labnotes.ru/notes/find-the-index-of-the-first-occurrence-in-a-string/#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5" class="hash-link" aria-label="Прямая ссылка на Решение" title="Прямая ссылка на Решение">​</a></h2>
 <p>Рассмотрим вымышленный пример, чтобы объяснить логику: <code>haystack = "oldbutgood"</code>, <code>needle = "but"</code>.</p>
 <p>Длина строки needle = 3. Значит, мы можем построить цикл, в котором будем брать отрезок в 3 символа от haystack и
 сравнивать его с искомой строкой. Если они равны, значит это нужный индекс. Если они не равны, увеличиваем индекс и ищем
@@ -44,11 +44,11 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Работа в процессе]]></title>
-        <id>https://labnotes.ru/notes/wip</id>
-        <link href="https://labnotes.ru/notes/wip"/>
+        <id>https://labnotes.ru/notes/wip/</id>
+        <link href="https://labnotes.ru/notes/wip/"/>
         <updated>2021-09-09T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[На сайте ведутся работы: скоро сайт будет адаптивнее и быстрее.]]></summary>
-        <content type="html"><![CDATA[<p><img loading="lazy" src="https://labnotes.ru/assets/images/wip-f9ede131540d4a34c50444d3c872135c.jpeg" width="1200" height="800" class="img_ev3q"></p>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://labnotes.ru/assets/images/wip-f9ede131540d4a34c50444d3c872135c.jpeg" width="1200" height="800" class="img_ev3q"></p>
 <p>На сайте ведутся работы: скоро сайт будет адаптивнее и быстрее.</p>]]></content>
         <author>
             <name>Азат Хасанов</name>
