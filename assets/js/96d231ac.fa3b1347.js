@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkonlearning=self.webpackChunkonlearning||[]).push([[8510],{15585:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/notes","page":1,"postsPerPage":2,"totalPages":1,"totalCount":2,"blogDescription":"\u0417\u0430\u043c\u0435\u0442\u043a\u0438","blogTitle":"\u0417\u0430\u043c\u0435\u0442\u043a\u0438"}}')}}]);
