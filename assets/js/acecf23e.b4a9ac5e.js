@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkonlearning=self.webpackChunkonlearning||[]).push([[7393],{81838:e=>{e.exports=JSON.parse('{"blogBasePath":"/notes","blogTitle":"\u0417\u0430\u043c\u0435\u0442\u043a\u0438"}')}}]);
