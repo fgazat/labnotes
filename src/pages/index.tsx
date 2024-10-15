@@ -5,23 +5,18 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import React, {useState, useMemo, useEffect} from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 
 import Layout from '@theme/Layout';
 import clsx from 'clsx';
 
-import {
-  readSearchTags,
-} from './_components/ShowcaseTagSelect';
-import {
-  Operator,
-  readOperator,
-} from './_components/ShowcaseFilterToggle';
+import { readSearchTags } from './_components/ShowcaseTagSelect';
+import { Operator, readOperator } from './_components/ShowcaseFilterToggle';
 import ShowcaseCard from './_components/ShowcaseCard';
-import {sortedUsers, User, TagType} from '@site/src/data/users';
+import { sortedUsers, User, TagType } from '@site/src/data/users';
 
 import ExecutionEnvironment from '@docusaurus/ExecutionEnvironment';
-import {useLocation} from '@docusaurus/router';
+import { useLocation } from '@docusaurus/router';
 
 import styles from './styles.module.css';
 
@@ -34,13 +29,13 @@ type UserState = {
 };
 
 function restoreUserState(userState: UserState | null) {
-  const {scrollTopPosition, focusedElementId} = userState ?? {
+  const { scrollTopPosition, focusedElementId } = userState ?? {
     scrollTopPosition: 0,
     focusedElementId: undefined,
   };
   // @ts-expect-error: if focusedElementId is undefined it returns null
   document.getElementById(focusedElementId)?.focus();
-  window.scrollTo({top: scrollTopPosition});
+  window.scrollTo({ top: scrollTopPosition });
 }
 
 export function prepareUserState(): UserState | undefined {
@@ -54,11 +49,7 @@ export function prepareUserState(): UserState | undefined {
   return undefined;
 }
 
-function filterUsers(
-  users: User[],
-  selectedTags: TagType[],
-  operator: Operator,
-) {
+function filterUsers(users: User[], selectedTags: TagType[], operator: Operator) {
   if (selectedTags.length === 0) {
     return users;
   }
@@ -82,10 +73,7 @@ function useFilteredUsers() {
     setOperator(readOperator(location.search));
     restoreUserState(location.state);
   }, [location]);
-  return useMemo(
-    () => filterUsers(sortedUsers, selectedTags, operator),
-    [selectedTags, operator],
-  );
+  return useMemo(() => filterUsers(sortedUsers, selectedTags, operator), [selectedTags, operator]);
 }
 
 function useSelectedTags() {
@@ -106,28 +94,29 @@ function useSelectedTags() {
 
 function ShowcaseFooter() {
   return (
-    <section className={clsx("margin-top--lg", "margin-bottom--lg", "container")}>
-      <div className="row">
-        <div className="col">
+    <section className={clsx('margin-top--lg', 'margin-bottom--lg', 'container')}>
+      <div className='row'>
+        <div className='col'>
           <h2>О сайте</h2>
-          <p>📚 <b>Lab Notes</b> — сайт с учебными материалами по химии. Материалы написаны с использованием конспектов лекций и информации из книг.</p>
-          <p>🆘 Сайт создан, чтобы помочь студентам в учебе.</p>
-          <p>🙏 Если наш сайт помог вам, расскажите о нем друзьям и одногруппникам.  И подпишитесь на наш <a target="_blank" rel="noopener noreferrer" href="https://t.me/labnotesru">Телеграм-канал</a>.</p>
-        </div>
-        <div className="col">
+          <p>
+            📚 <b>Lab Notes</b> — сайт с материалами по программированию и химии.
+          </p>
+          <p>🆘 Сайт создан по приколу. В целом с этого сайта началось мое путешествие в мир IT.</p>
+          <p>
+            🙏 Если наш сайт помог вам, расскажите о нем друзьям и одногруппникам. И подпишитесь на наш{' '}
+            <a target='_blank' rel='noopener noreferrer' href='https://t.me/labnotesru'>
+              Телеграм-канал
+            </a>
+            .
+          </p>
         </div>
       </div>
     </section>
   );
 }
 
-
-const chemistyUsers = sortedUsers.filter((user) =>
-  user.tags.includes('chemistry'),
-);
-const otherUsers = sortedUsers.filter(
-  (user) => !user.tags.includes('favorite'),
-);
+const chemistyUsers = sortedUsers.filter((user) => user.tags.includes('chemistry'));
+const otherUsers = sortedUsers.filter((user) => !user.tags.includes('favorite'));
 
 function ShowcaseCards() {
   const selectedTags = useSelectedTags();
@@ -135,8 +124,8 @@ function ShowcaseCards() {
 
   if (filteredUsers.length === 0) {
     return (
-      <section className="margin-top--md margin-bottom--xl">
-        <div className="container padding-vert--md text--center">
+      <section className='margin-top--md margin-bottom--xl'>
+        <div className='container padding-vert--md text--center'>
           <h2>No result</h2>
         </div>
       </section>
@@ -144,17 +133,13 @@ function ShowcaseCards() {
   }
 
   return (
-    <section className="margin-top--xs margin-bottom--md">
+    <section className='margin-top--xs margin-bottom--md'>
       {selectedTags.length === 0 ? (
         <>
           <div className={styles.showcaseFavorite}>
-            <div className="container">
-              <div
-                className={clsx(
-                  'margin-bottom--md',
-                  styles.showcaseFavoriteHeader,
-                )}>
-                <h1 className="margin-top--md margin-bottom--md text--center">🧪 Химия</h1>
+            <div className='container'>
+              <div className={clsx('margin-bottom--md', styles.showcaseFavoriteHeader)}>
+                <h1 className='margin-top--md margin-bottom--md text--center'>🧪 Химия</h1>
               </div>
               <ul className={clsx('container', styles.showcaseList)}>
                 {chemistyUsers.map((user) => (
@@ -173,7 +158,7 @@ function ShowcaseCards() {
           </div> */}
         </>
       ) : (
-        <div className="container">
+        <div className='container'>
           <ul className={styles.showcaseList}>
             {filteredUsers.map((user) => (
               <ShowcaseCard key={user.title} user={user} />
@@ -187,10 +172,10 @@ function ShowcaseCards() {
 
 function Showcase(): JSX.Element {
   return (
-    <Layout title="Конспекты лекций по химии" description={DESCRIPTION}>
-      <main className="margin-vert--md">
-        <ShowcaseCards />
+    <Layout title='Сайт с матералами по программированию и химии' description={DESCRIPTION}>
+      <main className='margin-vert--md'>
         <ShowcaseFooter />
+        <ShowcaseCards />
       </main>
     </Layout>
   );
