@@ -1,0 +1,182 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lab Notes – Первое начало (закон) термодинамики</title>
+    <link>//localhost:1313/fizicheskaya-himiya/pervoe-nachalo-termodinamiki/</link>
+    <description>Recent content in Первое начало (закон) термодинамики on Lab Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    
+	  <atom:link href="//localhost:1313/fizicheskaya-himiya/pervoe-nachalo-termodinamiki/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Закон Кирхгофа</title>
+      <link>//localhost:1313/fizicheskaya-himiya/pervoe-nachalo-termodinamiki/zakon-kirhgofa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/fizicheskaya-himiya/pervoe-nachalo-termodinamiki/zakon-kirhgofa/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;//localhost:1313/images/zakon-kirhgofa/zakon-kirhgofa_clip_image001.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Дифференциальный вид закона Кирхгофа:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/zakon-kirhgofa/zakon-kirhgofa_clip_image001_0000.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/zakon-kirhgofa/zakon-kirhgofa_clip_image001_0001.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/zakon-kirhgofa/zakon-kirhgofa_clip_image001_0002.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/zakon-kirhgofa/zakon-kirhgofa_clip_image001_0003.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Применение первого начала термодинамики</title>
+      <link>//localhost:1313/fizicheskaya-himiya/pervoe-nachalo-termodinamiki/primenenie-pervogo-nachala-termodinamiki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/fizicheskaya-himiya/pervoe-nachalo-termodinamiki/primenenie-pervogo-nachala-termodinamiki/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;1. Изотермический процесс (T = const)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-изотермический-процесс-t--const&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-%d0%b8%d0%b7%d0%be%d1%82%d0%b5%d1%80%d0%bc%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b9-%d0%bf%d1%80%d0%be%d1%86%d0%b5%d1%81%d1%81-t--const&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Допущения:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;газ идеальный;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;простая закрытая система (т.е. в системе осуществляется только работа расширения).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;$$
+\delta Q = dU + pdv = pdv
+$$&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;0000.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Графическое представление&lt;/p&gt;
+&lt;p&gt;Координаты p-V предложил Клапейрон, чтобы изобразить цикл Карно&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;0002.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;pagination-nav__link&#34;&gt;🙏 Если вам нравится сайт, подпишитесь на наш &lt;a href=&#34;https://t.me/+JfpTv9CJlwQ0MThi&#34;&gt;🔗 Телеграм-канал&lt;/a&gt;.&lt;/div&gt;
+&lt;h2&gt;2. Изобарный процесс (p = const)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-изобарный-процесс-p--const&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-%d0%b8%d0%b7%d0%be%d0%b1%d0%b0%d1%80%d0%bd%d1%8b%d0%b9-%d0%bf%d1%80%d0%be%d1%86%d0%b5%d1%81%d1%81-p--const&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;izobarni.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;3. Изохорный процесс (V = const)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-изохорный-процесс-v--const&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-%d0%b8%d0%b7%d0%be%d1%85%d0%be%d1%80%d0%bd%d1%8b%d0%b9-%d0%bf%d1%80%d0%be%d1%86%d0%b5%d1%81%d1%81-v--const&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;izohorni.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;4. Адиабатический процесс (δQ = 0)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-адиабатический-процесс-δq--0&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#4-%d0%b0%d0%b4%d0%b8%d0%b0%d0%b1%d0%b0%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b9-%d0%bf%d1%80%d0%be%d1%86%d0%b5%d1%81%d1%81-%ce%b4q--0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;adiabatich.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Вывод уравнения адиабаты:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;0004.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;0005.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;0006.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Применение первого начала термодинамики к анализу тепловых эффектов химических реакций&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;применение-первого-начала-термодинамики-к-анализу-тепловых-эффектов-химических-реакций&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bf%d0%b5%d1%80%d0%b2%d0%be%d0%b3%d0%be-%d0%bd%d0%b0%d1%87%d0%b0%d0%bb%d0%b0-%d1%82%d0%b5%d1%80%d0%bc%d0%be%d0%b4%d0%b8%d0%bd%d0%b0%d0%bc%d0%b8%d0%ba%d0%b8-%d0%ba-%d0%b0%d0%bd%d0%b0%d0%bb%d0%b8%d0%b7%d1%83-%d1%82%d0%b5%d0%bf%d0%bb%d0%be%d0%b2%d1%8b%d1%85-%d1%8d%d1%84%d1%84%d0%b5%d0%ba%d1%82%d0%be%d0%b2-%d1%85%d0%b8%d0%bc%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d1%85-%d1%80%d0%b5%d0%b0%d0%ba%d1%86%d0%b8%d0%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;1840 г. Г. И. Гесс &amp;ldquo;О постоянстве суммы теплот химических реакций&amp;rdquo; Тепловой эффект химических реакций не зависит от того, осуществляется эта реакция за один шаг или за несколько шагов&amp;quot;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;0007.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Тепловой эффект химической реакции&lt;/strong&gt; — количество теплоты, которое выделяется (поглощается) при протекании этой реакции до конца согласно ее уравнению в условиях либо V,T=const, либо p,T=const.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Современная формулировка закона Гесса (основной закон термохимии):&lt;/strong&gt; тепловой эффект химической реакции не зависит от способа ее проведения, а определяется только состоянием (природой, количеством) исходных веществ и продуктов реакции.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;0008.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;0009.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;За ноль т/х шкалы выбраны энтальпии образования простых веществ, находящихся в стабильном состоянии в стандартных условиях.&lt;/p&gt;
+&lt;p&gt;Стандартные условия:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;0010.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Стабильной формой является термодинамически наиболее устойчивое состояние.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;0011.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Теплота образования&lt;/strong&gt; (&lt;strong&gt;стандартная энтальпия образования&lt;/strong&gt;) данного вещества из простых веществ называется тепловой эффект реакции образования 1 моль этого вещества из простых веществ в стандартных условиях.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Теплота сгорания&lt;/strong&gt; (&lt;strong&gt;стандартная энтальпия сгорания&lt;/strong&gt;) — тепловой эффект полного сгорания (до образования высших оксидов) 1 моль этого вещества в стандартных условиях (исключение для N: N2).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;0012.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1 следствие из закона Гесса&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Тепловой эффект производной реакции равен сумме теплот образования продуктов реакции с учетом стехиометрических коэффициентов за вычетом суммы теплот образования исходных веществ с учетом их стехиометрических коэффициентов.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;0013.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2 следствие из закона Гесса&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Тепловой эффект произвольной реакции равен сумме теплот сгорания исходных веществ с учетом стехиометрических коэффициентов за вычетом теплот сгорания продуктов реакции с учетом их стехиометрических коэффициентов.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;0014.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Соотношения тепловых эффектов</title>
+      <link>//localhost:1313/fizicheskaya-himiya/pervoe-nachalo-termodinamiki/sootnosheniya-teplovyh-ehffektov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/fizicheskaya-himiya/pervoe-nachalo-termodinamiki/sootnosheniya-teplovyh-ehffektov/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Соотношение тепловых эффектов при постоянстве давления и объема&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/sootnosheniya-teplovyh-ehffektov/sootnosheniya-teplovyh-ehffektov_clip_image001.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Если реакция протекает в конденсированном состоянии (жидкость или твердое вещество), то δQp = δQV.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/sootnosheniya-teplovyh-ehffektov/sootnosheniya-teplovyh-ehffektov_clip_image001_0000.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Термические коэффициенты</title>
+      <link>//localhost:1313/fizicheskaya-himiya/pervoe-nachalo-termodinamiki/termicheskie-koehfficienty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/fizicheskaya-himiya/pervoe-nachalo-termodinamiki/termicheskie-koehfficienty/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;//localhost:1313/images/termicheskie-koehfficienty/termicheskie-koehfficienty_clip_image001.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Под симбатной связью понимают положительную связь (т.е. производная &amp;gt; 0), а под антибатной — отрицательную связь.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/termicheskie-koehfficienty/termicheskie-koehfficienty_clip_image001_0000.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Термические коэффициенты позволяют вычислить соответсвующие производные из экспериментальных данных. Коэффициент Д-Т является коэффициентом изоэнтальпии.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/termicheskie-koehfficienty/termicheskie-koehfficienty_clip_image001_0001.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/termicheskie-koehfficienty/termicheskie-koehfficienty_clip_image001_0002.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Связь термических коэффициентов друг с другом&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/termicheskie-koehfficienty/termicheskie-koehfficienty_clip_image001_0003.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Связь термических и калорических коэффициентов&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/termicheskie-koehfficienty/termicheskie-koehfficienty_clip_image001_0004.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Термические уравнения состояния</title>
+      <link>//localhost:1313/fizicheskaya-himiya/pervoe-nachalo-termodinamiki/termicheskie-uravneniya-sostoyaniya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/fizicheskaya-himiya/pervoe-nachalo-termodinamiki/termicheskie-uravneniya-sostoyaniya/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Уравнение состояние системы&lt;/strong&gt; — математическая связь между параметрами системы, когда система находится в состоянии равновесия.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/termicheskie-uravneniya-sostoyaniya/termicheskie-uravneniya-sostoyaniya_clip_image001.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Калорические уравнения позволяют рассчитать такие свойства, которые выражаются в калориях.&lt;/p&gt;
+&lt;p&gt;1662 г. Роберт Бойль:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/termicheskie-uravneniya-sostoyaniya/termicheskie-uravneniya-sostoyaniya_clip_image001_0000.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;1676 г. Эдмунд Мариотт&lt;/p&gt;
+&lt;p&gt;1786 г. Жак Александр Сезар Шарль, Жозев Луи Гей-Люссак&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/termicheskie-uravneniya-sostoyaniya/termicheskie-uravneniya-sostoyaniya_clip_image001_0001.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;1856 г. Эмиль Клапейрон:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/termicheskie-uravneniya-sostoyaniya/termicheskie-uravneniya-sostoyaniya_clip_image001_0002.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Дмитрий Иванович Менделеев:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/termicheskie-uravneniya-sostoyaniya/termicheskie-uravneniya-sostoyaniya_clip_image001_0003.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Критическая температура газа&lt;/strong&gt; — температура, выше которой газ не может быть сконденсирован в жидкость, каким бы значительным не было давление.&lt;/p&gt;
+&lt;p&gt;1873 г. Ван дер Ваальс:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/termicheskie-uravneniya-sostoyaniya/termicheskie-uravneniya-sostoyaniya_clip_image001_0004.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Величину ζ ввел Теофил де Донде в 1922г.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/termicheskie-uravneniya-sostoyaniya/termicheskie-uravneniya-sostoyaniya_clip_image001_0006.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Первое калорическое выражение первого начала термодинамики:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/termicheskie-uravneniya-sostoyaniya/termicheskie-uravneniya-sostoyaniya_clip_image001_0005.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/termicheskie-uravneniya-sostoyaniya/termicheskie-uravneniya-sostoyaniya_clip_image001_0012.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Второе калорическое выражение первого начала термодинамики:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/termicheskie-uravneniya-sostoyaniya/termicheskie-uravneniya-sostoyaniya_clip_image001_0008.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Связь калорических коэффициентов&lt;/strong&gt;из 2-х калорических выражений 1 начала термодинамики друг с другом:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/termicheskie-uravneniya-sostoyaniya/termicheskie-uravneniya-sostoyaniya_clip_image001_0015.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Применение связи между калорическими коэффициентами в термодинамике (допускаем отсутствие химической реакции для простоты):&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/termicheskie-uravneniya-sostoyaniya/termicheskie-uravneniya-sostoyaniya_clip_image001_0019.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Закон Джоуля&lt;/p&gt;
+&lt;p&gt;Внутренняя энергия идеального газа зависит только от температуры (т.е. не зависит от давления и объема)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/termicheskie-uravneniya-sostoyaniya/termicheskie-uravneniya-sostoyaniya_clip_image001_0020.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/termicheskie-uravneniya-sostoyaniya/termicheskie-uravneniya-sostoyaniya_clip_image001_0021.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

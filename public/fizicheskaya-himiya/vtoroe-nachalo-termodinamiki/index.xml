@@ -1,0 +1,173 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lab Notes – Второне начало (закон) термодинамики</title>
+    <link>//localhost:1313/fizicheskaya-himiya/vtoroe-nachalo-termodinamiki/</link>
+    <description>Recent content in Второне начало (закон) термодинамики on Lab Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    
+	  <atom:link href="//localhost:1313/fizicheskaya-himiya/vtoroe-nachalo-termodinamiki/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Изменение энтропии</title>
+      <link>//localhost:1313/fizicheskaya-himiya/vtoroe-nachalo-termodinamiki/izmenenie-ehntropii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/fizicheskaya-himiya/vtoroe-nachalo-termodinamiki/izmenenie-ehntropii/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Рассмотрим процессы, идущие с участием идеального газа.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-ehntropii/izmenenie-ehntropii_clip_image001.png&#34; alt=&#34;Вывод уравнения изменения энтропии для идеального газа&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-ehntropii/izmenenie-ehntropii_clip_image001_0000.png&#34; alt=&#34;Дальнейший вывод&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-ehntropii/izmenenie-ehntropii_clip_image001_0001.png&#34; alt=&#34;Интегральный вид уравнения энтропии для идеального газа&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;pagination-nav__link&#34;&gt;🙏 Если вам нравится сайт, подпишитесь на наш &lt;a href=&#34;https://t.me/+JfpTv9CJlwQ0MThi&#34;&gt;🔗 Телеграм-канал&lt;/a&gt;.&lt;/div&gt;
+&lt;h2&gt;Графическое представление зависимости энтропии.&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;графическое-представление-зависимости-энтропии&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b3%d1%80%d0%b0%d1%84%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b5-%d0%bf%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b7%d0%b0%d0%b2%d0%b8%d1%81%d0%b8%d0%bc%d0%be%d1%81%d1%82%d0%b8-%d1%8d%d0%bd%d1%82%d1%80%d0%be%d0%bf%d0%b8%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;D координатах p-V (не информативно)^&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-ehntropii/izmenenie-ehntropii_clip_image001_0002.png&#34; alt=&#34;Графическое представление зависимости энтропии в координатах p-V&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Для информативности данные зависимости представляются в логарифмических координатах:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1) в координатах S - ln(T)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-ehntropii/izmenenie-ehntropii_clip_image001_0003.png&#34; alt=&#34;Графическое представление зависимости энтропии в координатах S-lnT&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2) в координатах S - ln(V)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-ehntropii/izmenenie-ehntropii_clip_image001_0004.png&#34; alt=&#34;Графическое представление зависимости энтропии в координатах S-lnV&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3) в координатах S-ln(p)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-ehntropii/izmenenie-ehntropii_clip_image001_0005.png&#34; alt=&#34;Графическое представление зависимости энтропии в координатах S-lnp&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-ehntropii/izmenenie-ehntropii_clip_image001_0006.png&#34; alt=&#34;Графическое представление зависимости энтропии в координатах S-T&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Изменение энтропии в частных процессах с участием реальных газов&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;изменение-энтропии-в-частных-процессах-с-участием-реальных-газов&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b8%d0%b7%d0%bc%d0%b5%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d1%8d%d0%bd%d1%82%d1%80%d0%be%d0%bf%d0%b8%d0%b8-%d0%b2-%d1%87%d0%b0%d1%81%d1%82%d0%bd%d1%8b%d1%85-%d0%bf%d1%80%d0%be%d1%86%d0%b5%d1%81%d1%81%d0%b0%d1%85-%d1%81-%d1%83%d1%87%d0%b0%d1%81%d1%82%d0%b8%d0%b5%d0%bc-%d1%80%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d1%85-%d0%b3%d0%b0%d0%b7%d0%be%d0%b2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Уравнение Ван дер Ваальса:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-ehntropii/izmenenie-ehntropii_clip_image001_0007.png&#34; alt=&#34;Уравнение Ван дер Ваалься для 1 моль&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Рассчитать изменение энтропии при изотермическом расширении газа Ван дер Ваальса от объема V1 до объема V2.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-ehntropii/izmenenie-ehntropii_clip_image001_0008.png&#34; alt=&#34;Изменение энтропии в частных процессах с участием реальных газов&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Изменение энтропии при нагревании и фазовых переходах индивидуальных веществ&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;изменение-энтропии-при-нагревании-и-фазовых-переходах-индивидуальных-веществ&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b8%d0%b7%d0%bc%d0%b5%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d1%8d%d0%bd%d1%82%d1%80%d0%be%d0%bf%d0%b8%d0%b8-%d0%bf%d1%80%d0%b8-%d0%bd%d0%b0%d0%b3%d1%80%d0%b5%d0%b2%d0%b0%d0%bd%d0%b8%d0%b8-%d0%b8-%d1%84%d0%b0%d0%b7%d0%be%d0%b2%d1%8b%d1%85-%d0%bf%d0%b5%d1%80%d0%b5%d1%85%d0%be%d0%b4%d0%b0%d1%85-%d0%b8%d0%bd%d0%b4%d0%b8%d0%b2%d0%b8%d0%b4%d1%83%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d1%85-%d0%b2%d0%b5%d1%89%d0%b5%d1%81%d1%82%d0%b2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;При нагревании:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-ehntropii/izmenenie-ehntropii_clip_image001_0009.png&#34; alt=&#34;Зависимость энтропии при нагревании&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-ehntropii/izmenenie-ehntropii_clip_image001_0010.png&#34; alt=&#34;Уравнение изменения энтропии при нагревании&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;При фазовых переходах:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Понятие &amp;ldquo;фаза&amp;rdquo; ввел Джозайя Уиллард Гиббс в 1875 г. в работе &amp;ldquo;О равновесии в гетерогенных веществах&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Фаза&lt;/strong&gt; — гомогенная часть гетерогенной системы, отделенная от других частей физической границей раздела и имеющая либо неизменный состав и свойства, либо монотонно изменяющиеся.&lt;/p&gt;
+&lt;p&gt;При постоянстве внешнего давления все обратимые фазовые переходы осуществляются при постоянстве температуры.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-ehntropii/izmenenie-ehntropii_clip_image001_0012.png&#34; alt=&#34;Изменение энтропии при фазовом переходе&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Изменение энтропии при смешении идеального газа&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;изменение-энтропии-при-смешении-идеального-газа&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b8%d0%b7%d0%bc%d0%b5%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d1%8d%d0%bd%d1%82%d1%80%d0%be%d0%bf%d0%b8%d0%b8-%d0%bf%d1%80%d0%b8-%d1%81%d0%bc%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d0%b8-%d0%b8%d0%b4%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be-%d0%b3%d0%b0%d0%b7%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-ehntropii/izmenenie-ehntropii_clip_image001_0013.png&#34; alt=&#34;dS&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-ehntropii/izmenenie-ehntropii_clip_image001_0014.png&#34; alt=&#34;Поршень&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-ehntropii/izmenenie-ehntropii_clip_image001_0015.png&#34; alt=&#34;Изменение энтропии при смещении поршня вправо&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Двигаем поршень A&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-ehntropii/izmenenie-ehntropii_clip_image001_0016.png&#34; alt=&#34;Изменение энтропии при смещении поршня влево&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Произошло смешение:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-ehntropii/izmenenie-ehntropii_clip_image001_0017.png&#34; alt=&#34;Вывод уравнения идеального смешения&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Формула изменения энтропии при идеальном смешении:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-ehntropii/izmenenie-ehntropii_clip_image001_0018.png&#34; alt=&#34;Формула изменения энтропии при идеальном смешении&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-ehntropii/izmenenie-ehntropii_clip_image001_0019.png&#34; alt=&#34;Изменение энтропии при смешении всегда больше нуля&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Изменение энтропии при протекании химической реакции&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;изменение-энтропии-при-протекании-химической-реакции&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b8%d0%b7%d0%bc%d0%b5%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d1%8d%d0%bd%d1%82%d1%80%d0%be%d0%bf%d0%b8%d0%b8-%d0%bf%d1%80%d0%b8-%d0%bf%d1%80%d0%be%d1%82%d0%b5%d0%ba%d0%b0%d0%bd%d0%b8%d0%b8-%d1%85%d0%b8%d0%bc%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b9-%d1%80%d0%b5%d0%b0%d0%ba%d1%86%d0%b8%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-ehntropii/izmenenie-ehntropii_clip_image001_0021.png&#34; alt=&#34;Вывод уравнения&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-ehntropii/izmenenie-ehntropii_clip_image001_0023.png&#34; alt=&#34;Уравнение изменения энтропии при протекании химической реакции&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Калорические выражения второго начала термодинамики</title>
+      <link>//localhost:1313/fizicheskaya-himiya/vtoroe-nachalo-termodinamiki/kaloricheskie-vyrazheniya-vtorogo-nachala-termodinamiki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/fizicheskaya-himiya/vtoroe-nachalo-termodinamiki/kaloricheskie-vyrazheniya-vtorogo-nachala-termodinamiki/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Первое калорическое выражение &lt;strong&gt;первого начала термодинамики&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/kaloricheskie-vyrazheniya/kaloricheskie-vyrazheniya-vtorogo-nachala-termodinamiki_clip_image001.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Первое калорическое выражение &lt;strong&gt;второго начала термодинамики&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/kaloricheskie-vyrazheniya/kaloricheskie-vyrazheniya-vtorogo-nachala-termodinamiki_clip_image001_0000.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Второе калорическое выражение &lt;strong&gt;первого начала термодинамики&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/kaloricheskie-vyrazheniya/kaloricheskie-vyrazheniya-vtorogo-nachala-termodinamiki_clip_image001_0002.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Второе калорическое выражение &lt;strong&gt;второго начала термодинамики&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/kaloricheskie-vyrazheniya/kaloricheskie-vyrazheniya-vtorogo-nachala-termodinamiki_clip_image001_0003.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Для простоты рассуждений исключаем дзета.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/kaloricheskie-vyrazheniya/kaloricheskie-vyrazheniya-vtorogo-nachala-termodinamiki_clip_image001_0004.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Приравниваем смешанные производные, т. к. энтропия — функция состояния.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/kaloricheskie-vyrazheniya/kaloricheskie-vyrazheniya-vtorogo-nachala-termodinamiki_clip_image001_0005.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/kaloricheskie-vyrazheniya/kaloricheskie-vyrazheniya-vtorogo-nachala-termodinamiki_clip_image001_0006.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/kaloricheskie-vyrazheniya/kaloricheskie-vyrazheniya-vtorogo-nachala-termodinamiki_clip_image001_0007.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Приравниваем смешанные производные:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/kaloricheskie-vyrazheniya/kaloricheskie-vyrazheniya-vtorogo-nachala-termodinamiki_clip_image001_0008.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/kaloricheskie-vyrazheniya/kaloricheskie-vyrazheniya-vtorogo-nachala-termodinamiki_clip_image001_0009.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Проблема определения абсолютного значения энтропии</title>
+      <link>//localhost:1313/fizicheskaya-himiya/vtoroe-nachalo-termodinamiki/problema-opredeleniya-absolyutnogo-znacheniya-ehntropii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/fizicheskaya-himiya/vtoroe-nachalo-termodinamiki/problema-opredeleniya-absolyutnogo-znacheniya-ehntropii/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Вычислить абсолютное значение энтропии этилена при p = 1 атм, T = 298 К (нагревание от 0 К до 298 К).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/problema-opredeleniya/problema-opredeleniya-absolyutnogo-znacheniya-ehntropii_clip_image001.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/problema-opredeleniya/problema-opredeleniya-absolyutnogo-znacheniya-ehntropii_clip_image001_0000.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/problema-opredeleniya/problema-opredeleniya-absolyutnogo-znacheniya-ehntropii_clip_image001_0001.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/problema-opredeleniya/problema-opredeleniya-absolyutnogo-znacheniya-ehntropii_clip_image001_0002.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/problema-opredeleniya/problema-opredeleniya-absolyutnogo-znacheniya-ehntropii_clip_image001_0004.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/problema-opredeleniya/problema-opredeleniya-absolyutnogo-znacheniya-ehntropii_clip_image001_0005.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;1906 г. У. Нернст: &lt;strong&gt;тепловая теорема Нернста&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Вблизи 0 К все процессы с участием твердых правильно построенных индивидуальных веществ протекают без изменения энтропии.&lt;/p&gt;
+&lt;p&gt;1911 г. Макс Планк: &lt;strong&gt;постулат Планка&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Абсолютное значение энтропии правильно построенного твердого индивидуального вещества при 0 К равно нулю.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/problema-opredeleniya/problema-opredeleniya-absolyutnogo-znacheniya-ehntropii_clip_image001_0006.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Правильно построенное вещество&amp;rdquo; означает, что каждая частица находится в узле и единственный вид взаимодействия — колебания с одинаковой частотой.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/problema-opredeleniya/problema-opredeleniya-absolyutnogo-znacheniya-ehntropii_clip_image001_0007.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Статистический смысл энтропии</title>
+      <link>//localhost:1313/fizicheskaya-himiya/vtoroe-nachalo-termodinamiki/statisticheskij-smysl-ehntropii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/fizicheskaya-himiya/vtoroe-nachalo-termodinamiki/statisticheskij-smysl-ehntropii/</guid>
+      <description>
+        
+        
+        &lt;p&gt;1877 г. Людвиг Больцман публикует работу &amp;ldquo;Основы молекул статистики&amp;rdquo; и дает обоснование понятия энтропии. В основе лежат микро- и макросостояния.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Под микросостоянием системы понимают&lt;/strong&gt; данный способ распределения всех молекул по всем имеющимся уровням энергии &lt;strong&gt;с учетом&lt;/strong&gt; различимости молекул.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Под макросостоянием системы понимают&lt;/strong&gt; данный способ распределения всех молекул по всем имеющимся уровням энергии &lt;strong&gt;без учета&lt;/strong&gt; различимости молекул.&lt;/p&gt;
+&lt;p&gt;Модельная система: 2 уровня энергии (E1 и E2), на каждом уровне может находиться только 2 частицы.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/statisticheskij-smysl-ehntropii/statisticheskij-smysl-ehntropii_clip_image001.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Для того чтобы ввести микросостояния нужно различить частицы.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/statisticheskij-smysl-ehntropii/statisticheskij-smysl-ehntropii_clip_image001_0000.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Термодинамическая вероятность W&lt;/strong&gt; — число микросостояний удовлетворяющих данному микросостоянию.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/statisticheskij-smysl-ehntropii/statisticheskij-smysl-ehntropii_clip_image001_0001.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;где N — число частиц в системе, n — число уровней энергии.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/statisticheskij-smysl-ehntropii/statisticheskij-smysl-ehntropii_clip_image001_0002.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Равнораспределение&lt;/strong&gt; — такое распределение энергии, когда на каждом уровне находится одинаковое число частиц. Равное распределение имеет наибольшую термодинамическую вероятность.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Статистическая гипотеза Больцмана&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Термодинамическая вероятность в изолированной системе всегда увеличивается при протекании самопроизвольного процесса. При этом она достигает своего максимума в состоянии равновесия.&lt;/p&gt;
+&lt;p&gt;Изолированная система всегда эволюционирует в сторону возрастания своей термодинамической вероятности.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/statisticheskij-smysl-ehntropii/statisticheskij-smysl-ehntropii_clip_image001_0003.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Разобьем искомую систему на 2 части. Как определить S, если известны энтропии частиц S1 и S2.&lt;/p&gt;
+&lt;p&gt;S — экстенсивная функция;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/statisticheskij-smysl-ehntropii/statisticheskij-smysl-ehntropii_clip_image001_0004.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;дифференцируем по W1, когда W2 = const&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/statisticheskij-smysl-ehntropii/statisticheskij-smysl-ehntropii_clip_image001_0005.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Дифференцируем по W2, когда W1 = const&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/statisticheskij-smysl-ehntropii/statisticheskij-smysl-ehntropii_clip_image001_0006.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/statisticheskij-smysl-ehntropii/statisticheskij-smysl-ehntropii_clip_image001_0007.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

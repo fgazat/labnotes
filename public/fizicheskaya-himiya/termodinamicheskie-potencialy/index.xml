@@ -1,0 +1,230 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lab Notes – Термодинамические потенциалы</title>
+    <link>//localhost:1313/fizicheskaya-himiya/termodinamicheskie-potencialy/</link>
+    <description>Recent content in Термодинамические потенциалы on Lab Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    
+	  <atom:link href="//localhost:1313/fizicheskaya-himiya/termodinamicheskie-potencialy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Зависимость химического потенциала</title>
+      <link>//localhost:1313/fizicheskaya-himiya/termodinamicheskie-potencialy/zavisimost-himicheskogo-potenciala/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/fizicheskaya-himiya/termodinamicheskie-potencialy/zavisimost-himicheskogo-potenciala/</guid>
+      <description>
+        
+        
+        &lt;ol&gt;
+&lt;li&gt;&lt;em&gt;μ = f(p)&lt;/em&gt; при &lt;em&gt;T&lt;/em&gt;=const&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/zavisimost-himicheskogo-potenciala/1_clip_image001.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;В случае рассмотрения: 1) идеальной газовой смеси; 2) индивидуального чистого вещества (однокомпонентной системы):&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/zavisimost-himicheskogo-potenciala/1_clip_image001_0000.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/zavisimost-himicheskogo-potenciala/1_clip_image001_0001.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/zavisimost-himicheskogo-potenciala/1_clip_image001_0002.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/zavisimost-himicheskogo-potenciala/1_clip_image001_0003.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Индивидуальное твердое тело:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/zavisimost-himicheskogo-potenciala/1_clip_image001_0004.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/zavisimost-himicheskogo-potenciala/1_clip_image001_0005.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Если p не превышает 20 000 атм, то изменение давления не приводит к изменению объема конденсированной фазы.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Пример&lt;/strong&gt;: определить давление, при котором алмаз и графит находятся в состоянии равновесия друг с другом при температуре 298К.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/zavisimost-himicheskogo-potenciala/1_clip_image001_0006.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/zavisimost-himicheskogo-potenciala/1_clip_image001_0007.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/zavisimost-himicheskogo-potenciala/1_clip_image001_0008.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;em&gt;μ = f(T)&lt;/em&gt; при &lt;em&gt;p=const&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/zavisimost-himicheskogo-potenciala/1_clip_image001_0009.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/zavisimost-himicheskogo-potenciala/1_clip_image001_0010.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/zavisimost-himicheskogo-potenciala/1_clip_image001_0011.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/zavisimost-himicheskogo-potenciala/1_clip_image001_0012.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Уравнение Гиббса-Гельмгольца:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/zavisimost-himicheskogo-potenciala/1_clip_image001_0013.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/zavisimost-himicheskogo-potenciala/1_clip_image001_0014.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/zavisimost-himicheskogo-potenciala/1_clip_image001_0015.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Изменение функции Гиббса</title>
+      <link>//localhost:1313/fizicheskaya-himiya/termodinamicheskie-potencialy/izmenenie-funkcii-gibbsa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/fizicheskaya-himiya/termodinamicheskie-potencialy/izmenenie-funkcii-gibbsa/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Расчет изменения функции Гиббса для химических реакций при её протекании на 1 шаг:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-funkcii-gibbsa/2_clip_image001.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-funkcii-gibbsa/2_clip_image001_0000.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-funkcii-gibbsa/2_clip_image001_0001.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-funkcii-gibbsa/2_clip_image001_0002.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Представим упрощенный случай: ΔСp не зависит от температуры, или зависит слабо, что этой зависимостью можно пренебречь.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-funkcii-gibbsa/2_clip_image001_0003.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Пример&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-funkcii-gibbsa/2_clip_image001_0004.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Оценим температуру, при которой эта реакция самопроизвольно протекает (определим термодинамическую температуру начала разложения карбоната кальция).&lt;/p&gt;
+&lt;p&gt;Решаем по упрощенной схеме:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-funkcii-gibbsa/2_clip_image001_0005.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-funkcii-gibbsa/2_clip_image001_0006.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Если считать не по упрощенной формуле, то Т = 1125 К. Погрешность не велика.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Построим диаграмму Эллингема&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-funkcii-gibbsa/2_clip_image001_0007.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Алюмотермия&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-funkcii-gibbsa/2_clip_image001_0008.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Из диаграммы видно, что алюмотермия возможна.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;В каком температурном интервале возможна реакция восстановления Fe из FeO с помощью CO?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/izmenenie-funkcii-gibbsa/2_clip_image001_0009.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Это условие выполняется в интервале 298 ⩽ Т, К ⩽ 1000 согласно диаграмме.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Критерии направленности</title>
+      <link>//localhost:1313/fizicheskaya-himiya/termodinamicheskie-potencialy/kriterii-napravlennosti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/fizicheskaya-himiya/termodinamicheskie-potencialy/kriterii-napravlennosti/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Критерии направленности и глубины протекания самопроизвольных процессов в неизолированных системах&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Пусть T, V = const&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0000.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Функция Гельмгольца (свободная энергия Гельмгольца):&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0001.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0002.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Для обратимого процесса:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0003.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0004.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0005.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0006.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0007.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Вводится понятие &amp;ldquo;&lt;em&gt;условный экстремум&lt;/em&gt;&amp;rdquo;. Различают &lt;strong&gt;условный абсолютный минимум&lt;/strong&gt; и &lt;strong&gt;условный относительный минимум&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Абсолютному минимуму&lt;/strong&gt; соответствует наименьшее из всех возможных значений функций Гельмгольца, совместимых с данными закрепленными значениями T и V.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Условный абсолютный минимум&lt;/strong&gt; функции Гельмгольца соответствует истинному (стабильному) состоянию равновесия.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Условный относительный минимум&lt;/strong&gt; функции Гельмгольца соответствует так называемому метастабильному состоянию равновесия. Особенностью метастабильного состояния является то, что в нем система может находиться сколь угодно долго.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Пусть p, T = const&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0008.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Функция Гиббса (свободная энтальпия Гиббса):&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0009.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0010.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/kriterii-napravlennosti/kriterii-napravlennosti_clip_image001_0011.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Также имеются условный абсолютный минимум и условный относительный минимум, но в условиях постоянства давления и температуры.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Характеристические функции</title>
+      <link>//localhost:1313/fizicheskaya-himiya/termodinamicheskie-potencialy/harakteristicheskie-funkcii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/fizicheskaya-himiya/termodinamicheskie-potencialy/harakteristicheskie-funkcii/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Характеристическая функция&lt;/strong&gt; — такая термодинамическая функция, по изменению которой в определенных условиях можно судить о направленности самопроизвольного процесса и о достижении состояния равновесия, а производные различного порядка которых дают нам явно и наиболее просто другие термодинамические функции и параметры системы.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/clip_image001.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Изоэнтропийно-изохорические условия:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/clip_image001_0000.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Рассмотрим только обратимые процессы.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Докажем, что внутренняя энергия является характеристической функцией.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/clip_image001_0001.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Термодинамический вид уравнения полного дифференциала внутренней энергии:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/clip_image001_0002.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/clip_image001_0003.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/clip_image001_0004.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Термодинамическая система находится в состоянии истинного термодинамического равновесия при всех изменениях, совместимых с данными закрепленными значениями S и V, когда внутренняя энергия не уменьшается (либо остается постоянной, либо возрастает).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0000.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Первое уравнение Максвелла&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0001.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Таким образом, из приведенных выше рассуждений следует, что внутренняя энергия является характеристической функцией.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Докажем, что энтальпия является характеристической функцией.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0002.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Термодинамический вид полного дифференциала энтальпии:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0003.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0004.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0005.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Термодинамическая система находитя в состоянии истинного термодинамического равновесия при всех изменениях совместимых с данными закрепленными значениями S и p, когда энтальпия системы не уменьшается (либо H=const, либо энтальпия возрастает). Возрастание возможно в результате флуктуаций, где флуктуация — это такое изменение, которое не является термодинамическим процессом.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0006.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Второе уравнение Максвелла&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0007.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0008.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Энтальпия является характеристической функцией.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Докажем, что функция Гельмгольца является характеристической.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;То что функция Гельгольца удовлетворяет первой части определения характеристической функции мы уже показали в 1 параграфе. Рассмотри только обратимые процессы.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0009.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Термодинамический вид уравнения полного дифференциала для функции Гельмгольца:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0010.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0011.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0012.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Третье уравнение Максвелла&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0013.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0014.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Термодинамическая система, находится в состоянии истинного термодинамического равновесия при всех изменениях, совместимых с данными закрепленными значениями T и V, когда функция Гельмгольца не уменьшается (либо остается постоянной, либо возрастает).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. Докажем, что функция Гиббса является характеристической&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;То, что функция Гиббса удовлетворяет первой части определения характеристической функции мы показали в 1 параграфе.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0015.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Термодинамический вид уравнения полного дифференциала для функции Гиббса:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0016.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0017.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Четвертое уравнение Максвелла&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0018.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0019.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Термодинамическая система, находится в состоянии истинного термодинамического равновесия при всех изменениях, совместимых с данными закрепленными значениями T и p, когда функция Гиббса не уменьшается (либо остается постоянной, либо возрастает).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0020.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;pagination-nav__link&#34;&gt;🙏 Если вам нравится сайт, подпишитесь на наш &lt;a href=&#34;https://t.me/+JfpTv9CJlwQ0MThi&#34;&gt;🔗 Телеграм-канал&lt;/a&gt;.&lt;/div&gt;
+&lt;h2&gt;Cлучай открытой системы&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;cлучай-открытой-системы&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#c%d0%bb%d1%83%d1%87%d0%b0%d0%b9-%d0%be%d1%82%d0%ba%d1%80%d1%8b%d1%82%d0%be%d0%b9-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Не рассматриваем протекание химических реакций, т.е. состав может изменяться только механически: за счет обмена с окружающей средой.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0021.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Фундаментальные уравнения термодинамики:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0022.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0023.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;μi&lt;/strong&gt; — &lt;strong&gt;химический потенциал i-го компонента&lt;/strong&gt; — это изменение характеристической функции при внесении в систему бесконечно большого размера 1 моль i-го компонента в условиях закрепления её естественных переменных и постоянства состава.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0024.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Химический потенциал i-го компонента&lt;/strong&gt; — работа по обратимому внесению 1 моль i-го компонента в бесконечно большую систему в условиях либо изобарно-изотермических, либо изохорно-изотермических.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0025.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Если функция φ некоторая термодинамическая функция, то&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0026.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0027.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;μi — парциально мольное значение функции Гиббса по i-му компоненту (справедливо только для функции Гиббса).&lt;/p&gt;
+&lt;h2&gt;Cлучай закрытой системы, в которой изменение состава происходит за счет протекания химической реакции&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;cлучай-закрытой-системы-в-которой-изменение-состава-происходит-за-счет-протекания-химической-реакции&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#c%d0%bb%d1%83%d1%87%d0%b0%d0%b9-%d0%b7%d0%b0%d0%ba%d1%80%d1%8b%d1%82%d0%be%d0%b9-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d1%8b-%d0%b2-%d0%ba%d0%be%d1%82%d0%be%d1%80%d0%be%d0%b9-%d0%b8%d0%b7%d0%bc%d0%b5%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d1%81%d0%be%d1%81%d1%82%d0%b0%d0%b2%d0%b0-%d0%bf%d1%80%d0%be%d0%b8%d1%81%d1%85%d0%be%d0%b4%d0%b8%d1%82-%d0%b7%d0%b0-%d1%81%d1%87%d0%b5%d1%82-%d0%bf%d1%80%d0%be%d1%82%d0%b5%d0%ba%d0%b0%d0%bd%d0%b8%d1%8f-%d1%85%d0%b8%d0%bc%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b9-%d1%80%d0%b5%d0%b0%d0%ba%d1%86%d0%b8%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0028.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0029.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0030.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0031.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0032.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Одно из основных соотношений неравновесной термодинамики:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0033.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0034.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0035.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0036.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0037.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0038.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
