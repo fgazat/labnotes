@@ -279,7 +279,7 @@ $$
 
 Пример лабораторного синтеза полиамида-6-10 (нейлон, nylon):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RRnDGjzCzfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube RRnDGjzCzfs >}}
 
 Реакция:
 
@@ -291,7 +291,7 @@ $$
 
 Получение фенолформальдегидных смол:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OkR5clCdK-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube OkR5clCdK-Y >}}
 
 ## Источники
 
