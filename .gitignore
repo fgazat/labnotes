@@ -4,6 +4,11 @@
 # Production
 /build
 
+#hugo
+public/
+resources/
+.hugo_build.lock
+
 # Generated files
 .docusaurus
 .cache-loader
