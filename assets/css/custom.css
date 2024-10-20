@@ -11,8 +11,13 @@
   /* color: darkgray; */
 }
 
+.hextra-card svg {
+    width: 1.5rem;
+    color: #797979;
+    transition: color .3s ease;
+}
+
 .dark\:hover\:hx-text-gray-50:hover:is(html[class~='dark'] *) {
   --tw-text-opacity: 1;
   color: #ffffff;
 }
-
