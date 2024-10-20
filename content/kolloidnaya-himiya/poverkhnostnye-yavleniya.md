@@ -72,12 +72,11 @@ $$
 Работа по разделению равна
 
 $$
-\left.
-    \begin{array}{ccc}
-        A_1 = P_i\Delta V = P_iSd\\
-        A_2 = 2\sigma S
-    \end{array}
-\right\} \Longrightarrow P_i\cancel Sd = 2\sigma \cancel S \Longrightarrow 	
+\begin{array}{ccc}
+    A_1 = P_i\Delta V = P_iSd\\
+    A_2 = 2\sigma S
+\end{array}
+\Longrightarrow P_i\cancel Sd = 2\sigma \cancel S \Longrightarrow 	
 \fbox{$P_i=\frac{2\sigma}{d}$}
 $$
 
@@ -123,12 +122,11 @@ $$
 $\Delta P$ определяется радиусом кривизны поверхности. Выведем $\Delta P$:
 
 $$
-\left.
-    \begin{array}{ccc}
-        A = \Delta P_i dV\\
-        A = \sigma dS
-    \end{array}
-\right\} \Longrightarrow \Delta P_i dV = \sigma dS
+\begin{array}{ccc}
+    A = \Delta P_i dV\\
+    A = \sigma dS
+\end{array}
+\Longrightarrow \Delta P_i dV = \sigma dS
 $$
 
 Получим выражения $dV$ и $dS$
