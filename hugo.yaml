@@ -69,7 +69,7 @@ params:
 
   editURL:
     enable: true
-    base: 'https://github.com/fgazat/labnotes/edit/main'
+    base: 'https://github.com/fgazat/labnotes/edit/master/content'
 services:
   googleAnalytics:
     ID: G-CXYZWL70YN
