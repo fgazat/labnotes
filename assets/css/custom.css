@@ -7,7 +7,7 @@
 }
 
 .hx-text-gray-500 {
-  color: #767676;
+  color: black;
   /* color: darkgray; */
 }
 
@@ -15,3 +15,4 @@
   --tw-text-opacity: 1;
   color: #ffffff;
 }
+

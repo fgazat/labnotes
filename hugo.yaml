@@ -62,7 +62,6 @@ params:
       dark: /images/logo.svg
       link: /
       height: 20
-
   footer:
     displayCopyright: false
     displayPoweredBy: false
