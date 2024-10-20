@@ -65,7 +65,10 @@ params:
   footer:
     displayCopyright: false
     displayPoweredBy: false
-
+  theme:
+    # light | dark | system
+    default: light
+    displayToggle: false
   editURL:
     enable: true
     base: 'https://github.com/fgazat/labnotes/edit/master/content'
