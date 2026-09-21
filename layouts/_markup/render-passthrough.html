@@ -1,0 +1,14 @@
+{{- /*
+  Override of Hextra's passthrough hook: same build-time KaTeX rendering, but
+  with strict=ignore. The articles use Cyrillic subscripts, en-dashes etc. in
+  math mode, which KaTeX renders fine but rejects under the default strict=error.
+*/ -}}
+{{- $opts := dict "output" "htmlAndMathml" "displayMode" (eq .Type "block") "strict" "ignore" }}
+{{- with try (transform.ToMath .Inner $opts) }}
+  {{- with .Err }}
+    {{ errorf "Unable to render mathematical markup to HTML using the transform.ToMath function. The KaTeX display engine threw the following error: %s: see %s." . $.Position }}
+  {{- else }}
+    {{- .Value }}
+    {{- $.Page.Store.Set "hasMath" true }}
+  {{- end }}
+{{- end -}}

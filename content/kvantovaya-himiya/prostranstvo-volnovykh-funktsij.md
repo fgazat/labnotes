@@ -76,10 +76,10 @@ $$
 
 $$
 \begin{array}{ccc}
-    \int\limits_{\infin} \Psi_i^\*\Psi_id\tau = 1 \newline
-    \int\limits_{\infin} \Psi_i^\*\Psi_jd\tau = 0 
+    \int\limits_{\infin} \Psi_i^*\Psi_id\tau = 1 \newline
+    \int\limits_{\infin} \Psi_i^*\Psi_jd\tau = 0 
 \end{array}
-\Longrightarrow \int\limits_{-\infin}^{+\infin} \Psi^\*\Psi d\tau = \delta_{ij}, \text{где }\delta_{ij} =
+\Longrightarrow \int\limits_{-\infin}^{+\infin} \Psi^*\Psi d\tau = \delta_{ij}, \text{где }\delta_{ij} =
 \begin{cases}
     0, i\neq j \newline
     1, i = j \newline
@@ -104,27 +104,27 @@ $$
 Функция подчиняется условию нормировки:
 
 $$
-\int\limits_{-\infin}^{+\infin} \Psi^\*\Psi d\tau =
-\int\limits_{-\infin}^{+\infin}\sum\limits_iC_i\varphi_i^\* \cdot\sum\limits_iC_i\varphi_id\tau = 
-\int\limits_{-\infin}^{+\infin} \left(C_1\varphi_1^\*+C_2\varphi_2^\*+...\right)\left(C_1\varphi_1+C_2\varphi_2+...\right) = \newline
-\int\limits_{-\infin}^{+\infin} \left(C_1^2\varphi_1^\*\varphi_1 + C_1C_2\varphi_1^\*\varphi_2 + C_2\varphi_2^\*C_1\varphi_1 + C_2^2\varphi_2^\*\varphi_2 + ...\right) = 
-\int\limits_{-\infin}^{+\infin} \sum\limits_i\sum\limits_j C_iC_j\varphi_i^\*\varphi_j d\tau
+\int\limits_{-\infin}^{+\infin} \Psi^*\Psi d\tau =
+\int\limits_{-\infin}^{+\infin}\sum\limits_iC_i\varphi_i^* \cdot\sum\limits_iC_i\varphi_id\tau = 
+\int\limits_{-\infin}^{+\infin} \left(C_1\varphi_1^*+C_2\varphi_2^*+...\right)\left(C_1\varphi_1+C_2\varphi_2+...\right) = \newline
+\int\limits_{-\infin}^{+\infin} \left(C_1^2\varphi_1^*\varphi_1 + C_1C_2\varphi_1^*\varphi_2 + C_2\varphi_2^*C_1\varphi_1 + C_2^2\varphi_2^*\varphi_2 + ...\right) = 
+\int\limits_{-\infin}^{+\infin} \sum\limits_i\sum\limits_j C_iC_j\varphi_i^*\varphi_j d\tau
 $$
 
 При умножении вводится новый индекс $j$.
 
 $$
-\int\limits_{-\infin}^{+\infin} \sum\limits_i\sum\limits_j C_iC_j\varphi_i^\*\varphi_j d\tau = 
+\int\limits_{-\infin}^{+\infin} \sum\limits_i\sum\limits_j C_iC_j\varphi_i^*\varphi_j d\tau = 
 \underset{\substack{\newline\downarrow \newline\newline
     \text{интеграл суммы} \newline\newline
     \text{равен сумме интегралов}
 }}
-{\sum\limits_i\sum\limits_j \int\limits_{-\infin}^{+\infin} C_iC_j\varphi_i^\*\varphi_j d\tau } =
+{\sum\limits_i\sum\limits_j \int\limits_{-\infin}^{+\infin} C_iC_j\varphi_i^*\varphi_j d\tau } =
 \underset{\substack{\newline \downarrow \newline\newline
     \text{выносим постоянные} \newline\newline
     \text{за знак интегрирования}
 }}
-{{\sum\limits_i\sum\limits_j C_iC_j \int\limits_{-\infin}^{+\infin} \varphi_i^\*\varphi_j d\tau }}
+{{\sum\limits_i\sum\limits_j C_iC_j \int\limits_{-\infin}^{+\infin} \varphi_i^*\varphi_j d\tau }}
 $$
 
 При этом из условия ортонормированности 

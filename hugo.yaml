@@ -1,6 +1,10 @@
 title: Lab Notes
 
 module:
+  # Same version as HUGO_VERSION in .github/workflows/pages.yaml. Older releases
+  # fail on the build-time math (layouts/_markup/render-passthrough.html).
+  hugoVersion:
+    min: 0.166.0
   imports:
     - path: github.com/imfing/hextra
 
@@ -8,6 +12,15 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    extensions:
+      # Math is rendered at build time (Hextra >= 0.10, transform.ToMath), so
+      # LaTeX inside $...$ / $$...$$ must reach KaTeX untouched by Markdown.
+      # Only dollar delimiters: some articles use a literal \[ \] in plain text.
+      passthrough:
+        enable: true
+        delimiters:
+          block: [['$$', '$$']]
+          inline: [['$', '$']]
   highlight:
     noClasses: false
 defaultContentLanguage: ru
@@ -54,6 +67,12 @@ menu:
       weight: 3
 
 params:
+  math:
+    katex:
+      # Formulas are rendered at build time by the KaTeX embedded in Hugo; only
+      # the stylesheet and fonts are loaded by the browser. Keep this version in
+      # step with Hugo's embedded KaTeX (0.18.4 for the HUGO_VERSION in pages.yaml).
+      base: https://cdn.jsdelivr.net/npm/katex@0.18.4/dist
   navbar:
     displayTitle: true
     displayLogo: true
