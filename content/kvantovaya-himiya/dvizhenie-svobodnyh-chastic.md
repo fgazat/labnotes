@@ -122,11 +122,11 @@ $$
 Посчитаем что-нибудь для этой частицы, например импульс. Среднее значение физической величины находится с помощью ее оператора:
 
 $$
-p_x = \int \psi^\* \widehat{p}\_x \psi \\, d\tau
+p_x = \int \psi^* \widehat{p}_x \psi \, d\tau
 $$
 
 $$
-p = \int\limits_{-\infty}^{+\infty} C \exp\left( -i\frac{\sqrt{2mE}}{\hbar} x \right) (-i\hbar) \frac{d}{dx} \\, C \exp\left( i\frac{\sqrt{2mE}}{\hbar} x \right) dx
+p = \int\limits_{-\infty}^{+\infty} C \exp\left( -i\frac{\sqrt{2mE}}{\hbar} x \right) (-i\hbar) \frac{d}{dx} \, C \exp\left( i\frac{\sqrt{2mE}}{\hbar} x \right) dx
 $$
 
 Производная от волновой функции:
@@ -139,21 +139,21 @@ $$
 
 $$
 \begin{aligned}
-p &= \int\limits_{-\infty}^{+\infty} C \exp\left( -i\frac{\sqrt{2mE}}{\hbar} x \right) (-i\hbar) \cdot C \cdot i\frac{\sqrt{2mE}}{\hbar} \exp\left( i\frac{\sqrt{2mE}}{\hbar} x \right) dx = \\\\
-&= -i^2 \hbar \frac{\sqrt{2mE}}{\hbar} \\, C^2 \int\limits_{-\infty}^{+\infty} \underbrace{\exp\left( -i\frac{\sqrt{2mE}}{\hbar} x \right)}\_{f^\*} \cdot \underbrace{\exp\left( i\frac{\sqrt{2mE}}{\hbar} x \right)}\_{f} dx
+p &= \int\limits_{-\infty}^{+\infty} C \exp\left( -i\frac{\sqrt{2mE}}{\hbar} x \right) (-i\hbar) \cdot C \cdot i\frac{\sqrt{2mE}}{\hbar} \exp\left( i\frac{\sqrt{2mE}}{\hbar} x \right) dx = \\
+&= -i^2 \hbar \frac{\sqrt{2mE}}{\hbar} \, C^2 \int\limits_{-\infty}^{+\infty} \underbrace{\exp\left( -i\frac{\sqrt{2mE}}{\hbar} x \right)}_{f^*} \cdot \underbrace{\exp\left( i\frac{\sqrt{2mE}}{\hbar} x \right)}_{f} dx
 \end{aligned}
 $$
 
 $C$ — нормировочный множитель:
 
 $$
-C = \frac{1}{\sqrt{\int f^\* f \\, d\tau}} \qquad C^2 = \frac{1}{\int f^\* f \\, d\tau}
+C = \frac{1}{\sqrt{\int f^* f \, d\tau}} \qquad C^2 = \frac{1}{\int f^* f \, d\tau}
 $$
 
 Интегралы сокращаются:
 
 $$
-p = \sqrt{2mE} \cdot \frac{1}{\int f^\* f \\, d\tau} \cdot \int f^\* f \\, d\tau = \sqrt{2mE}
+p = \sqrt{2mE} \cdot \frac{1}{\int f^* f \, d\tau} \cdot \int f^* f \, d\tau = \sqrt{2mE}
 $$
 
 Получили **точное значение** импульса свободной частицы.
@@ -162,7 +162,7 @@ $$
 
 $$
 \begin{aligned}
-\psi^\*\psi &= C \exp\left( -i\frac{\sqrt{2mE}}{\hbar} x \right) \cdot C \exp\left( i\frac{\sqrt{2mE}}{\hbar} x \right) = \\\\
+\psi^*\psi &= C \exp\left( -i\frac{\sqrt{2mE}}{\hbar} x \right) \cdot C \exp\left( i\frac{\sqrt{2mE}}{\hbar} x \right) = \\
 &= C^2 \exp\left( -i\frac{\sqrt{2mE}}{\hbar} x + i\frac{\sqrt{2mE}}{\hbar} x \right) = C^2
 \end{aligned}
 $$

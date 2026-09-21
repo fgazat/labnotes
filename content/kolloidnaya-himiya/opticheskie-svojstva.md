@@ -18,8 +18,8 @@ math: true
 Но в зависимости от длины волны и размеров частиц преобладают определенные виды:
 
 $$
-\lambda << r \qquad \text{— преломление} \newline
-\lambda >> r \qquad \text{— пропускание} \newline
+\lambda \ll r \qquad \text{— преломление} \newline
+\lambda \gg r \qquad \text{— пропускание} \newline
 \lambda ≈ r \qquad \text{— поглощение и отражение} \newline
 $$
 

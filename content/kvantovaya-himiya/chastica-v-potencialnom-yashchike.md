@@ -28,8 +28,8 @@ $$
 
 $$
 \begin{cases}
-0 \le x \le a \\\\
-0 \le y \le b \\\\
+0 \le x \le a \\
+0 \le y \le b \\
 0 \le z \le c
 \end{cases}
 \qquad U = 0, \quad \psi \neq 0
@@ -39,8 +39,8 @@ $$
 
 $$
 \begin{cases}
-x > a, \ x < 0 \\\\
-y > b, \ y < 0 \\\\
+x > a, \ x < 0 \\
+y > b, \ y < 0 \\
 z > c, \ z < 0
 \end{cases}
 \qquad U = \infty, \quad \psi = 0
@@ -57,11 +57,11 @@ $$
 $$
 \left.
 \begin{aligned}
-x &= 0, \quad x = a \\\\
-y &= 0, \quad y = b \\\\
+x &= 0, \quad x = a \\
+y &= 0, \quad y = b \\
 z &= 0, \quad z = c
 \end{aligned}
-\right\\} \quad \psi = 0
+\right\} \quad \psi = 0
 $$
 
 ## Уравнение Шрёдингера
@@ -80,10 +80,10 @@ $$
 
 ## Разделение переменных
 
-Гамильтониан представляет собой сумму трех независимых частей, каждая из которых действует только на свою координату: $\widehat{H} = \widehat{H}\_x + \widehat{H}\_y + \widehat{H}\_z$. Смещения по осям $x$, $y$, $z$ не зависят друг от друга, поэтому функцию $\psi$ можно искать в виде произведения трех функций, каждая из которых зависит только от одной координаты:
+Гамильтониан представляет собой сумму трех независимых частей, каждая из которых действует только на свою координату: $\widehat{H} = \widehat{H}_x + \widehat{H}_y + \widehat{H}_z$. Смещения по осям $x$, $y$, $z$ не зависят друг от друга, поэтому функцию $\psi$ можно искать в виде произведения трех функций, каждая из которых зависит только от одной координаты:
 
 $$
-\psi = X(x) \\, Y(y) \\, Z(z)
+\psi = X(x) \, Y(y) \, Z(z)
 $$
 
 При прямолинейном движении декартовы координаты являются независимыми.
@@ -121,7 +121,7 @@ $$
 $$
 
 $$
-\frac{\hbar^2}{2m}\frac{1}{Z}\frac{d^2 Z}{dz^2} + E - E_x = -\frac{\hbar^2}{2m}\frac{1}{Y}\frac{d^2 Y}{dy^2} = \text{const}\_1 = E_y
+\frac{\hbar^2}{2m}\frac{1}{Z}\frac{d^2 Z}{dz^2} + E - E_x = -\frac{\hbar^2}{2m}\frac{1}{Y}\frac{d^2 Y}{dy^2} = \text{const}_1 = E_y
 $$
 
 **$y$-уравнение:**
@@ -182,7 +182,7 @@ $$
 
 $$
 \begin{aligned}
-X(0) &= C_1 \exp\left( i\frac{\sqrt{2mE_x}}{\hbar} \cdot 0 \right) + C_2 \exp\left( -i\frac{\sqrt{2mE_x}}{\hbar} \cdot 0 \right) = \\\\
+X(0) &= C_1 \exp\left( i\frac{\sqrt{2mE_x}}{\hbar} \cdot 0 \right) + C_2 \exp\left( -i\frac{\sqrt{2mE_x}}{\hbar} \cdot 0 \right) = \\
 &= C_1 + C_2 = 0 \quad \Rightarrow \quad C_1 = -C_2
 \end{aligned}
 $$
@@ -191,7 +191,7 @@ $$
 
 $$
 \begin{aligned}
-X(x) &= C \left( \exp\left( i\frac{\sqrt{2mE_x}}{\hbar} x \right) - \exp\left( -i\frac{\sqrt{2mE_x}}{\hbar} x \right) \right) = \\\\
+X(x) &= C \left( \exp\left( i\frac{\sqrt{2mE_x}}{\hbar} x \right) - \exp\left( -i\frac{\sqrt{2mE_x}}{\hbar} x \right) \right) = \\
 &= C \left( \cos\frac{\sqrt{2mE_x}}{\hbar}x + i\sin\frac{\sqrt{2mE_x}}{\hbar}x - \left( \cos\frac{\sqrt{2mE_x}}{\hbar}x - i\sin\frac{\sqrt{2mE_x}}{\hbar}x \right) \right)
 \end{aligned}
 $$
@@ -237,12 +237,12 @@ $$
 Вероятность найти частицу где-либо внутри ящика равна единице:
 
 $$
-\int\limits_0^a |X|^2 \\, dx = |A|^2 \int\limits_0^a \sin^2\frac{\pi n_x}{a}x \\, dx = |A|^2 \cdot \frac{a}{2} = 1 \quad \Rightarrow \quad |A| = \sqrt{\frac{2}{a}}
+\int\limits_0^a |X|^2 \, dx = |A|^2 \int\limits_0^a \sin^2\frac{\pi n_x}{a}x \, dx = |A|^2 \cdot \frac{a}{2} = 1 \quad \Rightarrow \quad |A| = \sqrt{\frac{2}{a}}
 $$
 
 Интеграл равен $\dfrac{a}{2}$ именно потому, что на длине ящика укладывается целое число полуволн, — поэтому нормировать функцию можно только после квантования.
 
-Условие нормировки определяет только модуль $A$. Множитель $i$, который был в $A = 2Ci$, — общий фазовый множитель: он не влияет на плотность вероятности $\psi^\*\psi$, поэтому $A$ выбирают действительным.
+Условие нормировки определяет только модуль $A$. Множитель $i$, который был в $A = 2Ci$, — общий фазовый множитель: он не влияет на плотность вероятности $\psi^*\psi$, поэтому $A$ выбирают действительным.
 
 $$
 X(x) = \sqrt{\frac{2}{a}} \sin\frac{\pi n_x}{a}x
