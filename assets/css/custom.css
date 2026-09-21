@@ -21,3 +21,10 @@
   --tw-text-opacity: 1;
   color: #ffffff;
 }
+
+/* Long formulas scroll inside their own box instead of making the whole page scroll sideways */
+.katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 2px 0;
+}
