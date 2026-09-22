@@ -1,0 +1,50 @@
+{{- /*
+  Structured data (schema.org JSON-LD) for search engines.
+  Hextra renders this partial at the end of <head>.
+  - every page: BreadcrumbList from the section ancestors
+  - articles:   TechArticle (dates come from enableGitInfo)
+  - home page:  WebSite
+*/ -}}
+{{- $site := site.Title -}}
+{{- $logo := "/images/logo.svg" | absURL -}}
+{{- $image := "" -}}
+{{- with partial "_funcs/get-page-images" . }}{{ with index . 0 }}{{ $image = .Permalink }}{{ end }}{{ end -}}
+{{- $publisher := dict "@type" "Organization" "name" $site "url" site.BaseURL "logo" (dict "@type" "ImageObject" "url" $logo) -}}
+{{- $graph := slice -}}
+
+{{- if .IsHome -}}
+  {{- $graph = $graph | append (dict
+      "@type" "WebSite"
+      "name" $site
+      "url" site.BaseURL
+      "description" (site.Params.description | plainify)
+      "inLanguage" site.Language.Lang
+      "publisher" $publisher) -}}
+{{- else -}}
+  {{- $crumbs := slice -}}
+  {{- range $i, $p := .Ancestors.Reverse -}}
+    {{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" (add $i 1) "name" ($p.Title | plainify) "item" $p.Permalink) -}}
+  {{- end -}}
+  {{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" (add (len .Ancestors) 1) "name" (.Title | plainify)) -}}
+  {{- $graph = $graph | append (dict "@type" "BreadcrumbList" "itemListElement" $crumbs) -}}
+
+  {{- if .IsPage -}}
+    {{- $article := dict
+        "@type" "TechArticle"
+        "headline" (.Title | plainify)
+        "description" (partial "utils/page-description.html" . | plainify)
+        "url" .Permalink
+        "mainEntityOfPage" .Permalink
+        "inLanguage" site.Language.Lang
+        "isAccessibleForFree" true
+        "author" $publisher
+        "publisher" $publisher -}}
+    {{- with .Section }}{{ $article = merge $article (dict "articleSection" (site.GetPage .).Title) }}{{ end -}}
+    {{- if $image }}{{ $article = merge $article (dict "image" $image) }}{{ end -}}
+    {{- if not .Lastmod.IsZero }}{{ $article = merge $article (dict "dateModified" (.Lastmod.Format "2006-01-02T15:04:05-07:00")) }}{{ end -}}
+    {{- if not .PublishDate.IsZero }}{{ $article = merge $article (dict "datePublished" (.PublishDate.Format "2006-01-02T15:04:05-07:00")) }}{{ end -}}
+    {{- $graph = $graph | append $article -}}
+  {{- end -}}
+{{- end -}}
+
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" $graph | jsonify | safeJS }}</script>
