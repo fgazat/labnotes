@@ -24,6 +24,9 @@ markup:
   highlight:
     noClasses: false
 defaultContentLanguage: ru
+# Page lastmod from the last commit that touched the file: feeds <lastmod> in
+# sitemap.xml, article:modified_time and dateModified in the JSON-LD.
+enableGitInfo: true
 menu:
   main:
     - name: ВМС
@@ -67,6 +70,11 @@ menu:
       weight: 3
 
 params:
+  description: Конспекты лекций по физической, квантовой и коллоидной химии и химии ВМС для студентов.
+  # Default Open Graph / Twitter image (link previews in Telegram etc.).
+  # A page can override it with its own `images:` front matter list.
+  images:
+    - /images/og-image.png
   math:
     katex:
       # Formulas are rendered at build time by the KaTeX embedded in Hugo; only
