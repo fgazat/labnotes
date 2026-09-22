@@ -29,3 +29,9 @@
 main a[class*="max-w-[50%]"] {
   overflow-wrap: anywhere;
 }
+
+/* Active sidebar item: keep normal weight. Hextra makes it semibold, which
+   widens the text and rewraps long titles when you move between pages. */
+.hextra-sidebar-active-item {
+  font-weight: inherit;
+}
