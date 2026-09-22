@@ -1,5 +1,6 @@
 ---
 title: Полимеризация
+description: "Полимеризация: радикальная, катионная, анионная, анионно-координационная и ступенчатая полимеризация, сополимеризация, способы проведения полимеризации."
 type: docs
 prev: vms/klassifikatsiya-polimerov/
 next: vms/polimerizaciya/radikalnaya-polimerizaciya/
