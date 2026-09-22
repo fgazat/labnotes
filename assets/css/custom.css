@@ -19,7 +19,13 @@
 
 /* Long formulas scroll inside their own box instead of making the whole page scroll sideways */
 .katex-display {
+  position: relative; /* contain the absolutely positioned .katex-mathml (build-time KaTeX) in the scroll box */
   overflow-x: auto;
   overflow-y: hidden;
   padding: 2px 0;
+}
+
+/* Prev/next links: let a long single word (e.g. «Многоэлектронные») break instead of pushing the chevron off-screen on phones */
+main a[class*="max-w-[50%]"] {
+  overflow-wrap: anywhere;
 }
