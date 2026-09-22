@@ -1,0 +1,14 @@
+{{- /*
+  Recursive list of a section's pages in sidebar order, each with its
+  description. Subsections render as nested lists. Used by the
+  `section-pages` shortcode on section index pages.
+*/ -}}
+<ul>
+{{- range .Pages }}
+  <li>
+    <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+    {{- with .Description }} — {{ . | plainify }}{{ end }}
+    {{- if .IsSection }}{{ partial "section-pages.html" . }}{{ end }}
+  </li>
+{{- end }}
+</ul>
