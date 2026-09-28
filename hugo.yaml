@@ -41,6 +41,9 @@ menu:
     - name: Коллоидная химия
       pageRef: /kolloidnaya-himiya/
       weight: 1
+    - name: Аналитическая химия
+      pageRef: /analiticheskaya-himiya/
+      weight: 1
     - name: Search
       weight: 4
       params:

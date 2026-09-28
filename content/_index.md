@@ -1,7 +1,7 @@
 ---
 title: Lab Notes
 toc: false
-description: Сайт с учебными материлами по химии вмс, квантовой химии, физической химии, коллоидной химии.
+description: Сайт с учебными материлами по химии вмс, квантовой химии, физической химии, коллоидной химии, аналитической химии.
 ---
 
 <br/>
@@ -26,5 +26,6 @@ description: Сайт с учебными материлами по химии �
   {{< card link="kolloidnaya-himiya/" title="Коллоидная химия" icon="beaker" >}}
   {{< card link="kvantovaya-himiya/" title="Квантовая химия" icon="status-online" >}}
   {{< card link="fizicheskaya-himiya/" title="Физическая химия" icon="sparkles" >}}
+  {{< card link="analiticheskaya-himiya/" title="Аналитическая химия" icon="scale" >}}
 {{< /cards >}}
 
