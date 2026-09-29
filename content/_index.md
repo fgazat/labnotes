@@ -27,5 +27,6 @@ description: Сайт с учебными материлами по химии �
   {{< card link="kvantovaya-himiya/" title="Квантовая химия" icon="status-online" >}}
   {{< card link="fizicheskaya-himiya/" title="Физическая химия" icon="sparkles" >}}
   {{< card link="analiticheskaya-himiya/" title="Аналитическая химия" icon="scale" >}}
+  {{< card link="himicheskaya-tehnologiya/" title="Химическая технология" icon="cog" >}}
 {{< /cards >}}
 
