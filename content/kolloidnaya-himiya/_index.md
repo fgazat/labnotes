@@ -13,7 +13,11 @@ type: docs
 - [молекулярно-кинетические свойства](molekulyarno-kineticheskie-svojstva/) — броуновское движение, диффузия, седиментационно-диффузионное равновесие и седиментационный анализ;
 - [поверхностные явления](poverkhnostnye-yavleniya/) — внутреннее давление, поверхностное натяжение, капиллярность — и [методы измерения поверхностного натяжения](metody-opredeleniya-poverkhnostnogo-natyazheniya/);
 - [особые свойства поверхности твёрдого тела](osobye-svojstva-poverhnosti-tverdogo-tela/);
-- [адсорбция](adsorbciya/), [теории адсорбции](teorii-adsorbcii/) (Лэнгмюр, Поляни, БЭТ) и [классификация сорбентов](klassifikatsiya-sorbentov/).
+- [адсорбция](adsorbciya/), [теории адсорбции](teorii-adsorbcii/) (Лэнгмюр, Поляни, БЭТ) и [классификация сорбентов](klassifikatsiya-sorbentov/);
+- [двойной электрический слой](dvojnoj-elektricheskij-sloj/) и электрокинетические явления, [ионообменная и гидролитическая адсорбция](ionoobmennaya-adsorbciya/);
+- [устойчивость коллоидных систем](ustojchivost/) и факторы стабилизации, [теория ДЛФО](teoriya-dlfo/) и [коагуляция](koagulyaciya/) электролитами;
+- [получение и очистка коллоидных систем](poluchenie-i-ochistka/) — диспергирование, конденсация, диализ;
+- [структурно-механические свойства и реология](strukturno-mekhanicheskie-svojstva/), [эмульсии](emulsii/) и [хроматография](hromatografiya/).
 
 ## Статьи раздела
 
