@@ -44,6 +44,9 @@ menu:
     - name: Аналитическая химия
       pageRef: /analiticheskaya-himiya/
       weight: 1
+    - name: Химическая технология
+      pageRef: /himicheskaya-tehnologiya/
+      weight: 1
     - name: Search
       weight: 4
       params:
