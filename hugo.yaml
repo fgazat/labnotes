@@ -30,7 +30,7 @@ enableGitInfo: true
 menu:
   main:
     - identifier: sections
-      name: Разделы
+      name: Химия
       weight: 1
     - name: Аналитическая химия
       parent: sections
