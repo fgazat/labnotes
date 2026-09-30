@@ -29,27 +29,37 @@ defaultContentLanguage: ru
 enableGitInfo: true
 menu:
   main:
-    - name: ВМС
-      pageRef: /vms/
-      weight: 1
-    - name: Физическая химия
-      pageRef: /fizicheskaya-himiya/
-      weight: 1
-    - name: Квантовая химия
-      pageRef: /kvantovaya-himiya/
-      weight: 1
-    - name: Коллоидная химия
-      pageRef: /kolloidnaya-himiya/
+    - identifier: sections
+      name: Разделы
       weight: 1
     - name: Аналитическая химия
+      parent: sections
       pageRef: /analiticheskaya-himiya/
       weight: 1
-    - name: Химическая технология
-      pageRef: /himicheskaya-tehnologiya/
-      weight: 1
+    - name: ВМС
+      parent: sections
+      pageRef: /vms/
+      weight: 2
+    - name: Квантовая химия
+      parent: sections
+      pageRef: /kvantovaya-himiya/
+      weight: 3
+    - name: Коллоидная химия
+      parent: sections
+      pageRef: /kolloidnaya-himiya/
+      weight: 4
     - name: Органическая химия
+      parent: sections
       pageRef: /organicheskaya-himiya/
-      weight: 1
+      weight: 5
+    - name: Физическая химия
+      parent: sections
+      pageRef: /fizicheskaya-himiya/
+      weight: 6
+    - name: Химическая технология
+      parent: sections
+      pageRef: /himicheskaya-tehnologiya/
+      weight: 7
     - name: Search
       weight: 4
       params:
