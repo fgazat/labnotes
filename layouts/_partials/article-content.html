@@ -1,0 +1,22 @@
+{{- /*
+  Article body with the site-wide promo blocks (texts in hugo.yaml → params.promo):
+  - subscribe: before the first <h2>, or after the content if the page has no <h2>;
+  - feedback:  after the content.
+  A page opts out with `promo: false` in its front matter.
+*/ -}}
+{{- $content := .Content -}}
+{{- if ne .Params.promo false -}}
+  {{- with site.Params.promo.subscribe -}}
+    {{- $block := printf `<div class="pagination-nav__link">%s</div>` . -}}
+    {{- if findRE `<h2[\s>]` $content 1 -}}
+      {{- $content = replaceRE `(<h2[\s>])` (printf "%s\n$1" $block) $content 1 -}}
+    {{- else -}}
+      {{- $content = printf "%s\n%s" $content $block -}}
+    {{- end -}}
+  {{- end -}}
+  {{- with site.Params.promo.feedback -}}
+    {{- $content = printf `%s
+<div class="pagination-nav__link promo-feedback">%s</div>` $content . -}}
+  {{- end -}}
+{{- end -}}
+{{- $content | safeHTML -}}

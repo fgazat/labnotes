@@ -7,9 +7,6 @@ weight: 2
 prev: vms/polimerizaciya/sposoby-provedeniya-polimerizatsii/
 --- 
 
-
-<div class="pagination-nav__link">🙏 Если вам нравится сайт, подпишитесь на наш <a href="https://t.me/+JfpTv9CJlwQ0MThi">🔗 Телеграм-канал</a>.</div>
-
 ## Полиэтилен (ПЭ)
 
 ![CH_2=CH_2 \rightarrow polyetilen](/images/vazhnejshie-polimery/polietilen.png)

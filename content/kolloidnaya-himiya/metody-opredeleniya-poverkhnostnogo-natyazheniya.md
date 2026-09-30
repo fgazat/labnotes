@@ -13,8 +13,6 @@ weight: 5
 
 ![](images/metody-opredeleniya-poverkhnostnogo-natyazheniya/surface_clip_image001_0023.png)
 
-<div class="pagination-nav__link">🙏 Если вам нравится сайт, подпишитесь на наш <a href="https://t.me/+JfpTv9CJlwQ0MThi">🔗 Телеграм-канал</a>.</div>
-
 ## Метод максимального давления пузырька (метод Ребиндера)
 
 ![](images/metody-opredeleniya-poverkhnostnogo-natyazheniya/surface_clip_image001_0024.png)

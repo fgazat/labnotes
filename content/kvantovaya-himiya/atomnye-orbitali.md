@@ -76,8 +76,6 @@ $$
 
 ![Орбиталь p_z: две доли вдоль оси z](images/atomnye-orbitali/2pz.png)
 
-<div class="pagination-nav__link">🙏 Если вам нравится сайт, подпишитесь на наш <a href="https://t.me/+JfpTv9CJlwQ0MThi">🔗 Телеграм-канал</a>.</div>
-
 При $m = \pm 1$ функции комплексные — они содержат множитель
 
 $$

@@ -79,8 +79,6 @@ BA = \begin{pmatrix} 6 & 7 & 11 \\ 7 & 6 & 9 \\ 9 & 9 & 14 \end{pmatrix}, \qquad
 AB - BA = \begin{pmatrix} 4 & 0 & -4 \\ 8 & 4 & 2 \\ 0 & -2 & -8 \end{pmatrix} \ne 0
 $$
 
-<div class="pagination-nav__link">🙏 Если вам нравится сайт, подпишитесь на наш <a href="https://t.me/+JfpTv9CJlwQ0MThi">🔗 Телеграм-канал</a>.</div>
-
 ## Матрицы: оператор и базис
 
 Возьмем базис из [нормированных функций](../normirovka-i-operatory/) на отрезке $[0;\, 2\pi]$ и оператор проекции момента импульса на ось вращения:
