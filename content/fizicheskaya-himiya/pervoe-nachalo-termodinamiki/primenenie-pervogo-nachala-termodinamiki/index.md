@@ -26,8 +26,6 @@ $$
 
 ![](0002.png)
 
-<div class="pagination-nav__link">🙏 Если вам нравится сайт, подпишитесь на наш <a href="https://t.me/+JfpTv9CJlwQ0MThi">🔗 Телеграм-канал</a>.</div>
-
 ## 2. Изобарный процесс (p = const)
 
 ![](izobarni.png)

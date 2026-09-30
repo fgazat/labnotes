@@ -48,14 +48,18 @@ menu:
       parent: sections
       pageRef: /kolloidnaya-himiya/
       weight: 4
+    - name: Органическая химия
+      parent: sections
+      pageRef: /organicheskaya-himiya/
+      weight: 5
     - name: Физическая химия
       parent: sections
       pageRef: /fizicheskaya-himiya/
-      weight: 5
+      weight: 6
     - name: Химическая технология
       parent: sections
       pageRef: /himicheskaya-tehnologiya/
-      weight: 6
+      weight: 7
     - name: Search
       weight: 4
       params:
@@ -111,6 +115,12 @@ params:
     # light | dark | system
     default: light
     displayToggle: false
+  # Blocks the docs layout adds to every article (layouts/_partials/article-content.html):
+  # `subscribe` goes right before the first `##` heading (or at the end if there is none),
+  # `feedback` goes at the end. A page opts out with `promo: false` in its front matter.
+  promo:
+    subscribe: '🙏 Если вам нравится сайт, подпишитесь на наш <a href="https://t.me/+JfpTv9CJlwQ0MThi">🔗 Телеграм-канал</a>.'
+    feedback: '✍️ Нашли опечатку или ошибку, есть предложение? Напишите нам в личные сообщения <a href="https://t.me/labnotesru">Телеграм-канала</a>.'
   editURL:
     enable: true
     base: 'https://github.com/fgazat/labnotes/edit/master/content'

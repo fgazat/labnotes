@@ -12,9 +12,6 @@ aliases:
 
 ![Катионная полимеризация](/images/kationnaya-polimerizaciya/kat_clip_image001.png)
 
-
-<div class="pagination-nav__link">🙏 Если вам нравится сайт, подпишитесь на наш <a href="https://t.me/+JfpTv9CJlwQ0MThi">🔗 Телеграм-канал</a>.</div>
-
 ## Катализаторы катионной полимеризации
 
 1. Протонные кислоты

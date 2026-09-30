@@ -38,3 +38,8 @@ main a[class*="max-w-[50%]"] {
 
 /* long single words in titles (e.g. «Электропроводность») must not widen the page on phones */
 main h1, main h2, main h3 { overflow-wrap: anywhere; }
+
+/* Feedback block the docs layout appends to every article (see params.promo in hugo.yaml) */
+.promo-feedback {
+  margin-top: 2rem;
+}

@@ -51,8 +51,6 @@ z_{\text{акт}} = z_0 \exp\left( -\frac{E}{RT} \right)
 = n_1 n_2 \underbrace{\sigma_{12}^2 \left[ 8 \pi k T \left( \frac{1}{m_1} + \frac{1}{m_2} \right) \right]^{1/2}}_{\text{const}} \exp\left( -\frac{E}{RT} \right)
 $$
 
-<div class="pagination-nav__link">🙏 Если вам нравится сайт, подпишитесь на наш <a href="https://t.me/+JfpTv9CJlwQ0MThi">🔗 Телеграм-канал</a>.</div>
-
 ### Константа скорости по ТАС
 
 Поделим $z$ на $N_A$ — перейдем от числа частиц к молям, т.е. к скорости реакции. Концентрации частиц и молярные концентрации связаны как $n_i = C_i N_A$ (с точностью до перевода см³ в литры), и

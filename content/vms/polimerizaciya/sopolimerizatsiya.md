@@ -46,9 +46,6 @@ aliases:
 
 ![](/images/sopolimerizaciya/sop_clip_image001_0007.png) ![](/images/sopolimerizaciya/sop_clip_image001_0008.png)
 
-
-<div class="pagination-nav__link">🙏 Если вам нравится сайт, подпишитесь на наш <a href="https://t.me/+JfpTv9CJlwQ0MThi">🔗 Телеграм-канал</a>.</div>
-
 ## "Схема Q - е" Алфрея – Прайса
 
 Учет полярных факторов был сделан в рамках полуэмпирической схемы, называемой схемой "Q-е", в которой принимают, что

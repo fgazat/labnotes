@@ -102,8 +102,6 @@ $$
 \ln \frac{1}{1 - \alpha} = k_1 \tau
 $$
 
-<div class="pagination-nav__link">🙏 Если вам нравится сайт, подпишитесь на наш <a href="https://t.me/+JfpTv9CJlwQ0MThi">🔗 Телеграм-канал</a>.</div>
-
 ## Реакция второго порядка
 
 $$

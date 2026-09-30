@@ -16,8 +16,6 @@ weight: 3
 
 ![классификация полимеров по составу](/images/klassifikatsiya-polimerov/1st_clip_image001.png)
 
-<div class="pagination-nav__link">🙏 Если вам нравится сайт, подпишитесь на наш <a href="https://t.me/+JfpTv9CJlwQ0MThi">🔗 Телеграм-канал</a>.</div>
-
 ## Классификация по химическому составу
 
 По составу полимеры делятся на:

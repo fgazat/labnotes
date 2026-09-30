@@ -80,8 +80,6 @@ $$
 \left[ \hat{M}_x, \hat{M}_y \right] = i\hbar \hat{M}_z
 $$
 
-<div class="pagination-nav__link">🙏 Если вам нравится сайт, подпишитесь на наш <a href="https://t.me/+JfpTv9CJlwQ0MThi">🔗 Телеграм-канал</a>.</div>
-
 Точно так же $\left[ \hat{M}_y, \hat{M}_z \right] f = \hat{M}_y \hat{M}_z f - \hat{M}_z \hat{M}_y f$:
 
 $$

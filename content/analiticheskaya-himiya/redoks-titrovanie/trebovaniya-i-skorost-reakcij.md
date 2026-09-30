@@ -93,8 +93,6 @@ $$
 6\mathrm{I^-} + \mathrm{Cr_2O_7^{2-}} + 14\mathrm{H^+} \longrightarrow 3\mathrm{I_2} + 2\mathrm{Cr^{3+}} + 7\mathrm{H_2O}
 $$
 
-<div class="pagination-nav__link">🙏 Если вам нравится сайт, подпишитесь на наш <a href="https://t.me/+JfpTv9CJlwQ0MThi">🔗 Телеграм-канал</a>.</div>
-
 ## Устойчивость раствора перманганата
 
 Потенциал пары $\mathrm{MnO_4^-/Mn^{2+}}$ выше, чем у пары кислород/вода:

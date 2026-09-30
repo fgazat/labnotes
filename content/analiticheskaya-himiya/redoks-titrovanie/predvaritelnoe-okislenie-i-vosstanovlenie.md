@@ -73,8 +73,6 @@ $$
 2\mathrm{H_2O_2} \xrightarrow{\ t^\circ\ } \mathrm{O_2} + 2\mathrm{H_2O}
 $$
 
-<div class="pagination-nav__link">🙏 Если вам нравится сайт, подпишитесь на наш <a href="https://t.me/+JfpTv9CJlwQ0MThi">🔗 Телеграм-канал</a>.</div>
-
 ## 2. Восстановители
 
 ### Летучие: $\mathrm{H_2S}$, $\mathrm{SO_2}$

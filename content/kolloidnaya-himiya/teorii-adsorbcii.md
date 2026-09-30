@@ -19,8 +19,6 @@ weight: 7
 
 ![](images/teorii-adsorbcii/theory_clip_image001.png)
 
-<div class="pagination-nav__link">🙏 Если вам нравится сайт, подпишитесь на наш <a href="https://t.me/+JfpTv9CJlwQ0MThi">🔗 Телеграм-канал</a>.</div>
-
 Уравнение адсорбции Лэнгмюра:
 
 ![Уравнение адсорбции Лэнгмюра](images/teorii-adsorbcii/theory_clip_image001_0006.png)

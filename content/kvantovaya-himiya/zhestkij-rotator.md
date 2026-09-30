@@ -110,8 +110,6 @@ $$
 \frac{\sin\theta}{T}\frac{d}{d\theta}\left( \sin\theta\frac{dT}{d\theta} \right) + \frac{2IE}{\hbar^2}\sin^2\theta = -\frac{1}{\Phi}\frac{d^2\Phi}{d\varphi^2} = \text{const} = m^2
 $$
 
-<div class="pagination-nav__link">🙏 Если вам нравится сайт, подпишитесь на наш <a href="https://t.me/+JfpTv9CJlwQ0MThi">🔗 Телеграм-канал</a>.</div>
-
 ## Φ-уравнение
 
 $$

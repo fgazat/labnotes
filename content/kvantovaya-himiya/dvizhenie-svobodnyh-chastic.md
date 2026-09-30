@@ -74,8 +74,6 @@ $$
 \psi = C \cdot \exp\left( \pm i\frac{\sqrt{2mE}}{\hbar} x \right)
 $$
 
-<div class="pagination-nav__link">🙏 Если вам нравится сайт, подпишитесь на наш <a href="https://t.me/+JfpTv9CJlwQ0MThi">🔗 Телеграм-канал</a>.</div>
-
 ## Проверка волновой функции
 
 Волновая функция должна быть непрерывной и конечной.
