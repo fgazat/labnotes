@@ -28,5 +28,6 @@ description: Сайт с учебными материлами по химии �
   {{< card link="fizicheskaya-himiya/" title="Физическая химия" icon="sparkles" >}}
   {{< card link="analiticheskaya-himiya/" title="Аналитическая химия" icon="scale" >}}
   {{< card link="himicheskaya-tehnologiya/" title="Химическая технология" icon="cog" >}}
+  {{< card link="organicheskaya-himiya/" title="Органическая химия" icon="cube-transparent" >}}
 {{< /cards >}}
 

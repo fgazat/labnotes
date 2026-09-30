@@ -47,6 +47,9 @@ menu:
     - name: Химическая технология
       pageRef: /himicheskaya-tehnologiya/
       weight: 1
+    - name: Органическая химия
+      pageRef: /organicheskaya-himiya/
+      weight: 1
     - name: Search
       weight: 4
       params:
