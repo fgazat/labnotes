@@ -54,8 +54,6 @@ $$
 \mathrm{SeO_2 + 2SO_2 + 2H_2O = Se\!\downarrow + 2H_2SO_4}
 $$
 
-<div class="pagination-nav__link">🙏 Если вам нравится сайт, подпишитесь на наш <a href="https://t.me/+JfpTv9CJlwQ0MThi">🔗 Телеграм-канал</a>.</div>
-
 ## II. Контактное окисление диоксида серы
 
 $$

@@ -106,9 +106,6 @@ type: docs
 
 ![](/images/harakteristicheskie-funkcii/harakteristicheskie-funkcii_clip_image001_0020.png)
 
-
-<div class="pagination-nav__link">🙏 Если вам нравится сайт, подпишитесь на наш <a href="https://t.me/+JfpTv9CJlwQ0MThi">🔗 Телеграм-канал</a>.</div>
-
 ## Cлучай открытой системы
 
 Не рассматриваем протекание химических реакций, т.е. состав может изменяться только механически: за счет обмена с окружающей средой.

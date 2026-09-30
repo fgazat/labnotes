@@ -53,8 +53,6 @@ U_{\text{от}} = \int_h^{\infty} \frac{2\varepsilon\varepsilon_0}{\delta^2}\,\z
 = \frac{2\varepsilon\varepsilon_0}{\delta}\,\zeta^2 e^{-h/\delta} .
 $$
 
-<div class="pagination-nav__link">🙏 Если вам нравится сайт, подпишитесь на наш <a href="https://t.me/+JfpTv9CJlwQ0MThi">🔗 Телеграм-канал</a>.</div>
-
 ## Энергия притяжения
 
 Молекулярное притяжение двух пластин:

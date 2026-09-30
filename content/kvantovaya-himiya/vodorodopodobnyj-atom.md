@@ -120,8 +120,6 @@ $$
 \psi(r, \theta, \varphi) = R(r)\,\underbrace{T(\theta)\,\Phi(\varphi)}_{Y_{l,m}(\theta,\varphi)} \equiv R(r)\,Y_{l,m}(\theta, \varphi)
 $$
 
-<div class="pagination-nav__link">🙏 Если вам нравится сайт, подпишитесь на наш <a href="https://t.me/+JfpTv9CJlwQ0MThi">🔗 Телеграм-канал</a>.</div>
-
 ## Радиальное уравнение
 
 $$
